@@ -1,0 +1,1568 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="graph" attr.name="strategy" attr.type="string"/>
+<key id="d0" for="graph" attr.name="name" attr.type="string"/>
+<graph edgedefault="undirected"><data key="d0">Parágrafo</data>
+<data key="d1">paragraph</data>
+<node id="ufrn">
+  <data key="d2">INSTITUICAO</data>
+</node>
+<node id="programa de pós-graduação em engenharia elétrica e de computação">
+  <data key="d2">INSTITUICAO</data>
+</node>
+<node id="am-dsb-sc">
+  <data key="d2">PROTOCOLO</data>
+</node>
+<node id="am-dsb-wc">
+  <data key="d2">PROTOCOLO</data>
+</node>
+<node id="inteligência artificial">
+  <data key="d2">METODO</data>
+</node>
+<node id="machine learning">
+  <data key="d2">METODO</data>
+</node>
+<node id="quantization">
+  <data key="d2">METODO</data>
+</node>
+<node id="quantização">
+  <data key="d2">METODO</data>
+</node>
+<node id="cnn">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="kernel">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="algoritmos">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="processamento paralelo">
+  <data key="d2">METODO</data>
+</node>
+<node id="rede neural">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="dnns">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="64apsk">
+  <data key="d2">PROTOCOLO</data>
+</node>
+<node id="deep learning">
+  <data key="d2">METODO</data>
+</node>
+<node id="sistemas embarcados">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="iot">
+  <data key="d2">PROTOCOLO</data>
+</node>
+<node id="programa de pós-graduação em engenharia">
+  <data key="d2">INSTITUICAO</data>
+</node>
+<node id="marcelo augusto costa fernandes">
+  <data key="d2">AUTOR</data>
+</node>
+<node id="centro de tecnologia">
+  <data key="d2">INSTITUICAO</data>
+</node>
+<node id="gisaid">
+  <data key="d2">EMPRESA</data>
+</node>
+<node id="mlp">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="cgr">
+  <data key="d2">METODO</data>
+</node>
+<node id="yin &amp; yau">
+  <data key="d2">AUTOR</data>
+</node>
+<node id="dft">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="divisão de serviços técnicos">
+  <data key="d2">INSTITUICAO</data>
+</node>
+<node id="capes">
+  <data key="d2">INSTITUICAO</data>
+</node>
+<node id="rede neural convolucional">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="k-mer">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="lstm">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="oms">
+  <data key="d2">EMPRESA</data>
+</node>
+<node id="pango">
+  <data key="d2">FRAMEWORK</data>
+</node>
+<node id="aprendizagem de máquina">
+  <data key="d2">METODO</data>
+</node>
+<node id="u-matrix">
+  <data key="d2">METODO</data>
+</node>
+<node id="pca">
+  <data key="d2">METODO</data>
+</node>
+<node id="acm">
+  <data key="d2">EMPRESA</data>
+</node>
+<node id="stacked sparse autoencoder">
+  <data key="d2">METODO</data>
+</node>
+<node id="fpga">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="linguagem de descrição de hardware">
+  <data key="d2">LANG</data>
+</node>
+<node id="hardware description language">
+  <data key="d2">LANG</data>
+</node>
+<node id="hauck &amp; dehon">
+  <data key="d2">AUTOR</data>
+</node>
+<node id="de souza &amp; fernandes">
+  <data key="d2">AUTOR</data>
+</node>
+<node id="gpu">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="dnn">
+  <data key="d2">METODO</data>
+</node>
+<node id="rtl">
+  <data key="d2">LANG</data>
+</node>
+<node id="vhdl">
+  <data key="d2">LANG</data>
+</node>
+<node id="xilinx">
+  <data key="d2">EMPRESA</data>
+</node>
+<node id="algoritmo genético">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="matlab">
+  <data key="d2">FRAMEWORK</data>
+</node>
+<node id="gpus">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="cpu">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="hls">
+  <data key="d2">LANG</data>
+</node>
+<node id="verilog">
+  <data key="d2">LANG</data>
+</node>
+<node id="azarian &amp; ahmadi">
+  <data key="d2">AUTOR</data>
+</node>
+<node id="cplds">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="asics">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="kuon &amp; rose">
+  <data key="d2">AUTOR</data>
+</node>
+<node id="altera">
+  <data key="d2">EMPRESA</data>
+</node>
+<node id="clb">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="lut">
+  <data key="d2">LANG</data>
+</node>
+<node id="hdl">
+  <data key="d2">LANG</data>
+</node>
+<node id="bioinformática">
+  <data key="d2">METODO</data>
+</node>
+<node id="pes">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="luts">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="q-learning">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="mahmood ahmadi">
+  <data key="d2">AUTOR</data>
+</node>
+<node id="ieee">
+  <data key="d2">EMPRESA</data>
+</node>
+<node id="matheus fernandes">
+  <data key="d2">AUTOR</data>
+</node>
+<node id="programa de pós-graduação em engenharia elétrica">
+  <data key="d2">INSTITUICAO</data>
+</node>
+<node id="genetic algorithms">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="genetic algorithm">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="field programmable gate arrays">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="hga">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="mengxu &amp; bin">
+  <data key="d2">AUTOR</data>
+</node>
+<node id="oliveira &amp; júnior">
+  <data key="d2">AUTOR</data>
+</node>
+<node id="oimga">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="c++">
+  <data key="d2">LANG</data>
+</node>
+<node id="merabti &amp; massicotte">
+  <data key="d2">AUTOR</data>
+</node>
+<node id="chen &amp; wu">
+  <data key="d2">AUTOR</data>
+</node>
+<node id="escola potiguar de computação e suas aplicações">
+  <data key="d2">INSTITUICAO</data>
+</node>
+<node id="matheus f. torquato">
+  <data key="d2">AUTOR</data>
+</node>
+<node id="lucileide m. d. da silva">
+  <data key="d2">AUTOR</data>
+</node>
+<node id="arquitetura">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="computação reconﬁgurável">
+  <data key="d2">METODO</data>
+</node>
+<node id="gpp">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="asic">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="computação reconfigurável">
+  <data key="d2">METODO</data>
+</node>
+<node id="virtex">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="charles darwin">
+  <data key="d2">AUTOR</data>
+</node>
+<node id="mfaj">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="mfa">
+  <data key="d2">FRAMEWORK</data>
+</node>
+<node id="msmux4j">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="msmux6j">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="msmux5j">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="módulo de sincronização">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="yoshida &amp; yasuoka">
+  <data key="d2">AUTOR</data>
+</node>
+<node id="mux">
+  <data key="d2">PROTOCOLO</data>
+</node>
+<node id="virtex 7">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="strsd-fpga">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="método de euler melhorado">
+  <data key="d2">METODO</data>
+</node>
+<node id="circuito rc">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="ml605">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="simulink">
+  <data key="d2">FRAMEWORK</data>
+</node>
+<node id="microprocessador">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="souza d. t.">
+  <data key="d2">AUTOR</data>
+</node>
+<node id="laplante phillip a.">
+  <data key="d2">AUTOR</data>
+</node>
+<node id="str">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="mcp">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="mgs">
+  <data key="d2">FRAMEWORK</data>
+</node>
+<node id="método de euler">
+  <data key="d2">METODO</data>
+</node>
+<node id="método de runge-kutta de ordem 3">
+  <data key="d2">METODO</data>
+</node>
+<node id="método de runge-kutta de ordem 4">
+  <data key="d2">METODO</data>
+</node>
+<node id="método de runge-kutta">
+  <data key="d2">METODO</data>
+</node>
+<node id="plataforma">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="programação linear">
+  <data key="d2">LANG</data>
+</node>
+<node id="programação estocástica">
+  <data key="d2">METODO</data>
+</node>
+<node id="linear programming">
+  <data key="d2">LANG</data>
+</node>
+<node id="cma">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="elcga">
+  <data key="d2">METODO</data>
+</node>
+<node id="4-qam">
+  <data key="d2">PROTOCOLO</data>
+</node>
+<node id="16-qam">
+  <data key="d2">PROTOCOLO</data>
+</node>
+<node id="hos">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="isi">
+  <data key="d2">INSTITUICAO</data>
+</node>
+<node id="awgn">
+  <data key="d2">FRAMEWORK</data>
+</node>
+<node id="programação linear estocástica">
+  <data key="d2">LANG</data>
+</node>
+<node id="elc-ga">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="mathworks">
+  <data key="d2">EMPRESA</data>
+</node>
+<node id="64-qam">
+  <data key="d2">PROTOCOLO</data>
+</node>
+<node id="sarsa">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="woehrle &amp; kirchner">
+  <data key="d2">AUTOR</data>
+</node>
+<node id="sram">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="algoritmo q-learning">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="md5">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="sha-1">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="hash">
+  <data key="d2">METODO</data>
+</node>
+<node id="intel galileo gen 2">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="atmega 2560">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="he &amp; xue">
+  <data key="d2">AUTOR</data>
+</node>
+<node id="carlos e. b. santos júnior">
+  <data key="d2">AUTOR</data>
+</node>
+<node id="algoritmo md5">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="intel">
+  <data key="d2">EMPRESA</data>
+</node>
+<node id="python">
+  <data key="d2">LANG</data>
+</node>
+<node id="spartan 6">
+  <data key="d2">FRAMEWORK</data>
+</node>
+<node id="artix 7">
+  <data key="d2">FRAMEWORK</data>
+</node>
+<node id="arduino">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="intel galileo">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="atmega2560">
+  <data key="d2">HARDWARE</data>
+</node>
+<node id="marcelo fernandes">
+  <data key="d2">AUTOR</data>
+</node>
+<node id="dpna-ga">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="tuncer &amp; yildirim">
+  <data key="d2">AUTOR</data>
+</node>
+<node id="samadi &amp; othman">
+  <data key="d2">AUTOR</data>
+</node>
+<node id="crossover">
+  <data key="d2">METODO</data>
+</node>
+<node id="mlp-ac">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="mlp-ad">
+  <data key="d2">FRAMEWORK</data>
+</node>
+<node id="mlp-q">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="lte">
+  <data key="d2">PROTOCOLO</data>
+</node>
+<node id="enb-mlp">
+  <data key="d2">PROTOCOLO</data>
+</node>
+<node id="enb-mlp-ec">
+  <data key="d2">ALGORITMO</data>
+</node>
+<node id="lte-lms">
+  <data key="d2">PROTOCOLO</data>
+</node>
+<node id="dfe-lms">
+  <data key="d2">PROTOCOLO</data>
+</node>
+<edge source="ufrn" target="programa de pós-graduação em engenharia elétrica e de computação">
+  <data key="d3">9</data>
+</edge>
+<edge source="ufrn" target="centro de tecnologia">
+  <data key="d3">10</data>
+</edge>
+<edge source="ufrn" target="marcelo augusto costa fernandes">
+  <data key="d3">9</data>
+</edge>
+<edge source="ufrn" target="divisão de serviços técnicos">
+  <data key="d3">3</data>
+</edge>
+<edge source="ufrn" target="capes">
+  <data key="d3">4</data>
+</edge>
+<edge source="ufrn" target="aprendizagem de máquina">
+  <data key="d3">1</data>
+</edge>
+<edge source="ufrn" target="fpga">
+  <data key="d3">10</data>
+</edge>
+<edge source="ufrn" target="matheus fernandes">
+  <data key="d3">2</data>
+</edge>
+<edge source="ufrn" target="programa de pós-graduação em engenharia elétrica">
+  <data key="d3">3</data>
+</edge>
+<edge source="ufrn" target="algoritmo genético">
+  <data key="d3">6</data>
+</edge>
+<edge source="ufrn" target="q-learning">
+  <data key="d3">2</data>
+</edge>
+<edge source="ufrn" target="md5">
+  <data key="d3">2</data>
+</edge>
+<edge source="ufrn" target="sha-1">
+  <data key="d3">2</data>
+</edge>
+<edge source="ufrn" target="marcelo fernandes">
+  <data key="d3">1</data>
+</edge>
+<edge source="programa de pós-graduação em engenharia elétrica e de computação" target="centro de tecnologia">
+  <data key="d3">4</data>
+</edge>
+<edge source="programa de pós-graduação em engenharia elétrica e de computação" target="marcelo augusto costa fernandes">
+  <data key="d3">3</data>
+</edge>
+<edge source="programa de pós-graduação em engenharia elétrica e de computação" target="algoritmo genético">
+  <data key="d3">2</data>
+</edge>
+<edge source="programa de pós-graduação em engenharia elétrica e de computação" target="md5">
+  <data key="d3">1</data>
+</edge>
+<edge source="programa de pós-graduação em engenharia elétrica e de computação" target="sha-1">
+  <data key="d3">1</data>
+</edge>
+<edge source="programa de pós-graduação em engenharia elétrica e de computação" target="dpna-ga">
+  <data key="d3">1</data>
+</edge>
+<edge source="am-dsb-sc" target="am-dsb-wc">
+  <data key="d3">3</data>
+</edge>
+<edge source="am-dsb-sc" target="64apsk">
+  <data key="d3">1</data>
+</edge>
+<edge source="am-dsb-wc" target="64apsk">
+  <data key="d3">1</data>
+</edge>
+<edge source="inteligência artificial" target="machine learning">
+  <data key="d3">1</data>
+</edge>
+<edge source="machine learning" target="gisaid">
+  <data key="d3">1</data>
+</edge>
+<edge source="machine learning" target="linguagem de descrição de hardware">
+  <data key="d3">1</data>
+</edge>
+<edge source="machine learning" target="hardware description language">
+  <data key="d3">1</data>
+</edge>
+<edge source="machine learning" target="deep learning">
+  <data key="d3">1</data>
+</edge>
+<edge source="quantization" target="quantização">
+  <data key="d3">1</data>
+</edge>
+<edge source="quantização" target="rede neural">
+  <data key="d3">1</data>
+</edge>
+<edge source="quantização" target="deep learning">
+  <data key="d3">1</data>
+</edge>
+<edge source="cnn" target="kernel">
+  <data key="d3">1</data>
+</edge>
+<edge source="cnn" target="dnns">
+  <data key="d3">1</data>
+</edge>
+<edge source="cnn" target="mlp">
+  <data key="d3">1</data>
+</edge>
+<edge source="cnn" target="k-mer">
+  <data key="d3">2</data>
+</edge>
+<edge source="cnn" target="lstm">
+  <data key="d3">1</data>
+</edge>
+<edge source="cnn" target="rede neural convolucional">
+  <data key="d3">1</data>
+</edge>
+<edge source="algoritmos" target="processamento paralelo">
+  <data key="d3">1</data>
+</edge>
+<edge source="algoritmos" target="simulink">
+  <data key="d3">1</data>
+</edge>
+<edge source="algoritmos" target="matlab">
+  <data key="d3">1</data>
+</edge>
+<edge source="algoritmos" target="algoritmo genético">
+  <data key="d3">1</data>
+</edge>
+<edge source="processamento paralelo" target="genetic algorithms">
+  <data key="d3">2</data>
+</edge>
+<edge source="processamento paralelo" target="fpga">
+  <data key="d3">2</data>
+</edge>
+<edge source="rede neural" target="stacked sparse autoencoder">
+  <data key="d3">1</data>
+</edge>
+<edge source="rede neural" target="marcelo augusto costa fernandes">
+  <data key="d3">1</data>
+</edge>
+<edge source="dnns" target="fpga">
+  <data key="d3">1</data>
+</edge>
+<edge source="dnns" target="gpus">
+  <data key="d3">1</data>
+</edge>
+<edge source="deep learning" target="rede neural convolucional">
+  <data key="d3">2</data>
+</edge>
+<edge source="deep learning" target="stacked sparse autoencoder">
+  <data key="d3">4</data>
+</edge>
+<edge source="deep learning" target="fpga">
+  <data key="d3">6</data>
+</edge>
+<edge source="deep learning" target="dnn">
+  <data key="d3">1</data>
+</edge>
+<edge source="deep learning" target="rtl">
+  <data key="d3">1</data>
+</edge>
+<edge source="deep learning" target="bioinformática">
+  <data key="d3">1</data>
+</edge>
+<edge source="deep learning" target="marcelo augusto costa fernandes">
+  <data key="d3">1</data>
+</edge>
+<edge source="sistemas embarcados" target="iot">
+  <data key="d3">1</data>
+</edge>
+<edge source="sistemas embarcados" target="fpga">
+  <data key="d3">2</data>
+</edge>
+<edge source="sistemas embarcados" target="laplante phillip a.">
+  <data key="d3">1</data>
+</edge>
+<edge source="programa de pós-graduação em engenharia" target="marcelo augusto costa fernandes">
+  <data key="d3">1</data>
+</edge>
+<edge source="marcelo augusto costa fernandes" target="centro de tecnologia">
+  <data key="d3">5</data>
+</edge>
+<edge source="marcelo augusto costa fernandes" target="stacked sparse autoencoder">
+  <data key="d3">1</data>
+</edge>
+<edge source="marcelo augusto costa fernandes" target="fpga">
+  <data key="d3">16</data>
+</edge>
+<edge source="marcelo augusto costa fernandes" target="programa de pós-graduação em engenharia elétrica">
+  <data key="d3">2</data>
+</edge>
+<edge source="marcelo augusto costa fernandes" target="algoritmo genético">
+  <data key="d3">4</data>
+</edge>
+<edge source="marcelo augusto costa fernandes" target="escola potiguar de computação e suas aplicações">
+  <data key="d3">4</data>
+</edge>
+<edge source="marcelo augusto costa fernandes" target="matheus f. torquato">
+  <data key="d3">7</data>
+</edge>
+<edge source="marcelo augusto costa fernandes" target="lucileide m. d. da silva">
+  <data key="d3">3</data>
+</edge>
+<edge source="marcelo augusto costa fernandes" target="programação linear">
+  <data key="d3">1</data>
+</edge>
+<edge source="marcelo augusto costa fernandes" target="programação estocástica">
+  <data key="d3">1</data>
+</edge>
+<edge source="marcelo augusto costa fernandes" target="q-learning">
+  <data key="d3">2</data>
+</edge>
+<edge source="marcelo augusto costa fernandes" target="carlos e. b. santos júnior">
+  <data key="d3">2</data>
+</edge>
+<edge source="marcelo augusto costa fernandes" target="algoritmo md5">
+  <data key="d3">1</data>
+</edge>
+<edge source="centro de tecnologia" target="programa de pós-graduação em engenharia elétrica">
+  <data key="d3">3</data>
+</edge>
+<edge source="centro de tecnologia" target="algoritmo genético">
+  <data key="d3">4</data>
+</edge>
+<edge source="centro de tecnologia" target="fpga">
+  <data key="d3">2</data>
+</edge>
+<edge source="mlp" target="mlp-q">
+  <data key="d3">1</data>
+</edge>
+<edge source="cgr" target="yin &amp; yau">
+  <data key="d3">1</data>
+</edge>
+<edge source="cgr" target="dft">
+  <data key="d3">4</data>
+</edge>
+<edge source="yin &amp; yau" target="dft">
+  <data key="d3">2</data>
+</edge>
+<edge source="capes" target="algoritmo genético">
+  <data key="d3">2</data>
+</edge>
+<edge source="k-mer" target="lstm">
+  <data key="d3">1</data>
+</edge>
+<edge source="oms" target="pango">
+  <data key="d3">1</data>
+</edge>
+<edge source="u-matrix" target="pca">
+  <data key="d3">2</data>
+</edge>
+<edge source="pca" target="acm">
+  <data key="d3">1</data>
+</edge>
+<edge source="acm" target="ieee">
+  <data key="d3">2</data>
+</edge>
+<edge source="stacked sparse autoencoder" target="fpga">
+  <data key="d3">3</data>
+</edge>
+<edge source="stacked sparse autoencoder" target="dnn">
+  <data key="d3">1</data>
+</edge>
+<edge source="stacked sparse autoencoder" target="rtl">
+  <data key="d3">1</data>
+</edge>
+<edge source="stacked sparse autoencoder" target="hls">
+  <data key="d3">1</data>
+</edge>
+<edge source="fpga" target="hauck &amp; dehon">
+  <data key="d3">6</data>
+</edge>
+<edge source="fpga" target="de souza &amp; fernandes">
+  <data key="d3">4</data>
+</edge>
+<edge source="fpga" target="gpu">
+  <data key="d3">4</data>
+</edge>
+<edge source="fpga" target="vhdl">
+  <data key="d3">4</data>
+</edge>
+<edge source="fpga" target="rtl">
+  <data key="d3">6</data>
+</edge>
+<edge source="fpga" target="xilinx">
+  <data key="d3">10</data>
+</edge>
+<edge source="fpga" target="algoritmo genético">
+  <data key="d3">44</data>
+</edge>
+<edge source="fpga" target="matlab">
+  <data key="d3">5</data>
+</edge>
+<edge source="fpga" target="gpus">
+  <data key="d3">2</data>
+</edge>
+<edge source="fpga" target="cpu">
+  <data key="d3">3</data>
+</edge>
+<edge source="fpga" target="hls">
+  <data key="d3">3</data>
+</edge>
+<edge source="fpga" target="verilog">
+  <data key="d3">3</data>
+</edge>
+<edge source="fpga" target="azarian &amp; ahmadi">
+  <data key="d3">3</data>
+</edge>
+<edge source="fpga" target="cplds">
+  <data key="d3">3</data>
+</edge>
+<edge source="fpga" target="asics">
+  <data key="d3">4</data>
+</edge>
+<edge source="fpga" target="kuon &amp; rose">
+  <data key="d3">5</data>
+</edge>
+<edge source="fpga" target="clb">
+  <data key="d3">3</data>
+</edge>
+<edge source="fpga" target="lut">
+  <data key="d3">1</data>
+</edge>
+<edge source="fpga" target="pes">
+  <data key="d3">1</data>
+</edge>
+<edge source="fpga" target="luts">
+  <data key="d3">6</data>
+</edge>
+<edge source="fpga" target="matheus fernandes">
+  <data key="d3">2</data>
+</edge>
+<edge source="fpga" target="programa de pós-graduação em engenharia elétrica">
+  <data key="d3">2</data>
+</edge>
+<edge source="fpga" target="genetic algorithms">
+  <data key="d3">2</data>
+</edge>
+<edge source="fpga" target="genetic algorithm">
+  <data key="d3">4</data>
+</edge>
+<edge source="fpga" target="field programmable gate arrays">
+  <data key="d3">4</data>
+</edge>
+<edge source="fpga" target="hga">
+  <data key="d3">4</data>
+</edge>
+<edge source="fpga" target="oliveira &amp; júnior">
+  <data key="d3">2</data>
+</edge>
+<edge source="fpga" target="c++">
+  <data key="d3">3</data>
+</edge>
+<edge source="fpga" target="merabti &amp; massicotte">
+  <data key="d3">2</data>
+</edge>
+<edge source="fpga" target="chen &amp; wu">
+  <data key="d3">2</data>
+</edge>
+<edge source="fpga" target="mengxu &amp; bin">
+  <data key="d3">2</data>
+</edge>
+<edge source="fpga" target="escola potiguar de computação e suas aplicações">
+  <data key="d3">4</data>
+</edge>
+<edge source="fpga" target="matheus f. torquato">
+  <data key="d3">7</data>
+</edge>
+<edge source="fpga" target="lucileide m. d. da silva">
+  <data key="d3">3</data>
+</edge>
+<edge source="fpga" target="computação reconﬁgurável">
+  <data key="d3">3</data>
+</edge>
+<edge source="fpga" target="asic">
+  <data key="d3">12</data>
+</edge>
+<edge source="fpga" target="computação reconfigurável">
+  <data key="d3">2</data>
+</edge>
+<edge source="fpga" target="yoshida &amp; yasuoka">
+  <data key="d3">4</data>
+</edge>
+<edge source="fpga" target="mux">
+  <data key="d3">2</data>
+</edge>
+<edge source="fpga" target="virtex 7">
+  <data key="d3">4</data>
+</edge>
+<edge source="fpga" target="mfa">
+  <data key="d3">2</data>
+</edge>
+<edge source="fpga" target="oimga">
+  <data key="d3">2</data>
+</edge>
+<edge source="fpga" target="q-learning">
+  <data key="d3">12</data>
+</edge>
+<edge source="fpga" target="strsd-fpga">
+  <data key="d3">3</data>
+</edge>
+<edge source="fpga" target="laplante phillip a.">
+  <data key="d3">1</data>
+</edge>
+<edge source="fpga" target="souza d. t.">
+  <data key="d3">1</data>
+</edge>
+<edge source="fpga" target="str">
+  <data key="d3">1</data>
+</edge>
+<edge source="fpga" target="mcp">
+  <data key="d3">2</data>
+</edge>
+<edge source="fpga" target="microprocessador">
+  <data key="d3">1</data>
+</edge>
+<edge source="fpga" target="woehrle &amp; kirchner">
+  <data key="d3">1</data>
+</edge>
+<edge source="fpga" target="sram">
+  <data key="d3">2</data>
+</edge>
+<edge source="fpga" target="hdl">
+  <data key="d3">2</data>
+</edge>
+<edge source="fpga" target="hardware description language">
+  <data key="d3">2</data>
+</edge>
+<edge source="fpga" target="bioinformática">
+  <data key="d3">1</data>
+</edge>
+<edge source="fpga" target="algoritmo q-learning">
+  <data key="d3">1</data>
+</edge>
+<edge source="fpga" target="md5">
+  <data key="d3">14</data>
+</edge>
+<edge source="fpga" target="hash">
+  <data key="d3">2</data>
+</edge>
+<edge source="fpga" target="sha-1">
+  <data key="d3">13</data>
+</edge>
+<edge source="fpga" target="he &amp; xue">
+  <data key="d3">1</data>
+</edge>
+<edge source="fpga" target="carlos e. b. santos júnior">
+  <data key="d3">1</data>
+</edge>
+<edge source="fpga" target="algoritmo md5">
+  <data key="d3">1</data>
+</edge>
+<edge source="fpga" target="python">
+  <data key="d3">1</data>
+</edge>
+<edge source="fpga" target="intel">
+  <data key="d3">3</data>
+</edge>
+<edge source="fpga" target="spartan 6">
+  <data key="d3">2</data>
+</edge>
+<edge source="fpga" target="artix 7">
+  <data key="d3">2</data>
+</edge>
+<edge source="fpga" target="arduino">
+  <data key="d3">1</data>
+</edge>
+<edge source="fpga" target="atmega 2560">
+  <data key="d3">1</data>
+</edge>
+<edge source="fpga" target="intel galileo">
+  <data key="d3">1</data>
+</edge>
+<edge source="fpga" target="atmega2560">
+  <data key="d3">2</data>
+</edge>
+<edge source="fpga" target="intel galileo gen 2">
+  <data key="d3">2</data>
+</edge>
+<edge source="fpga" target="marcelo fernandes">
+  <data key="d3">1</data>
+</edge>
+<edge source="linguagem de descrição de hardware" target="hardware description language">
+  <data key="d3">3</data>
+</edge>
+<edge source="hardware description language" target="hdl">
+  <data key="d3">4</data>
+</edge>
+<edge source="hardware description language" target="vhdl">
+  <data key="d3">1</data>
+</edge>
+<edge source="hardware description language" target="verilog">
+  <data key="d3">1</data>
+</edge>
+<edge source="hauck &amp; dehon" target="asics">
+  <data key="d3">1</data>
+</edge>
+<edge source="de souza &amp; fernandes" target="gpu">
+  <data key="d3">1</data>
+</edge>
+<edge source="de souza &amp; fernandes" target="rtl">
+  <data key="d3">1</data>
+</edge>
+<edge source="de souza &amp; fernandes" target="matlab">
+  <data key="d3">1</data>
+</edge>
+<edge source="de souza &amp; fernandes" target="asic">
+  <data key="d3">1</data>
+</edge>
+<edge source="gpu" target="cpu">
+  <data key="d3">2</data>
+</edge>
+<edge source="gpu" target="gpus">
+  <data key="d3">1</data>
+</edge>
+<edge source="dnn" target="pes">
+  <data key="d3">1</data>
+</edge>
+<edge source="dnn" target="rtl">
+  <data key="d3">1</data>
+</edge>
+<edge source="rtl" target="vhdl">
+  <data key="d3">1</data>
+</edge>
+<edge source="rtl" target="xilinx">
+  <data key="d3">1</data>
+</edge>
+<edge source="rtl" target="algoritmo genético">
+  <data key="d3">1</data>
+</edge>
+<edge source="rtl" target="hls">
+  <data key="d3">2</data>
+</edge>
+<edge source="rtl" target="matlab">
+  <data key="d3">1</data>
+</edge>
+<edge source="rtl" target="intel">
+  <data key="d3">1</data>
+</edge>
+<edge source="vhdl" target="xilinx">
+  <data key="d3">4</data>
+</edge>
+<edge source="vhdl" target="algoritmo genético">
+  <data key="d3">1</data>
+</edge>
+<edge source="vhdl" target="hdl">
+  <data key="d3">2</data>
+</edge>
+<edge source="vhdl" target="verilog">
+  <data key="d3">4</data>
+</edge>
+<edge source="vhdl" target="matlab">
+  <data key="d3">2</data>
+</edge>
+<edge source="vhdl" target="q-learning">
+  <data key="d3">1</data>
+</edge>
+<edge source="vhdl" target="sarsa">
+  <data key="d3">1</data>
+</edge>
+<edge source="xilinx" target="algoritmo genético">
+  <data key="d3">1</data>
+</edge>
+<edge source="xilinx" target="altera">
+  <data key="d3">1</data>
+</edge>
+<edge source="xilinx" target="lut">
+  <data key="d3">1</data>
+</edge>
+<edge source="xilinx" target="verilog">
+  <data key="d3">2</data>
+</edge>
+<edge source="xilinx" target="matlab">
+  <data key="d3">2</data>
+</edge>
+<edge source="xilinx" target="q-learning">
+  <data key="d3">2</data>
+</edge>
+<edge source="xilinx" target="md5">
+  <data key="d3">1</data>
+</edge>
+<edge source="xilinx" target="sha-1">
+  <data key="d3">2</data>
+</edge>
+<edge source="xilinx" target="intel">
+  <data key="d3">2</data>
+</edge>
+<edge source="xilinx" target="atmega2560">
+  <data key="d3">1</data>
+</edge>
+<edge source="xilinx" target="spartan 6">
+  <data key="d3">1</data>
+</edge>
+<edge source="xilinx" target="artix 7">
+  <data key="d3">1</data>
+</edge>
+<edge source="xilinx" target="intel galileo gen 2">
+  <data key="d3">1</data>
+</edge>
+<edge source="algoritmo genético" target="programa de pós-graduação em engenharia elétrica">
+  <data key="d3">2</data>
+</edge>
+<edge source="algoritmo genético" target="bioinformática">
+  <data key="d3">2</data>
+</edge>
+<edge source="algoritmo genético" target="hga">
+  <data key="d3">4</data>
+</edge>
+<edge source="algoritmo genético" target="oliveira &amp; júnior">
+  <data key="d3">2</data>
+</edge>
+<edge source="algoritmo genético" target="c++">
+  <data key="d3">2</data>
+</edge>
+<edge source="algoritmo genético" target="merabti &amp; massicotte">
+  <data key="d3">2</data>
+</edge>
+<edge source="algoritmo genético" target="chen &amp; wu">
+  <data key="d3">4</data>
+</edge>
+<edge source="algoritmo genético" target="arquitetura">
+  <data key="d3">2</data>
+</edge>
+<edge source="algoritmo genético" target="charles darwin">
+  <data key="d3">4</data>
+</edge>
+<edge source="algoritmo genético" target="módulo de sincronização">
+  <data key="d3">2</data>
+</edge>
+<edge source="algoritmo genético" target="mfa">
+  <data key="d3">2</data>
+</edge>
+<edge source="algoritmo genético" target="luts">
+  <data key="d3">2</data>
+</edge>
+<edge source="algoritmo genético" target="linear programming">
+  <data key="d3">1</data>
+</edge>
+<edge source="algoritmo genético" target="genetic algorithms">
+  <data key="d3">1</data>
+</edge>
+<edge source="algoritmo genético" target="programação linear">
+  <data key="d3">2</data>
+</edge>
+<edge source="algoritmo genético" target="programação estocástica">
+  <data key="d3">1</data>
+</edge>
+<edge source="algoritmo genético" target="cma">
+  <data key="d3">1</data>
+</edge>
+<edge source="algoritmo genético" target="elc-ga">
+  <data key="d3">1</data>
+</edge>
+<edge source="algoritmo genético" target="matlab">
+  <data key="d3">3</data>
+</edge>
+<edge source="algoritmo genético" target="mathworks">
+  <data key="d3">1</data>
+</edge>
+<edge source="algoritmo genético" target="crossover">
+  <data key="d3">1</data>
+</edge>
+<edge source="algoritmo genético" target="dpna-ga">
+  <data key="d3">1</data>
+</edge>
+<edge source="matlab" target="verilog">
+  <data key="d3">2</data>
+</edge>
+<edge source="matlab" target="simulink">
+  <data key="d3">7</data>
+</edge>
+<edge source="matlab" target="strsd-fpga">
+  <data key="d3">1</data>
+</edge>
+<edge source="matlab" target="mathworks">
+  <data key="d3">1</data>
+</edge>
+<edge source="matlab" target="64-qam">
+  <data key="d3">1</data>
+</edge>
+<edge source="matlab" target="4-qam">
+  <data key="d3">1</data>
+</edge>
+<edge source="matlab" target="16-qam">
+  <data key="d3">1</data>
+</edge>
+<edge source="matlab" target="md5">
+  <data key="d3">1</data>
+</edge>
+<edge source="matlab" target="sha-1">
+  <data key="d3">1</data>
+</edge>
+<edge source="hls" target="verilog">
+  <data key="d3">1</data>
+</edge>
+<edge source="verilog" target="hdl">
+  <data key="d3">2</data>
+</edge>
+<edge source="azarian &amp; ahmadi" target="cplds">
+  <data key="d3">1</data>
+</edge>
+<edge source="azarian &amp; ahmadi" target="computação reconﬁgurável">
+  <data key="d3">2</data>
+</edge>
+<edge source="asics" target="kuon &amp; rose">
+  <data key="d3">2</data>
+</edge>
+<edge source="asics" target="bioinformática">
+  <data key="d3">1</data>
+</edge>
+<edge source="kuon &amp; rose" target="asic">
+  <data key="d3">2</data>
+</edge>
+<edge source="kuon &amp; rose" target="microprocessador">
+  <data key="d3">1</data>
+</edge>
+<edge source="kuon &amp; rose" target="bioinformática">
+  <data key="d3">1</data>
+</edge>
+<edge source="clb" target="lut">
+  <data key="d3">2</data>
+</edge>
+<edge source="lut" target="luts">
+  <data key="d3">2</data>
+</edge>
+<edge source="q-learning" target="mahmood ahmadi">
+  <data key="d3">1</data>
+</edge>
+<edge source="q-learning" target="ieee">
+  <data key="d3">1</data>
+</edge>
+<edge source="q-learning" target="sarsa">
+  <data key="d3">1</data>
+</edge>
+<edge source="q-learning" target="lucileide m. d. da silva">
+  <data key="d3">1</data>
+</edge>
+<edge source="q-learning" target="escola potiguar de computação e suas aplicações">
+  <data key="d3">1</data>
+</edge>
+<edge source="q-learning" target="matheus f. torquato">
+  <data key="d3">1</data>
+</edge>
+<edge source="mahmood ahmadi" target="ieee">
+  <data key="d3">3</data>
+</edge>
+<edge source="ieee" target="genetic algorithm">
+  <data key="d3">2</data>
+</edge>
+<edge source="ieee" target="linear programming">
+  <data key="d3">1</data>
+</edge>
+<edge source="genetic algorithms" target="linear programming">
+  <data key="d3">2</data>
+</edge>
+<edge source="genetic algorithms" target="programação linear">
+  <data key="d3">1</data>
+</edge>
+<edge source="genetic algorithms" target="programação estocástica">
+  <data key="d3">1</data>
+</edge>
+<edge source="genetic algorithms" target="genetic algorithm">
+  <data key="d3">1</data>
+</edge>
+<edge source="mengxu &amp; bin" target="oliveira &amp; júnior">
+  <data key="d3">2</data>
+</edge>
+<edge source="mengxu &amp; bin" target="oimga">
+  <data key="d3">2</data>
+</edge>
+<edge source="oliveira &amp; júnior" target="oimga">
+  <data key="d3">2</data>
+</edge>
+<edge source="oliveira &amp; júnior" target="c++">
+  <data key="d3">2</data>
+</edge>
+<edge source="c++" target="intel">
+  <data key="d3">1</data>
+</edge>
+<edge source="merabti &amp; massicotte" target="chen &amp; wu">
+  <data key="d3">2</data>
+</edge>
+<edge source="escola potiguar de computação e suas aplicações" target="matheus f. torquato">
+  <data key="d3">3</data>
+</edge>
+<edge source="escola potiguar de computação e suas aplicações" target="lucileide m. d. da silva">
+  <data key="d3">1</data>
+</edge>
+<edge source="escola potiguar de computação e suas aplicações" target="carlos e. b. santos júnior">
+  <data key="d3">1</data>
+</edge>
+<edge source="escola potiguar de computação e suas aplicações" target="algoritmo md5">
+  <data key="d3">1</data>
+</edge>
+<edge source="matheus f. torquato" target="lucileide m. d. da silva">
+  <data key="d3">3</data>
+</edge>
+<edge source="computação reconﬁgurável" target="asic">
+  <data key="d3">1</data>
+</edge>
+<edge source="gpp" target="asic">
+  <data key="d3">2</data>
+</edge>
+<edge source="gpp" target="md5">
+  <data key="d3">1</data>
+</edge>
+<edge source="gpp" target="sha-1">
+  <data key="d3">1</data>
+</edge>
+<edge source="asic" target="computação reconfigurável">
+  <data key="d3">2</data>
+</edge>
+<edge source="asic" target="microprocessador">
+  <data key="d3">1</data>
+</edge>
+<edge source="computação reconfigurável" target="virtex">
+  <data key="d3">2</data>
+</edge>
+<edge source="mfaj" target="mfa">
+  <data key="d3">2</data>
+</edge>
+<edge source="mfa" target="yoshida &amp; yasuoka">
+  <data key="d3">2</data>
+</edge>
+<edge source="msmux4j" target="msmux6j">
+  <data key="d3">2</data>
+</edge>
+<edge source="msmux4j" target="msmux5j">
+  <data key="d3">4</data>
+</edge>
+<edge source="msmux4j" target="mux">
+  <data key="d3">2</data>
+</edge>
+<edge source="msmux6j" target="msmux5j">
+  <data key="d3">2</data>
+</edge>
+<edge source="msmux5j" target="mux">
+  <data key="d3">2</data>
+</edge>
+<edge source="mux" target="virtex 7">
+  <data key="d3">2</data>
+</edge>
+<edge source="strsd-fpga" target="método de euler">
+  <data key="d3">4</data>
+</edge>
+<edge source="strsd-fpga" target="método de euler melhorado">
+  <data key="d3">2</data>
+</edge>
+<edge source="strsd-fpga" target="método de runge-kutta">
+  <data key="d3">4</data>
+</edge>
+<edge source="strsd-fpga" target="mcp">
+  <data key="d3">1</data>
+</edge>
+<edge source="método de euler melhorado" target="circuito rc">
+  <data key="d3">1</data>
+</edge>
+<edge source="método de euler melhorado" target="ml605">
+  <data key="d3">1</data>
+</edge>
+<edge source="método de euler melhorado" target="método de euler">
+  <data key="d3">6</data>
+</edge>
+<edge source="método de euler melhorado" target="método de runge-kutta">
+  <data key="d3">4</data>
+</edge>
+<edge source="circuito rc" target="ml605">
+  <data key="d3">2</data>
+</edge>
+<edge source="microprocessador" target="souza d. t.">
+  <data key="d3">1</data>
+</edge>
+<edge source="mcp" target="mgs">
+  <data key="d3">2</data>
+</edge>
+<edge source="método de euler" target="método de runge-kutta">
+  <data key="d3">8</data>
+</edge>
+<edge source="método de euler" target="plataforma">
+  <data key="d3">1</data>
+</edge>
+<edge source="método de runge-kutta de ordem 3" target="método de runge-kutta de ordem 4">
+  <data key="d3">1</data>
+</edge>
+<edge source="programação linear" target="programação estocástica">
+  <data key="d3">2</data>
+</edge>
+<edge source="programação linear" target="linear programming">
+  <data key="d3">1</data>
+</edge>
+<edge source="programação linear" target="cma">
+  <data key="d3">1</data>
+</edge>
+<edge source="programação linear" target="isi">
+  <data key="d3">1</data>
+</edge>
+<edge source="programação estocástica" target="linear programming">
+  <data key="d3">1</data>
+</edge>
+<edge source="programação estocástica" target="programação linear estocástica">
+  <data key="d3">1</data>
+</edge>
+<edge source="cma" target="elcga">
+  <data key="d3">3</data>
+</edge>
+<edge source="cma" target="hos">
+  <data key="d3">1</data>
+</edge>
+<edge source="cma" target="isi">
+  <data key="d3">1</data>
+</edge>
+<edge source="cma" target="elc-ga">
+  <data key="d3">5</data>
+</edge>
+<edge source="cma" target="64-qam">
+  <data key="d3">3</data>
+</edge>
+<edge source="cma" target="4-qam">
+  <data key="d3">1</data>
+</edge>
+<edge source="cma" target="16-qam">
+  <data key="d3">1</data>
+</edge>
+<edge source="elcga" target="64-qam">
+  <data key="d3">1</data>
+</edge>
+<edge source="elcga" target="4-qam">
+  <data key="d3">1</data>
+</edge>
+<edge source="elcga" target="16-qam">
+  <data key="d3">1</data>
+</edge>
+<edge source="elcga" target="elc-ga">
+  <data key="d3">1</data>
+</edge>
+<edge source="4-qam" target="16-qam">
+  <data key="d3">5</data>
+</edge>
+<edge source="4-qam" target="64-qam">
+  <data key="d3">3</data>
+</edge>
+<edge source="4-qam" target="elc-ga">
+  <data key="d3">1</data>
+</edge>
+<edge source="4-qam" target="lte">
+  <data key="d3">1</data>
+</edge>
+<edge source="4-qam" target="enb-mlp">
+  <data key="d3">1</data>
+</edge>
+<edge source="16-qam" target="64-qam">
+  <data key="d3">4</data>
+</edge>
+<edge source="16-qam" target="elc-ga">
+  <data key="d3">2</data>
+</edge>
+<edge source="isi" target="awgn">
+  <data key="d3">1</data>
+</edge>
+<edge source="elc-ga" target="64-qam">
+  <data key="d3">3</data>
+</edge>
+<edge source="md5" target="sha-1">
+  <data key="d3">33</data>
+</edge>
+<edge source="md5" target="hash">
+  <data key="d3">2</data>
+</edge>
+<edge source="md5" target="intel galileo gen 2">
+  <data key="d3">2</data>
+</edge>
+<edge source="md5" target="atmega 2560">
+  <data key="d3">2</data>
+</edge>
+<edge source="md5" target="he &amp; xue">
+  <data key="d3">1</data>
+</edge>
+<edge source="md5" target="artix 7">
+  <data key="d3">1</data>
+</edge>
+<edge source="md5" target="spartan 6">
+  <data key="d3">2</data>
+</edge>
+<edge source="sha-1" target="hash">
+  <data key="d3">2</data>
+</edge>
+<edge source="sha-1" target="intel galileo gen 2">
+  <data key="d3">2</data>
+</edge>
+<edge source="sha-1" target="atmega 2560">
+  <data key="d3">2</data>
+</edge>
+<edge source="sha-1" target="artix 7">
+  <data key="d3">1</data>
+</edge>
+<edge source="sha-1" target="spartan 6">
+  <data key="d3">2</data>
+</edge>
+<edge source="intel galileo gen 2" target="atmega 2560">
+  <data key="d3">2</data>
+</edge>
+<edge source="intel galileo gen 2" target="atmega2560">
+  <data key="d3">2</data>
+</edge>
+<edge source="intel galileo gen 2" target="spartan 6">
+  <data key="d3">1</data>
+</edge>
+<edge source="intel galileo gen 2" target="artix 7">
+  <data key="d3">1</data>
+</edge>
+<edge source="atmega 2560" target="intel galileo">
+  <data key="d3">1</data>
+</edge>
+<edge source="carlos e. b. santos júnior" target="algoritmo md5">
+  <data key="d3">1</data>
+</edge>
+<edge source="spartan 6" target="artix 7">
+  <data key="d3">3</data>
+</edge>
+<edge source="spartan 6" target="atmega2560">
+  <data key="d3">1</data>
+</edge>
+<edge source="artix 7" target="atmega2560">
+  <data key="d3">1</data>
+</edge>
+<edge source="dpna-ga" target="tuncer &amp; yildirim">
+  <data key="d3">4</data>
+</edge>
+<edge source="tuncer &amp; yildirim" target="samadi &amp; othman">
+  <data key="d3">1</data>
+</edge>
+<edge source="mlp-ac" target="mlp-ad">
+  <data key="d3">6</data>
+</edge>
+<edge source="mlp-ac" target="enb-mlp-ec">
+  <data key="d3">3</data>
+</edge>
+<edge source="mlp-ac" target="enb-mlp">
+  <data key="d3">3</data>
+</edge>
+<edge source="mlp-ac" target="dfe-lms">
+  <data key="d3">1</data>
+</edge>
+<edge source="mlp-ac" target="lte-lms">
+  <data key="d3">1</data>
+</edge>
+<edge source="mlp-ad" target="enb-mlp-ec">
+  <data key="d3">5</data>
+</edge>
+<edge source="mlp-ad" target="enb-mlp">
+  <data key="d3">3</data>
+</edge>
+<edge source="mlp-ad" target="dfe-lms">
+  <data key="d3">1</data>
+</edge>
+<edge source="mlp-ad" target="lte-lms">
+  <data key="d3">1</data>
+</edge>
+<edge source="mlp-q" target="enb-mlp">
+  <data key="d3">1</data>
+</edge>
+<edge source="lte" target="enb-mlp">
+  <data key="d3">1</data>
+</edge>
+<edge source="enb-mlp" target="enb-mlp-ec">
+  <data key="d3">5</data>
+</edge>
+<edge source="enb-mlp" target="dfe-lms">
+  <data key="d3">1</data>
+</edge>
+<edge source="enb-mlp" target="lte-lms">
+  <data key="d3">1</data>
+</edge>
+<edge source="enb-mlp-ec" target="dfe-lms">
+  <data key="d3">1</data>
+</edge>
+<edge source="enb-mlp-ec" target="lte-lms">
+  <data key="d3">1</data>
+</edge>
+<edge source="lte-lms" target="dfe-lms">
+  <data key="d3">3</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,4 @@
+﻿Estratégia,Nós (N),Arestas (E),Densidade,Grau médio ⟨k⟩,Componentes,GCC (nós),Diâmetro GCC,Dist. média GCC,Clustering médio,Triângulos
+Parágrafo,161,359,0.027873,4.46,5,151,9,3.1709,0.5153,312
+Sentença,179,739,0.046388,8.257,3,174,7,2.6695,0.53437,1317
+k-chars,192,1184,0.064572,12.333,2,189,6,2.3726,0.66244,3327

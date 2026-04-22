@@ -1,0 +1,2459 @@
+﻿text,text_norm,label,label_full,score,chunk_idx,tese_id
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9813,0,01
+Programa de Pós-Graduação em Engenharia Elétrica e de Computação,programa de pós-graduação em engenharia elétrica e de computação,INSTITUICAO,instituição de ensino ou pesquisa,0.534,2,01
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.8565,2,01
+quantização,quantização,METODO,método ou técnica computacional,0.5428,5,01
+quantização,quantização,METODO,método ou técnica computacional,0.522,5,01
+DNNs,dnns,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4227,7,01
+quantization,quantization,METODO,método ou técnica computacional,0.8466,8,01
+quantization,quantization,METODO,método ou técnica computacional,0.8272,8,01
+Deep learning,deep learning,METODO,método ou técnica computacional,0.6455,10,01
+64APSK,64apsk,METODO,método ou técnica computacional,0.6187,22,01
+AM-DSB-SC,am-dsb-sc,PROTOCOLO,protocolo ou padrão de comunicação,0.7974,23,01
+AM-DSB-WC,am-dsb-wc,PROTOCOLO,protocolo ou padrão de comunicação,0.7622,23,01
+Inteligência Artificial,inteligência artificial,METODO,método ou técnica computacional,0.5727,27,01
+machine learning,machine learning,METODO,método ou técnica computacional,0.5799,27,01
+quantização,quantização,METODO,método ou técnica computacional,0.513,46,01
+quantização,quantização,METODO,método ou técnica computacional,0.7926,54,01
+quantization,quantization,METODO,método ou técnica computacional,0.7562,54,01
+quantização,quantização,METODO,método ou técnica computacional,0.8858,54,01
+kernel,kernel,HARDWARE,hardware ou plataforma embarcada,0.396,60,01
+CNNs,cnn,ALGORITMO,hardware ou plataforma embarcada,0.4585,60,01
+algoritmos,algoritmos,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.429,65,01
+algoritmos,algoritmos,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5605,65,01
+processamento paralelo,processamento paralelo,METODO,método ou técnica computacional,0.7024,65,01
+quantização,quantização,METODO,método ou técnica computacional,0.8683,82,01
+redes neurais,rede neural,METODO,método ou técnica computacional,0.4505,82,01
+quantização,quantização,METODO,método ou técnica computacional,0.8961,82,01
+quantização,quantização,METODO,método ou técnica computacional,0.9086,83,01
+quantização,quantização,METODO,método ou técnica computacional,0.8218,83,01
+quantização,quantização,METODO,método ou técnica computacional,0.9539,83,01
+rede,rede,HARDWARE,hardware ou plataforma embarcada,0.3867,84,01
+quantização,quantização,METODO,método ou técnica computacional,0.8009,87,01
+quantização,quantização,METODO,método ou técnica computacional,0.577,87,01
+quantização,quantização,METODO,método ou técnica computacional,0.7808,87,01
+deep learning,deep learning,METODO,método ou técnica computacional,0.644,117,01
+DNNs,dnns,PROTOCOLO,protocolo ou padrão de comunicação,0.5166,120,01
+CNNs,cnn,ALGORITMO,protocolo ou padrão de comunicação,0.5906,120,01
+64APSK,64apsk,PROTOCOLO,protocolo ou padrão de comunicação,0.6567,123,01
+AM-DSB-WC,am-dsb-wc,PROTOCOLO,protocolo ou padrão de comunicação,0.9633,124,01
+AM-DSB-SC,am-dsb-sc,PROTOCOLO,protocolo ou padrão de comunicação,0.9618,124,01
+64APSK,64apsk,PROTOCOLO,protocolo ou padrão de comunicação,0.83,125,01
+AM-DSB-WC,am-dsb-wc,PROTOCOLO,protocolo ou padrão de comunicação,0.9055,125,01
+AM-DSB-SC,am-dsb-sc,PROTOCOLO,protocolo ou padrão de comunicação,0.9034,125,01
+quantização,quantização,METODO,método ou técnica computacional,0.5182,138,01
+quantização,quantização,METODO,método ou técnica computacional,0.4923,138,01
+Machine Learning,machine learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.565,140,01
+quantização,quantização,METODO,método ou técnica computacional,0.5524,145,01
+Kubernetes,kubernetes,FRAMEWORK,framework ou biblioteca de software,0.7371,146,01
+Python,python,LANG,linguagem de programação,0.9261,150,01
+CNN,cnn,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.449,157,01
+quantização,quantização,METODO,método ou técnica computacional,0.5375,160,01
+quantização,quantização,METODO,método ou técnica computacional,0.5042,160,01
+JMeter,jmeter,FRAMEWORK,framework ou biblioteca de software,0.4953,164,01
+JMeter,jmeter,FRAMEWORK,framework ou biblioteca de software,0.4456,167,01
+JMeter,jmeter,FRAMEWORK,framework ou biblioteca de software,0.6732,169,01
+quantização,quantização,METODO,método ou técnica computacional,0.4821,170,01
+Kubernetes,kubernetes,FRAMEWORK,framework ou biblioteca de software,0.669,194,01
+JMeter,jmeter,FRAMEWORK,framework ou biblioteca de software,0.5052,197,01
+quantização,quantização,METODO,método ou técnica computacional,0.7656,198,01
+quantização,quantização,METODO,método ou técnica computacional,0.8196,198,01
+Kubernetes,kubernetes,FRAMEWORK,framework ou biblioteca de software,0.4866,204,01
+Deep Learning,deep learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4774,206,01
+Deep Learning,deep learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4642,206,01
+quantização,quantização,METODO,método ou técnica computacional,0.6474,206,01
+quantização,quantização,METODO,método ou técnica computacional,0.4745,206,01
+quantização,quantização,METODO,método ou técnica computacional,0.5272,206,01
+sistemas embarcados,sistemas embarcados,HARDWARE,hardware ou plataforma embarcada,0.4146,211,01
+Internet das Coisas,iot,HARDWARE,hardware ou plataforma embarcada,0.3908,211,01
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9793,0,03
+Prof. Dr. Marcelo Augusto Costa Fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.8335,1,03
+Programa de Pós-Graduação em Engenharia,programa de pós-graduação em engenharia,INSTITUICAO,instituição de ensino ou pesquisa,0.7714,1,03
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9059,2,03
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9609,4,03
+Centro de Tecnologia,centro de tecnologia,INSTITUICAO,instituição de ensino ou pesquisa,0.8057,4,03
+Marcelo Augusto Costa,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.8287,6,03
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9598,6,03
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.8774,6,03
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9523,7,03
+CAPES,capes,INSTITUICAO,instituição de ensino ou pesquisa,0.8137,9,03
+Deep learning,deep learning,METODO,método ou técnica computacional,0.7873,17,03
+DFT,dft,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4571,20,03
+ANOVA,anova,METODO,método ou técnica computacional,0.5719,24,03
+GISAID,gisaid,EMPRESA,organização ou empresa de tecnologia,0.3948,27,03
+Machine Learning,machine learning,METODO,método ou técnica computacional,0.4865,27,03
+OMS,oms,EMPRESA,organização ou empresa de tecnologia,0.5868,31,03
+World Health Organization,world health organization,EMPRESA,organização ou empresa de tecnologia,0.3916,32,03
+World Health Organization,world health organization,EMPRESA,organização ou empresa de tecnologia,0.8576,33,03
+BLAST,blast,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8967,39,03
+Kwan & Arniker,kwan & arniker,AUTOR,pesquisador ou autor,0.8582,46,03
+Deep learning,deep learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5931,47,03
+OMS,oms,EMPRESA,organização ou empresa de tecnologia,0.7055,103,03
+Pango,pango,EMPRESA,organização ou empresa de tecnologia,0.4215,105,03
+bioinformática,bioinformática,METODO,método ou técnica computacional,0.4509,136,03
+Kwan & Arniker,kwan & arniker,AUTOR,pesquisador ou autor,0.7922,145,03
+Inteligência Artificial,inteligência artificial,METODO,método ou técnica computacional,0.8369,147,03
+Inteligência artificial,inteligência artificial,METODO,método ou técnica computacional,0.7624,147,03
+machine learning,machine learning,METODO,método ou técnica computacional,0.7149,149,03
+deep learning,deep learning,METODO,método ou técnica computacional,0.4887,150,03
+CNN,cnn,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6017,160,03
+softmax,softmax,FRAMEWORK,framework ou biblioteca de software,0.3939,165,03
+Kwan & Arniker,kwan & arniker,AUTOR,pesquisador ou autor,0.7881,174,03
+K-mer,k-mer,METODO,método ou técnica computacional,0.6995,178,03
+DFT,dft,ALGORITMO,método ou técnica computacional,0.7446,180,03
+DFT,dft,ALGORITMO,método ou técnica computacional,0.7863,181,03
+PCA,pca,METODO,algoritmo ou técnica de inteligência artificial,0.6669,183,03
+CNN,cnn,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4596,186,03
+CNN,cnn,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4872,186,03
+CNN,cnn,ALGORITMO,organização ou empresa de tecnologia,0.4631,189,03
+MLP,mlp,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4289,189,03
+LSTM,lstm,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.509,191,03
+CNN,cnn,ALGORITMO,linguagem de programação,0.4275,194,03
+algoritmos,algoritmos,METODO,método ou técnica computacional,0.4917,199,03
+CGR,cgr,LANG,linguagem de programação,0.4227,202,03
+CGR,cgr,METODO,método ou técnica computacional,0.7596,222,03
+DFT,dft,ALGORITMO,método ou técnica computacional,0.8221,222,03
+Yin & Yau,yin & yau,AUTOR,pesquisador ou autor,0.8474,222,03
+CGR,cgr,METODO,método ou técnica computacional,0.6287,223,03
+CGR,cgr,METODO,método ou técnica computacional,0.8437,223,03
+CGR,cgr,METODO,método ou técnica computacional,0.844,223,03
+CGR,cgr,LANG,linguagem de programação,0.544,225,03
+DFT,dft,ALGORITMO,método ou técnica computacional,0.4426,226,03
+DFT,dft,ALGORITMO,método ou técnica computacional,0.4949,226,03
+Yin & Yau,yin & yau,AUTOR,pesquisador ou autor,0.8675,226,03
+DFT,dft,ALGORITMO,método ou técnica computacional,0.5019,226,03
+Yin & Yau,yin & yau,AUTOR,pesquisador ou autor,0.8049,227,03
+CGR,cgr,LANG,linguagem de programação,0.4863,228,03
+DFT,dft,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5448,228,03
+DFT,dft,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6578,229,03
+DFT,dft,ALGORITMO,método ou técnica computacional,0.8793,230,03
+DFT,dft,ALGORITMO,método ou técnica computacional,0.904,230,03
+DFT,dft,ALGORITMO,método ou técnica computacional,0.4406,231,03
+DFT,dft,ALGORITMO,método ou técnica computacional,0.4653,232,03
+CGR,cgr,METODO,método ou técnica computacional,0.7394,235,03
+DFT,dft,ALGORITMO,método ou técnica computacional,0.7634,235,03
+DFT,dft,ALGORITMO,método ou técnica computacional,0.7807,236,03
+DFT,dft,ALGORITMO,método ou técnica computacional,0.7339,236,03
+DFT,dft,ALGORITMO,método ou técnica computacional,0.6218,240,03
+Rede neural Convolucional,rede neural convolucional,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4082,251,03
+MATLAB,matlab,FRAMEWORK,framework ou biblioteca de software,0.8872,252,03
+MATLAB,matlab,FRAMEWORK,framework ou biblioteca de software,0.8956,252,03
+DNN,dnn,EMPRESA,organização ou empresa de tecnologia,0.3879,267,03
+ASCII,ascii,LANG,linguagem de programação,0.6617,268,03
+ASCII,ascii,LANG,linguagem de programação,0.8029,269,03
+CNN,cnn,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.445,277,03
+CNN,cnn,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.419,284,03
+BLAST,blast,METODO,método ou técnica computacional,0.4913,322,03
+ANOVA,anova,METODO,método ou técnica computacional,0.4762,327,03
+ANOVA,anova,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7959,328,03
+ANOVA,anova,METODO,método ou técnica computacional,0.6884,329,03
+Jarque-Bera,jarque-bera,METODO,método ou técnica computacional,0.5306,337,03
+Jarque-Bera,jarque-bera,METODO,método ou técnica computacional,0.5269,337,03
+CGR,cgr,METODO,método ou técnica computacional,0.5187,358,03
+DFT,dft,ALGORITMO,método ou técnica computacional,0.7805,358,03
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9796,0,05
+Programa de Pós-Graduação em Engenharia,programa de pós-graduação em engenharia,INSTITUICAO,instituição de ensino ou pesquisa,0.7489,1,05
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9059,2,05
+Divisão de Serviços Técnicos,divisão de serviços técnicos,INSTITUICAO,instituição de ensino ou pesquisa,0.5472,3,05
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9507,3,05
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9594,4,05
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.8759,4,05
+Marcelo Augusto Costa,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.8687,5,05
+Prof. Dr. Marcelo Augusto Costa Fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.7583,6,05
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9461,7,05
+CAPES,capes,INSTITUICAO,instituição de ensino ou pesquisa,0.8416,7,05
+GISAID,gisaid,EMPRESA,organização ou empresa de tecnologia,0.3955,10,05
+Aprendizagem Profunda,deep learning,METODO,método ou técnica computacional,0.5024,12,05
+Rede Neural Convolucional,rede neural convolucional,METODO,método ou técnica computacional,0.6519,12,05
+machine learning,machine learning,METODO,método ou técnica computacional,0.8439,14,05
+GISAID,gisaid,EMPRESA,organização ou empresa de tecnologia,0.4157,16,05
+Jarque-Bera,jarque-bera,METODO,método ou técnica computacional,0.485,17,05
+Deep Learning,deep learning,METODO,método ou técnica computacional,0.6627,19,05
+ANOVA,anova,METODO,método ou técnica computacional,0.623,31,05
+BLAST,blast,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9151,43,05
+Machine Learning,machine learning,METODO,método ou técnica computacional,0.6443,47,05
+Deep Learning,deep learning,METODO,método ou técnica computacional,0.6035,48,05
+CNN,cnn,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4717,49,05
+CNN,cnn,ALGORITMO,linguagem de programação,0.6096,56,05
+K-mer,k-mer,LANG,linguagem de programação,0.4753,56,05
+CNN,cnn,ALGORITMO,linguagem de programação,0.4206,57,05
+LSTM,lstm,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8475,57,05
+K-mer,k-mer,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7388,57,05
+LSTM,lstm,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8438,57,05
+K-mer,k-mer,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7193,57,05
+CNN,cnn,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5857,59,05
+CNN,cnn,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6903,62,05
+CNN,cnn,ALGORITMO,linguagem de programação,0.5725,72,05
+OMS,oms,EMPRESA,organização ou empresa de tecnologia,0.8045,91,05
+World Health Organization,world health organization,EMPRESA,organização ou empresa de tecnologia,0.4319,92,05
+OMS,oms,EMPRESA,organização ou empresa de tecnologia,0.5582,93,05
+OMS,oms,EMPRESA,organização ou empresa de tecnologia,0.5829,93,05
+OMS,oms,EMPRESA,organização ou empresa de tecnologia,0.524,94,05
+Pango,pango,FRAMEWORK,framework ou biblioteca de software,0.4362,95,05
+Pango,pango,FRAMEWORK,framework ou biblioteca de software,0.4008,95,05
+OMS,oms,EMPRESA,organização ou empresa de tecnologia,0.5599,95,05
+OMS,oms,EMPRESA,organização ou empresa de tecnologia,0.4757,96,05
+OMS,oms,EMPRESA,organização ou empresa de tecnologia,0.3915,116,05
+CNN,cnn,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6017,136,05
+Rede Neural Convolucional,rede neural convolucional,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4372,140,05
+CNN,cnn,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8117,140,05
+CNN,cnn,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7318,140,05
+CNNs,cnn,ALGORITMO,hardware ou plataforma embarcada,0.4027,141,05
+CNNs,cnn,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6541,142,05
+CNNs,cnn,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6642,142,05
+CNN,cnn,ALGORITMO,hardware ou plataforma embarcada,0.6285,145,05
+CNN,cnn,ALGORITMO,hardware ou plataforma embarcada,0.6802,145,05
+MLP,mlp,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6146,146,05
+pooling,pooling,METODO,método ou técnica computacional,0.6481,147,05
+kernel,kernel,HARDWARE,hardware ou plataforma embarcada,0.4108,151,05
+kernel,kernel,HARDWARE,hardware ou plataforma embarcada,0.4218,151,05
+pooling,pooling,METODO,método ou técnica computacional,0.4798,162,05
+pooling,pooling,METODO,método ou técnica computacional,0.4921,162,05
+pooling,pooling,METODO,método ou técnica computacional,0.4707,167,05
+pooling,pooling,METODO,método ou técnica computacional,0.5483,167,05
+softmax,softmax,FRAMEWORK,framework ou biblioteca de software,0.8428,174,05
+softmax,softmax,FRAMEWORK,framework ou biblioteca de software,0.7863,174,05
+CNN,cnn,ALGORITMO,hardware ou plataforma embarcada,0.6339,176,05
+CNN,cnn,ALGORITMO,hardware ou plataforma embarcada,0.6515,176,05
+CNN,cnn,ALGORITMO,hardware ou plataforma embarcada,0.7921,176,05
+CNN,cnn,ALGORITMO,hardware ou plataforma embarcada,0.7821,176,05
+softmax,softmax,FRAMEWORK,framework ou biblioteca de software,0.4675,180,05
+Backpropagation,backpropagation,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9064,188,05
+Backpropagation,backpropagation,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.904,188,05
+CNN,cnn,ALGORITMO,hardware ou plataforma embarcada,0.55,192,05
+CNN,cnn,ALGORITMO,hardware ou plataforma embarcada,0.522,192,05
+CNN,cnn,ALGORITMO,hardware ou plataforma embarcada,0.445,198,05
+CNN,cnn,ALGORITMO,hardware ou plataforma embarcada,0.458,198,05
+CNN,cnn,ALGORITMO,hardware ou plataforma embarcada,0.762,200,05
+CNN,cnn,ALGORITMO,hardware ou plataforma embarcada,0.7811,200,05
+CNNs,cnn,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4274,242,05
+GISAID,gisaid,EMPRESA,organização ou empresa de tecnologia,0.5504,253,05
+GISAID,gisaid,EMPRESA,organização ou empresa de tecnologia,0.6814,253,05
+GISAID,gisaid,EMPRESA,organização ou empresa de tecnologia,0.4539,257,05
+Delta,delta,METODO,método ou técnica computacional,0.4724,284,05
+Delta,delta,METODO,método ou técnica computacional,0.4901,307,05
+ANOVA,anova,METODO,método ou técnica computacional,0.8595,315,05
+ANOVA,anova,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8128,317,05
+matlab,matlab,LANG,linguagem de programação,0.8154,318,05
+ANOVA,anova,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8416,322,05
+ANOVA,anova,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8456,322,05
+matlab,matlab,LANG,linguagem de programação,0.6496,334,05
+Delta,delta,METODO,método ou técnica computacional,0.5269,345,05
+Delta,delta,METODO,método ou técnica computacional,0.5612,345,05
+CNN,cnn,ALGORITMO,hardware ou plataforma embarcada,0.4858,349,05
+CNN,cnn,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5956,359,05
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9819,0,09
+Programa de Pós-Graduação em Engenharia Elétrica e de Computação,programa de pós-graduação em engenharia elétrica e de computação,INSTITUICAO,instituição de ensino ou pesquisa,0.534,2,09
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.8565,2,09
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9665,4,09
+Centro de Tecnologia,centro de tecnologia,INSTITUICAO,instituição de ensino ou pesquisa,0.6378,4,09
+Programa de Pós-Graduação em Engenharia Elétrica e de Computação,programa de pós-graduação em engenharia elétrica e de computação,INSTITUICAO,instituição de ensino ou pesquisa,0.6683,4,09
+Prof. Dr. Marcelo Augusto Costa Fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.8429,4,09
+Aprendizagem de Máquina,aprendizagem de máquina,METODO,método ou técnica computacional,0.5149,5,09
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9489,6,09
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.8737,6,09
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9509,7,09
+aprendizagem de máquina,aprendizagem de máquina,METODO,método ou técnica computacional,0.6504,7,09
+Aprendizagem de Máquina,aprendizagem de máquina,METODO,método ou técnica computacional,0.5056,11,09
+machine learning,machine learning,METODO,método ou técnica computacional,0.7869,12,09
+machine learning,machine learning,METODO,método ou técnica computacional,0.5323,12,09
+Machine Learning,machine learning,METODO,método ou técnica computacional,0.7555,15,09
+Agrupamento das Amostras com o SOM,agrupamento das amostras com o som,METODO,método ou técnica computacional,0.5253,17,09
+Agrupamento das Amostras com o SOM,agrupamento das amostras com o som,METODO,método ou técnica computacional,0.5714,17,09
+Agrupamento das Amostras com o SOM,agrupamento das amostras com o som,METODO,método ou técnica computacional,0.642,17,09
+PCA,pca,METODO,método ou técnica computacional,0.5665,22,09
+PCA,pca,METODO,método ou técnica computacional,0.6701,22,09
+PCA,pca,METODO,método ou técnica computacional,0.5275,24,09
+PCA,pca,METODO,método ou técnica computacional,0.6059,24,09
+U-matrix,u-matrix,METODO,método ou técnica computacional,0.4968,24,09
+PCA,pca,METODO,método ou técnica computacional,0.5944,26,09
+PCA,pca,METODO,método ou técnica computacional,0.7145,26,09
+U-matrix,u-matrix,METODO,método ou técnica computacional,0.575,26,09
+PCA,pca,METODO,método ou técnica computacional,0.5217,28,09
+ACM,acm,EMPRESA,organização ou empresa de tecnologia,0.4447,28,09
+análise PCA,análise pca,METODO,método ou técnica computacional,0.6107,30,09
+Análise PCA,análise pca,METODO,método ou técnica computacional,0.6963,30,09
+Análise PCA,análise pca,METODO,método ou técnica computacional,0.8431,30,09
+aprendizagem de máquina,aprendizagem de máquina,METODO,método ou técnica computacional,0.6029,48,09
+SOM,som,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6946,49,09
+SOM,som,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8157,49,09
+SOM,som,ALGORITMO,protocolo ou padrão de comunicação,0.5474,55,09
+SOM,som,ALGORITMO,protocolo ou padrão de comunicação,0.548,55,09
+SOM,som,ALGORITMO,protocolo ou padrão de comunicação,0.4159,56,09
+SOM,som,ALGORITMO,método ou técnica computacional,0.6649,58,09
+SOM,som,ALGORITMO,método ou técnica computacional,0.6316,58,09
+ACM,acm,EMPRESA,organização ou empresa de tecnologia,0.4395,72,09
+Min-Max,min-max,METODO,método ou técnica computacional,0.6182,89,09
+SOM,som,ALGORITMO,método ou técnica computacional,0.7357,91,09
+SOM,som,ALGORITMO,método ou técnica computacional,0.7551,91,09
+SOM,som,ALGORITMO,método ou técnica computacional,0.4417,94,09
+SOM,som,ALGORITMO,protocolo ou padrão de comunicação,0.4481,101,09
+SOM,som,ALGORITMO,protocolo ou padrão de comunicação,0.4659,101,09
+Min-Max,min-max,METODO,método ou técnica computacional,0.4572,149,09
+Matriz-U,matriz-u,LANG,linguagem de programação,0.6355,152,09
+matriz-U,matriz-u,LANG,linguagem de programação,0.5668,152,09
+matriz-U,matriz-u,LANG,linguagem de programação,0.6081,152,09
+U-matrix,u-matrix,PROTOCOLO,protocolo ou padrão de comunicação,0.5577,164,09
+PCA,pca,METODO,método ou técnica computacional,0.924,184,09
+PCA,pca,METODO,método ou técnica computacional,0.962,184,09
+PCA,pca,METODO,algoritmo ou técnica de inteligência artificial,0.4996,185,09
+PCA,pca,METODO,método ou técnica computacional,0.9148,186,09
+PCA,pca,METODO,método ou técnica computacional,0.9323,186,09
+PCA,pca,METODO,método ou técnica computacional,0.8788,186,09
+Min-Max,min-max,PROTOCOLO,protocolo ou padrão de comunicação,0.4576,187,09
+PCA,pca,METODO,método ou técnica computacional,0.4781,202,09
+PCA,pca,METODO,método ou técnica computacional,0.7359,221,09
+PCA,pca,METODO,método ou técnica computacional,0.7367,221,09
+PCA,pca,METODO,método ou técnica computacional,0.4571,226,09
+PCA,pca,METODO,método ou técnica computacional,0.5248,251,09
+PCA,pca,METODO,método ou técnica computacional,0.5471,253,09
+PCA,pca,METODO,método ou técnica computacional,0.6206,253,09
+PCA,pca,METODO,método ou técnica computacional,0.538,278,09
+PCA,pca,METODO,método ou técnica computacional,0.4563,287,09
+PCA,pca,METODO,método ou técnica computacional,0.9053,290,09
+PCA,pca,METODO,método ou técnica computacional,0.9276,290,09
+PCA,pca,METODO,método ou técnica computacional,0.9383,290,09
+SOM,som,ALGORITMO,método ou técnica computacional,0.607,293,09
+SOM,som,ALGORITMO,método ou técnica computacional,0.5546,293,09
+SOM,som,ALGORITMO,método ou técnica computacional,0.5323,293,09
+PCA,pca,METODO,método ou técnica computacional,0.5407,296,09
+SOM,som,ALGORITMO,protocolo ou padrão de comunicação,0.4757,307,09
+SOM,som,ALGORITMO,protocolo ou padrão de comunicação,0.4769,307,09
+SOM,som,ALGORITMO,protocolo ou padrão de comunicação,0.465,307,09
+SOM,som,ALGORITMO,protocolo ou padrão de comunicação,0.5386,311,09
+SOM,som,ALGORITMO,protocolo ou padrão de comunicação,0.6399,311,09
+ACM,acm,EMPRESA,organização ou empresa de tecnologia,0.5724,356,09
+ACM,acm,EMPRESA,organização ou empresa de tecnologia,0.4325,358,09
+PCA,pca,METODO,método ou técnica computacional,0.8037,361,09
+PCA,pca,METODO,método ou técnica computacional,0.8038,361,09
+PCA,pca,METODO,algoritmo ou técnica de inteligência artificial,0.7381,361,09
+PCA,pca,METODO,método ou técnica computacional,0.6035,371,09
+ACM,acm,EMPRESA,organização ou empresa de tecnologia,0.7499,383,09
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9757,0,11
+Programa de Pós-Graduação em Engenharia,programa de pós-graduação em engenharia,INSTITUICAO,instituição de ensino ou pesquisa,0.7469,1,11
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9059,2,11
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9563,4,11
+Centro de Tecnologia,centro de tecnologia,INSTITUICAO,instituição de ensino ou pesquisa,0.8554,4,11
+Prof. Dr. Marcelo Augusto Costa Fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.9019,5,11
+Rede neural,rede neural,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5173,5,11
+Stacked Sparse Autoencoder,stacked sparse autoencoder,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5218,5,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5477,6,11
+Marcelo Augusto Costa,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.8614,6,11
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9628,6,11
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.8521,6,11
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9499,7,11
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9481,10,11
+CAPES,capes,INSTITUICAO,instituição de ensino ou pesquisa,0.5624,10,11
+Deep Learning,deep learning,METODO,método ou técnica computacional,0.5636,11,11
+Field Programmable Gate Array,fpga,HARDWARE,hardware ou plataforma embarcada,0.648,12,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7581,12,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8575,12,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8125,12,11
+Deep Learning,deep learning,METODO,método ou técnica computacional,0.6295,13,11
+Stacked Sparse Autoencoder,stacked sparse autoencoder,METODO,método ou técnica computacional,0.6472,13,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8152,13,11
+deep learning,deep learning,METODO,método ou técnica computacional,0.6132,13,11
+Field Programmable Gate Array,fpga,HARDWARE,hardware ou plataforma embarcada,0.7248,15,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7658,15,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.867,15,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8303,15,11
+Deep Learning,deep learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8651,16,11
+Deep Learning,deep learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8563,16,11
+Stacked Sparse Autoencoder,stacked sparse autoencoder,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6429,16,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6411,16,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5017,17,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4103,18,11
+Linguagem de Descrição de Hardware,linguagem de descrição de hardware,LANG,linguagem de programação,0.4198,27,11
+Hardware Description Language,hardware description language,LANG,linguagem de programação,0.4267,27,11
+Machine Learning,machine learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5642,27,11
+Deep Learning,deep learning,METODO,método ou técnica computacional,0.6325,29,11
+DNNs,dnns,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4553,30,11
+DNN,dnn,METODO,método ou técnica computacional,0.4921,31,11
+algoritmos,algoritmos,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5838,36,11
+algoritmos,algoritmos,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7142,36,11
+Field Programmable Gate Array,fpga,HARDWARE,hardware ou plataforma embarcada,0.5063,37,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5713,37,11
+Hauck & DeHon,hauck & dehon,AUTOR,pesquisador ou autor,0.9235,37,11
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.5788,37,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4727,38,11
+de Souza & Fernandes,de souza & fernandes,AUTOR,pesquisador ou autor,0.883,38,11
+GPU,gpu,HARDWARE,hardware ou plataforma embarcada,0.4736,38,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.665,39,11
+Stacked Sparse Autoencoder,stacked sparse autoencoder,METODO,método ou técnica computacional,0.5428,39,11
+Stacked Sparse Autoencoder,stacked sparse autoencoder,METODO,método ou técnica computacional,0.6222,41,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6031,42,11
+Deep Learning,deep learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5276,43,11
+Marcelo A. C. Fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.9604,44,11
+Marcelo A. C. Fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.9306,45,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6079,47,11
+Deep Learning,deep learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5745,47,11
+Deep Learning,deep learning,METODO,método ou técnica computacional,0.6627,48,11
+DNN,dnn,METODO,método ou técnica computacional,0.5092,48,11
+Stacked Sparse Autoencoder,stacked sparse autoencoder,METODO,método ou técnica computacional,0.5947,48,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5976,49,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9031,50,11
+Deep Learning,deep learning,METODO,método ou técnica computacional,0.484,50,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9117,50,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8479,51,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8804,51,11
+de Souza & Fernandes,de souza & fernandes,AUTOR,pesquisador ou autor,0.8329,51,11
+de Souza & Fernandes,de souza & fernandes,AUTOR,pesquisador ou autor,0.8701,52,11
+RTL,rtl,LANG,linguagem de programação,0.478,52,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8462,53,11
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.7391,54,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8395,54,11
+VHDL,vhdl,LANG,linguagem de programação,0.9037,54,11
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.6811,54,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7671,54,11
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4507,54,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8481,54,11
+RTL,rtl,LANG,linguagem de programação,0.8952,54,11
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5902,55,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5293,55,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8412,56,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9071,56,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7134,57,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7755,57,11
+Matlab,matlab,LANG,linguagem de programação,0.7363,57,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6852,57,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4777,60,11
+DNNs,dnns,METODO,método ou técnica computacional,0.562,60,11
+DNNs,dnns,METODO,método ou técnica computacional,0.5043,60,11
+GPUs,gpus,HARDWARE,hardware ou plataforma embarcada,0.4947,60,11
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.7375,61,11
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.5366,61,11
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.7675,62,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7285,62,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.454,64,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8129,65,11
+CPU,cpu,HARDWARE,hardware ou plataforma embarcada,0.4308,65,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7534,65,11
+CPU,cpu,HARDWARE,hardware ou plataforma embarcada,0.4449,65,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5853,66,11
+VHDL,vhdl,LANG,linguagem de programação,0.9088,66,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8269,69,11
+HLS,hls,LANG,linguagem de programação,0.4016,69,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.834,69,11
+Deep Learning,deep learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4463,70,11
+RTL,rtl,LANG,linguagem de programação,0.8207,70,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6028,70,11
+RTL,rtl,LANG,linguagem de programação,0.8861,70,11
+HLS,hls,LANG,linguagem de programação,0.4339,71,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.856,71,11
+Verilog,verilog,LANG,linguagem de programação,0.5271,71,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8735,71,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.891,71,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8473,72,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8533,72,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.696,73,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7743,74,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7848,74,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.416,76,11
+RTL,rtl,LANG,linguagem de programação,0.8886,77,11
+RTL,rtl,LANG,linguagem de programação,0.7801,78,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5532,79,11
+Stacked Sparse Autoencoder,stacked sparse autoencoder,METODO,método ou técnica computacional,0.4547,80,11
+RTL,rtl,LANG,linguagem de programação,0.8609,80,11
+HLS,hls,LANG,linguagem de programação,0.6696,80,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.83,81,11
+HLS,hls,LANG,linguagem de programação,0.4854,81,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7996,81,11
+RTL,rtl,LANG,linguagem de programação,0.5389,81,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4381,83,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4382,83,11
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.5696,85,11
+Computação Reconﬁgurável,computação reconﬁgurável,METODO,método ou técnica computacional,0.7812,86,11
+computação reconﬁgurável,computação reconﬁgurável,METODO,método ou técnica computacional,0.7338,86,11
+ASICs,asics,HARDWARE,hardware ou plataforma embarcada,0.5409,88,11
+ASICs,asics,HARDWARE,hardware ou plataforma embarcada,0.507,88,11
+CPLDs,cplds,HARDWARE,hardware ou plataforma embarcada,0.4283,90,11
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.5492,90,11
+Azarian & Ahmadi,azarian & ahmadi,AUTOR,pesquisador ou autor,0.9656,90,11
+Azarian & Ahmadi,azarian & ahmadi,AUTOR,pesquisador ou autor,0.9537,90,11
+Kuon & Rose,kuon & rose,AUTOR,pesquisador ou autor,0.8183,91,11
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.5759,91,11
+ASICs,asics,HARDWARE,hardware ou plataforma embarcada,0.517,91,11
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.4526,92,11
+Field Programmable Gate Array,fpga,HARDWARE,hardware ou plataforma embarcada,0.5152,92,11
+Field Programmable Gate Array,fpga,HARDWARE,hardware ou plataforma embarcada,0.5136,92,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4781,92,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8436,93,11
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.8738,95,11
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.4061,95,11
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.4304,95,11
+Altera,altera,EMPRESA,organização ou empresa de tecnologia,0.6477,96,11
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.6048,96,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5858,97,11
+CLB,clb,HARDWARE,hardware ou plataforma embarcada,0.4947,97,11
+CLB,clb,HARDWARE,hardware ou plataforma embarcada,0.4362,97,11
+LUT,lut,LANG,linguagem de programação,0.4488,98,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5776,98,11
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.4952,99,11
+LUT,lut,LANG,linguagem de programação,0.4708,99,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7853,100,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8467,100,11
+HDL,hdl,LANG,linguagem de programação,0.4515,101,11
+VHDL,vhdl,LANG,linguagem de programação,0.9265,101,11
+Verilog,verilog,LANG,linguagem de programação,0.9112,101,11
+Python,python,LANG,linguagem de programação,0.965,103,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5105,104,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9161,105,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9426,105,11
+Hauck & DeHon,hauck & dehon,AUTOR,pesquisador ou autor,0.9028,106,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.761,106,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.901,107,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9078,107,11
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.8468,108,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6926,109,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8195,110,11
+Hauck & DeHon,hauck & dehon,AUTOR,pesquisador ou autor,0.9178,110,11
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.8697,110,11
+Deep Learning,deep learning,METODO,método ou técnica computacional,0.7375,111,11
+Machine Learning,machine learning,METODO,método ou técnica computacional,0.6239,115,11
+Deep Learning,deep learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8399,119,11
+Deep Learning,deep learning,METODO,método ou técnica computacional,0.7314,122,11
+Machine Learning,machine learning,METODO,método ou técnica computacional,0.6991,122,11
+Deep Learning,deep learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.778,123,11
+Deep Learning,deep learning,METODO,método ou técnica computacional,0.5299,127,11
+Deep Learning,deep learning,METODO,método ou técnica computacional,0.6103,127,11
+Redes Neurais Convolucionais,rede neural convolucional,METODO,método ou técnica computacional,0.6502,127,11
+bioinformática,bioinformática,METODO,método ou técnica computacional,0.4526,128,11
+Deep Learning,deep learning,METODO,método ou técnica computacional,0.6513,128,11
+MLP,mlp,LANG,linguagem de programação,0.5957,133,11
+Deep Learning,deep learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.755,138,11
+stacked sparse autoencoder,stacked sparse autoencoder,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4418,147,11
+DNN,dnn,HARDWARE,hardware ou plataforma embarcada,0.4876,163,11
+PEs,pes,HARDWARE,hardware ou plataforma embarcada,0.5434,163,11
+PEs,pes,HARDWARE,hardware ou plataforma embarcada,0.5645,163,11
+softmax,softmax,FRAMEWORK,framework ou biblioteca de software,0.5751,168,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7803,170,11
+LUTs,luts,HARDWARE,hardware ou plataforma embarcada,0.4057,180,11
+rede,rede,HARDWARE,hardware ou plataforma embarcada,0.4668,181,11
+rede,rede,HARDWARE,hardware ou plataforma embarcada,0.6063,181,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7158,190,11
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.7024,198,11
+Deep Learning,deep learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7956,203,11
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.8801,205,11
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.8831,205,11
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.7385,207,11
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.7918,208,11
+de Souza & Fernandes,de souza & fernandes,AUTOR,pesquisador ou autor,0.8551,209,11
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.6999,209,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.466,209,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4705,210,11
+PEs,pes,HARDWARE,hardware ou plataforma embarcada,0.3809,210,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5559,212,11
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.7889,215,11
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.8128,220,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7783,221,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5504,222,11
+LUTs,luts,HARDWARE,hardware ou plataforma embarcada,0.5522,222,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8942,230,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9322,230,11
+Deep Learning,deep learning,METODO,método ou técnica computacional,0.4523,239,11
+Stacked Sparse Autoencoder,stacked sparse autoencoder,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5818,239,11
+DNN,dnn,LANG,linguagem de programação,0.6477,240,11
+RTL,rtl,LANG,linguagem de programação,0.7786,240,11
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.7063,241,11
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.5476,242,11
+LUTs,luts,HARDWARE,hardware ou plataforma embarcada,0.5793,243,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6691,243,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.696,247,11
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4717,249,11
+Mahmood Ahmadi,mahmood ahmadi,AUTOR,pesquisador ou autor,0.815,249,11
+IEEE,ieee,EMPRESA,organização ou empresa de tecnologia,0.8257,249,11
+IEEE,ieee,EMPRESA,organização ou empresa de tecnologia,0.8745,249,11
+fpga,fpga,HARDWARE,hardware ou plataforma embarcada,0.4947,251,11
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6355,252,11
+Marcelo A. C. Fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.757,252,11
+fpga,fpga,HARDWARE,hardware ou plataforma embarcada,0.6191,252,11
+Deep learning,deep learning,METODO,método ou técnica computacional,0.5716,252,11
+IEEE,ieee,EMPRESA,organização ou empresa de tecnologia,0.8463,253,11
+Deep Learning,deep learning,METODO,método ou técnica computacional,0.6854,254,11
+IEEE,ieee,EMPRESA,organização ou empresa de tecnologia,0.855,259,11
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9743,0,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5547,0,12
+Programa de Pós-Graduação em Engenharia,programa de pós-graduação em engenharia,INSTITUICAO,instituição de ensino ou pesquisa,0.7327,1,12
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.8867,2,12
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9416,3,12
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.852,3,12
+Divisão de Serviços Técnicos,divisão de serviços técnicos,INSTITUICAO,instituição de ensino ou pesquisa,0.6703,3,12
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9382,4,12
+Matheus Fernandes,matheus fernandes,AUTOR,pesquisador ou autor,0.9191,4,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5009,4,12
+Matheus Fernandes,matheus fernandes,AUTOR,pesquisador ou autor,0.8939,4,12
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9648,5,12
+Centro de Tecnologia,centro de tecnologia,INSTITUICAO,instituição de ensino ou pesquisa,0.7102,5,12
+Programa de Pós-Graduação em Engenharia Elétrica,programa de pós-graduação em engenharia elétrica,INSTITUICAO,instituição de ensino ou pesquisa,0.4537,5,12
+Marcelo Augusto Costa Fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.9413,5,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7964,5,12
+Algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4987,5,12
+Marcelo Augusto Costa,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.9336,5,12
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.7701,9,12
+CAPES,capes,INSTITUICAO,instituição de ensino ou pesquisa,0.7417,9,12
+Algoritmos Genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6043,9,12
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8271,10,12
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8252,10,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8138,10,12
+Field-programmable gate array,fpga,HARDWARE,hardware ou plataforma embarcada,0.5812,10,12
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.8462,11,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8218,12,12
+Processamento Paralelo,processamento paralelo,METODO,método ou técnica computacional,0.4558,12,12
+Genetic Algorithms,genetic algorithms,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6009,12,12
+genetic algorithm,genetic algorithm,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5431,13,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9473,13,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9264,13,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5699,14,12
+Genetic Algorithm,genetic algorithm,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7542,14,12
+Azarian & Ahmadi,azarian & ahmadi,AUTOR,pesquisador ou autor,0.8569,15,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9404,16,12
+CLB,clb,LANG,linguagem de programação,0.6558,16,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9238,16,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8622,17,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8157,17,12
+MSj,msj,FRAMEWORK,framework ou biblioteca de software,0.3877,18,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9037,20,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8846,20,12
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4352,21,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6669,21,12
+Linguagem de Descrição de Hardware,linguagem de descrição de hardware,LANG,linguagem de programação,0.5006,27,12
+Hardware Description Language,hardware description language,LANG,linguagem de programação,0.4465,27,12
+Field Programmable Gate Arrays,field programmable gate arrays,HARDWARE,hardware ou plataforma embarcada,0.3978,31,12
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.6818,31,12
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.725,31,12
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.6064,32,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4128,32,12
+meta-heurísticas,meta-heurísticas,METODO,método ou técnica computacional,0.5768,34,12
+Meta-heurísticas,meta-heurísticas,METODO,método ou técnica computacional,0.4976,34,12
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9217,38,12
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9412,38,12
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6209,40,12
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5212,40,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7379,40,12
+bioinformática,bioinformática,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4953,42,12
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5124,42,12
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4569,43,12
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.4944,43,12
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.616,44,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.717,44,12
+HGA,hga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5383,45,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7146,45,12
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4572,45,12
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6398,46,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7521,47,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6805,47,12
+Oliveira & Júnior,oliveira & júnior,AUTOR,pesquisador ou autor,0.8618,48,12
+Mengxu & Bin,mengxu & bin,AUTOR,pesquisador ou autor,0.841,48,12
+OIMGA,oimga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6973,48,12
+Oliveira & Júnior,oliveira & júnior,AUTOR,pesquisador ou autor,0.8903,49,12
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.554,49,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9037,49,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.923,49,12
+C++,c++,LANG,linguagem de programação,0.8027,49,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4834,50,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9381,50,12
+HGA,hga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5729,50,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5482,50,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9208,50,12
+HGA,hga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4151,51,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7544,52,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5913,52,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6662,52,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4984,53,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4608,53,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8859,54,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8882,54,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7418,56,12
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6122,56,12
+Merabti & Massicotte,merabti & massicotte,AUTOR,pesquisador ou autor,0.8263,58,12
+Chen & Wu,chen & wu,AUTOR,pesquisador ou autor,0.8498,58,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5584,58,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5555,58,12
+Merabti & Massicotte,merabti & massicotte,AUTOR,pesquisador ou autor,0.8078,58,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.542,58,12
+AG,algoritmo genético,HARDWARE,hardware ou plataforma embarcada,0.5227,59,12
+Chen & Wu,chen & wu,AUTOR,pesquisador ou autor,0.8714,59,12
+AG,algoritmo genético,HARDWARE,hardware ou plataforma embarcada,0.4833,59,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8077,60,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6772,60,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6912,60,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7525,60,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6842,60,12
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.5514,60,12
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.662,61,12
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.4941,62,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.3804,62,12
+kernel,kernel,HARDWARE,hardware ou plataforma embarcada,0.3816,64,12
+kernel,kernel,HARDWARE,hardware ou plataforma embarcada,0.3876,64,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8952,65,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.826,65,12
+Mengxu & Bin,mengxu & bin,AUTOR,pesquisador ou autor,0.8049,65,12
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.557,66,12
+Algoritmo Genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.686,67,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5497,67,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6092,71,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9507,72,12
+Matheus F. Torquato,matheus f. torquato,AUTOR,pesquisador ou autor,0.9527,72,12
+Marcelo A. C. Fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.9536,72,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9546,72,12
+Escola Potiguar de Computação e suas Aplicações,escola potiguar de computação e suas aplicações,INSTITUICAO,instituição de ensino ou pesquisa,0.7813,72,12
+Lucileide M. D. da Silva,lucileide m. d. da silva,AUTOR,pesquisador ou autor,0.8767,73,12
+Matheus F. Torquato,matheus f. torquato,AUTOR,pesquisador ou autor,0.931,73,12
+Marcelo A. C. Fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.9279,73,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.3843,73,12
+Matheus F. Torquato,matheus f. torquato,AUTOR,pesquisador ou autor,0.9671,74,12
+Marcelo A. C. Fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.9614,74,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5453,74,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8129,75,12
+arquitetura,arquitetura,HARDWARE,hardware ou plataforma embarcada,0.4372,76,12
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5082,76,12
+arquitetura,arquitetura,HARDWARE,hardware ou plataforma embarcada,0.3854,76,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8158,77,12
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.8391,79,12
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.8455,79,12
+computação reconﬁgurável,computação reconﬁgurável,METODO,método ou técnica computacional,0.5281,80,12
+Computação Reconﬁgurável,computação reconﬁgurável,METODO,método ou técnica computacional,0.4848,80,12
+computação reconﬁgurável,computação reconﬁgurável,METODO,método ou técnica computacional,0.8424,81,12
+computação reconﬁgurável,computação reconﬁgurável,METODO,método ou técnica computacional,0.8197,81,12
+Azarian & Ahmadi,azarian & ahmadi,AUTOR,pesquisador ou autor,0.8608,83,12
+computação reconﬁgurável,computação reconﬁgurável,METODO,método ou técnica computacional,0.7994,84,12
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.5386,84,12
+Computação reconﬁgurável,computação reconﬁgurável,METODO,método ou técnica computacional,0.7222,84,12
+Azarian & Ahmadi,azarian & ahmadi,AUTOR,pesquisador ou autor,0.8805,84,12
+ASIC,asic,HARDWARE,hardware ou plataforma embarcada,0.619,85,12
+GPP,gpp,HARDWARE,hardware ou plataforma embarcada,0.5387,85,12
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.7924,86,12
+ASIC,asic,HARDWARE,hardware ou plataforma embarcada,0.4202,86,12
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.7736,86,12
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.8761,87,12
+CPLDs,cplds,HARDWARE,hardware ou plataforma embarcada,0.6468,87,12
+CPLDs,cplds,HARDWARE,hardware ou plataforma embarcada,0.7397,87,12
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.8575,87,12
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.7485,88,12
+ASIC,asic,HARDWARE,hardware ou plataforma embarcada,0.5816,88,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7069,89,12
+COMPUTAÇÃO RECONFIGURÁVEL,computação reconfigurável,METODO,método ou técnica computacional,0.5567,89,12
+ASIC,asic,HARDWARE,hardware ou plataforma embarcada,0.6607,89,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7312,90,12
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.8198,90,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6859,90,12
+CLB,clb,HARDWARE,hardware ou plataforma embarcada,0.4598,91,12
+CLB,clb,HARDWARE,hardware ou plataforma embarcada,0.3892,91,12
+LUT,lut,HARDWARE,hardware ou plataforma embarcada,0.4278,91,12
+LUT,lut,LANG,linguagem de programação,0.8678,92,12
+LUT,lut,LANG,linguagem de programação,0.8646,92,12
+LUTs,luts,LANG,linguagem de programação,0.76,92,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6858,94,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4364,94,12
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.5312,94,12
+LUT,lut,LANG,linguagem de programação,0.4437,95,12
+LUT,lut,LANG,linguagem de programação,0.4028,95,12
+Virtex,virtex,HARDWARE,hardware ou plataforma embarcada,0.3996,97,12
+Hardware Description Language,hardware description language,LANG,linguagem de programação,0.7163,98,12
+HDL,hdl,LANG,linguagem de programação,0.7955,98,12
+HDL,hdl,LANG,linguagem de programação,0.7419,98,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7052,99,12
+Hauck & DeHon,hauck & dehon,AUTOR,pesquisador ou autor,0.8468,100,12
+Virtex,virtex,HARDWARE,hardware ou plataforma embarcada,0.4861,101,12
+COMPUTAÇÃO RECONFIGURÁVEL,computação reconfigurável,METODO,método ou técnica computacional,0.5269,101,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7472,102,12
+Algoritmos Genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6609,102,12
+Algoritmo Genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5158,103,12
+Charles Darwin,charles darwin,AUTOR,pesquisador ou autor,0.9798,103,12
+Algoritmos Genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6393,108,12
+AGs,ags,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.56,109,12
+AGs,ags,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4889,110,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6009,111,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4563,113,12
+roleta,roleta,METODO,método ou técnica computacional,0.5562,120,12
+AGs,ags,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5024,129,12
+AGs,ags,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5322,129,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7201,130,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7235,130,12
+Charles Darwin,charles darwin,AUTOR,pesquisador ou autor,0.9117,130,12
+Charles Darwin,charles darwin,AUTOR,pesquisador ou autor,0.9834,132,12
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.773,141,12
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.808,141,12
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5818,143,12
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5952,144,12
+ALGORITMOS GENÉTICOS,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7144,146,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5859,146,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6132,146,12
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5781,147,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6332,148,12
+Algoritmo Genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6356,148,12
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4288,151,12
+Goresky & Klapper,goresky & klapper,AUTOR,pesquisador ou autor,0.9143,153,12
+Goresky & Klapper,goresky & klapper,AUTOR,pesquisador ou autor,0.9357,153,12
+MFA,mfa,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4508,155,12
+MFAj,mfaj,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5629,155,12
+MFAj,mfaj,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6095,155,12
+MFA,mfa,PROTOCOLO,protocolo ou padrão de comunicação,0.9545,158,12
+MFA,mfa,PROTOCOLO,protocolo ou padrão de comunicação,0.944,158,12
+MFA,mfa,FRAMEWORK,framework ou biblioteca de software,0.5805,164,12
+MFA,mfa,FRAMEWORK,framework ou biblioteca de software,0.5722,164,12
+MSj,msj,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6801,165,12
+MSj,msj,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6757,165,12
+MSMUX4j,msmux4j,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4122,167,12
+MSMUX5j,msmux5j,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4008,167,12
+MSMUX6j,msmux6j,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4112,167,12
+MSMUX6j,msmux6j,FRAMEWORK,framework ou biblioteca de software,0.3919,170,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5853,184,12
+Módulo de Sincronização,módulo de sincronização,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5586,188,12
+módulo de sincronização,módulo de sincronização,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5978,188,12
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4999,188,12
+MFA,mfa,FRAMEWORK,framework ou biblioteca de software,0.4009,190,12
+MFA,mfa,FRAMEWORK,framework ou biblioteca de software,0.4606,193,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4874,194,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7815,196,12
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.9222,198,12
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.8639,198,12
+VHDL,vhdl,LANG,linguagem de programação,0.9161,198,12
+Verilog,verilog,LANG,linguagem de programação,0.8964,198,12
+Matlab,matlab,LANG,linguagem de programação,0.522,198,12
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.4111,199,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7363,201,12
+AG,algoritmo genético,HARDWARE,hardware ou plataforma embarcada,0.5071,204,12
+FPGA,fpga,LANG,linguagem de programação,0.5524,204,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8154,206,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8294,206,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6507,207,12
+Yoshida & Yasuoka,yoshida & yasuoka,AUTOR,pesquisador ou autor,0.811,207,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7017,208,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4174,210,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7141,214,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5085,214,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.659,216,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5238,218,12
+MFA,mfa,LANG,linguagem de programação,0.4857,218,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5365,218,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5856,219,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6703,221,12
+MUX,mux,PROTOCOLO,protocolo ou padrão de comunicação,0.4646,223,12
+MSMUX4j,msmux4j,PROTOCOLO,protocolo ou padrão de comunicação,0.4672,223,12
+MSMUX5j,msmux5j,PROTOCOLO,protocolo ou padrão de comunicação,0.4011,223,12
+MUX,mux,PROTOCOLO,protocolo ou padrão de comunicação,0.5814,224,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5405,224,12
+Virtex 7,virtex 7,HARDWARE,hardware ou plataforma embarcada,0.6043,224,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.713,226,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7243,228,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7127,228,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8585,230,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.516,232,12
+MFA,mfa,HARDWARE,hardware ou plataforma embarcada,0.5081,232,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7053,236,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9459,236,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6834,236,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9469,236,12
+Yoshida & Yasuoka,yoshida & yasuoka,AUTOR,pesquisador ou autor,0.8563,237,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6974,237,12
+Yoshida & Yasuoka,yoshida & yasuoka,AUTOR,pesquisador ou autor,0.8369,237,12
+MFA,mfa,LANG,linguagem de programação,0.6066,238,12
+Yoshida & Yasuoka,yoshida & yasuoka,AUTOR,pesquisador ou autor,0.8036,238,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6602,239,12
+OIMGA,oimga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7627,240,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6881,240,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5974,243,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.646,243,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6759,243,12
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4494,245,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6918,246,12
+Virtex 7,virtex 7,HARDWARE,hardware ou plataforma embarcada,0.5218,246,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4252,247,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7255,248,12
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7269,248,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6055,248,12
+LUTs,luts,HARDWARE,hardware ou plataforma embarcada,0.489,248,12
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6011,249,12
+Mahmood Ahmadi,mahmood ahmadi,AUTOR,pesquisador ou autor,0.8148,254,12
+IEEE,ieee,EMPRESA,organização ou empresa de tecnologia,0.8265,254,12
+IEEE,ieee,EMPRESA,organização ou empresa de tecnologia,0.8724,254,12
+IEEE,ieee,EMPRESA,organização ou empresa de tecnologia,0.7463,255,12
+ACM,acm,EMPRESA,organização ou empresa de tecnologia,0.599,255,12
+fpga,fpga,HARDWARE,hardware ou plataforma embarcada,0.6198,256,12
+q-learning,q-learning,METODO,método ou técnica computacional,0.4552,256,12
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9574,256,12
+Fpga,fpga,HARDWARE,hardware ou plataforma embarcada,0.5721,256,12
+fpgas,fpga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4463,261,12
+IEEE,ieee,EMPRESA,organização ou empresa de tecnologia,0.7889,262,12
+IEEE,ieee,EMPRESA,organização ou empresa de tecnologia,0.7072,263,12
+IEEE,ieee,EMPRESA,organização ou empresa de tecnologia,0.8554,263,12
+genetic algorithm,genetic algorithm,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4776,264,12
+IEEE,ieee,EMPRESA,organização ou empresa de tecnologia,0.7813,264,12
+IEEE,ieee,EMPRESA,organização ou empresa de tecnologia,0.8378,264,12
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9743,0,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5547,0,13
+Programa de Pós-Graduação em Engenharia,programa de pós-graduação em engenharia,INSTITUICAO,instituição de ensino ou pesquisa,0.7327,1,13
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.8867,2,13
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9416,3,13
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.852,3,13
+Divisão de Serviços Técnicos,divisão de serviços técnicos,INSTITUICAO,instituição de ensino ou pesquisa,0.6703,3,13
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9382,4,13
+Matheus Fernandes,matheus fernandes,AUTOR,pesquisador ou autor,0.9191,4,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5009,4,13
+Matheus Fernandes,matheus fernandes,AUTOR,pesquisador ou autor,0.8939,4,13
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9648,5,13
+Centro de Tecnologia,centro de tecnologia,INSTITUICAO,instituição de ensino ou pesquisa,0.7102,5,13
+Programa de Pós-Graduação em Engenharia Elétrica,programa de pós-graduação em engenharia elétrica,INSTITUICAO,instituição de ensino ou pesquisa,0.4537,5,13
+Marcelo Augusto Costa Fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.9413,5,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7964,5,13
+Algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4987,5,13
+Marcelo Augusto Costa,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.9336,5,13
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.7701,9,13
+CAPES,capes,INSTITUICAO,instituição de ensino ou pesquisa,0.7417,9,13
+Algoritmos Genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6043,9,13
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8271,10,13
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8252,10,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8138,10,13
+Field-programmable gate array,fpga,HARDWARE,hardware ou plataforma embarcada,0.5812,10,13
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.8462,11,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8218,12,13
+Processamento Paralelo,processamento paralelo,METODO,método ou técnica computacional,0.4558,12,13
+Genetic Algorithms,genetic algorithms,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6009,12,13
+genetic algorithm,genetic algorithm,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5431,13,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9473,13,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9264,13,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5699,14,13
+Genetic Algorithm,genetic algorithm,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7542,14,13
+Azarian & Ahmadi,azarian & ahmadi,AUTOR,pesquisador ou autor,0.8569,15,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9404,16,13
+CLB,clb,LANG,linguagem de programação,0.6558,16,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9238,16,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8622,17,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8157,17,13
+MSj,msj,FRAMEWORK,framework ou biblioteca de software,0.3877,18,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9037,20,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8846,20,13
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4352,21,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6669,21,13
+Linguagem de Descrição de Hardware,linguagem de descrição de hardware,LANG,linguagem de programação,0.5006,27,13
+Hardware Description Language,hardware description language,LANG,linguagem de programação,0.4465,27,13
+Field Programmable Gate Arrays,field programmable gate arrays,HARDWARE,hardware ou plataforma embarcada,0.3978,31,13
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.6818,31,13
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.725,31,13
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.6064,32,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4128,32,13
+meta-heurísticas,meta-heurísticas,METODO,método ou técnica computacional,0.5768,34,13
+Meta-heurísticas,meta-heurísticas,METODO,método ou técnica computacional,0.4976,34,13
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9217,38,13
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9412,38,13
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6209,40,13
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5212,40,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7379,40,13
+bioinformática,bioinformática,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4953,42,13
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5124,42,13
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4569,43,13
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.4944,43,13
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.616,44,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.717,44,13
+HGA,hga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5383,45,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7146,45,13
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4572,45,13
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6398,46,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7521,47,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6805,47,13
+Oliveira & Júnior,oliveira & júnior,AUTOR,pesquisador ou autor,0.8618,48,13
+Mengxu & Bin,mengxu & bin,AUTOR,pesquisador ou autor,0.841,48,13
+OIMGA,oimga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6973,48,13
+Oliveira & Júnior,oliveira & júnior,AUTOR,pesquisador ou autor,0.8903,49,13
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.554,49,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9037,49,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.923,49,13
+C++,c++,LANG,linguagem de programação,0.8027,49,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4834,50,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9381,50,13
+HGA,hga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5729,50,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5482,50,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9208,50,13
+HGA,hga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4151,51,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7544,52,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5913,52,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6662,52,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4984,53,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4608,53,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8859,54,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8882,54,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7418,56,13
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6122,56,13
+Merabti & Massicotte,merabti & massicotte,AUTOR,pesquisador ou autor,0.8263,58,13
+Chen & Wu,chen & wu,AUTOR,pesquisador ou autor,0.8498,58,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5584,58,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5555,58,13
+Merabti & Massicotte,merabti & massicotte,AUTOR,pesquisador ou autor,0.8078,58,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.542,58,13
+AG,algoritmo genético,HARDWARE,hardware ou plataforma embarcada,0.5227,59,13
+Chen & Wu,chen & wu,AUTOR,pesquisador ou autor,0.8714,59,13
+AG,algoritmo genético,HARDWARE,hardware ou plataforma embarcada,0.4833,59,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8077,60,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6772,60,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6912,60,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7525,60,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6842,60,13
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.5514,60,13
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.662,61,13
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.4941,62,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.3804,62,13
+kernel,kernel,HARDWARE,hardware ou plataforma embarcada,0.3816,64,13
+kernel,kernel,HARDWARE,hardware ou plataforma embarcada,0.3876,64,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8952,65,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.826,65,13
+Mengxu & Bin,mengxu & bin,AUTOR,pesquisador ou autor,0.8049,65,13
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.557,66,13
+Algoritmo Genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.686,67,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5497,67,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6092,71,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9507,72,13
+Matheus F. Torquato,matheus f. torquato,AUTOR,pesquisador ou autor,0.9527,72,13
+Marcelo A. C. Fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.9536,72,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9546,72,13
+Escola Potiguar de Computação e suas Aplicações,escola potiguar de computação e suas aplicações,INSTITUICAO,instituição de ensino ou pesquisa,0.7813,72,13
+Lucileide M. D. da Silva,lucileide m. d. da silva,AUTOR,pesquisador ou autor,0.8767,73,13
+Matheus F. Torquato,matheus f. torquato,AUTOR,pesquisador ou autor,0.931,73,13
+Marcelo A. C. Fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.9279,73,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.3843,73,13
+Matheus F. Torquato,matheus f. torquato,AUTOR,pesquisador ou autor,0.9671,74,13
+Marcelo A. C. Fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.9614,74,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5453,74,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8129,75,13
+arquitetura,arquitetura,HARDWARE,hardware ou plataforma embarcada,0.4372,76,13
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5082,76,13
+arquitetura,arquitetura,HARDWARE,hardware ou plataforma embarcada,0.3854,76,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8158,77,13
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.8391,79,13
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.8455,79,13
+computação reconﬁgurável,computação reconﬁgurável,METODO,método ou técnica computacional,0.5281,80,13
+Computação Reconﬁgurável,computação reconﬁgurável,METODO,método ou técnica computacional,0.4848,80,13
+computação reconﬁgurável,computação reconﬁgurável,METODO,método ou técnica computacional,0.8424,81,13
+computação reconﬁgurável,computação reconﬁgurável,METODO,método ou técnica computacional,0.8197,81,13
+Azarian & Ahmadi,azarian & ahmadi,AUTOR,pesquisador ou autor,0.8608,83,13
+computação reconﬁgurável,computação reconﬁgurável,METODO,método ou técnica computacional,0.7994,84,13
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.5386,84,13
+Computação reconﬁgurável,computação reconﬁgurável,METODO,método ou técnica computacional,0.7222,84,13
+Azarian & Ahmadi,azarian & ahmadi,AUTOR,pesquisador ou autor,0.8805,84,13
+ASIC,asic,HARDWARE,hardware ou plataforma embarcada,0.619,85,13
+GPP,gpp,HARDWARE,hardware ou plataforma embarcada,0.5387,85,13
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.7924,86,13
+ASIC,asic,HARDWARE,hardware ou plataforma embarcada,0.4202,86,13
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.7736,86,13
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.8761,87,13
+CPLDs,cplds,HARDWARE,hardware ou plataforma embarcada,0.6468,87,13
+CPLDs,cplds,HARDWARE,hardware ou plataforma embarcada,0.7397,87,13
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.8575,87,13
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.7485,88,13
+ASIC,asic,HARDWARE,hardware ou plataforma embarcada,0.5816,88,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7069,89,13
+COMPUTAÇÃO RECONFIGURÁVEL,computação reconfigurável,METODO,método ou técnica computacional,0.5567,89,13
+ASIC,asic,HARDWARE,hardware ou plataforma embarcada,0.6607,89,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7312,90,13
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.8198,90,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6859,90,13
+CLB,clb,HARDWARE,hardware ou plataforma embarcada,0.4598,91,13
+CLB,clb,HARDWARE,hardware ou plataforma embarcada,0.3892,91,13
+LUT,lut,HARDWARE,hardware ou plataforma embarcada,0.4278,91,13
+LUT,lut,LANG,linguagem de programação,0.8678,92,13
+LUT,lut,LANG,linguagem de programação,0.8646,92,13
+LUTs,luts,LANG,linguagem de programação,0.76,92,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6858,94,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4364,94,13
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.5312,94,13
+LUT,lut,LANG,linguagem de programação,0.4437,95,13
+LUT,lut,LANG,linguagem de programação,0.4028,95,13
+Virtex,virtex,HARDWARE,hardware ou plataforma embarcada,0.3996,97,13
+Hardware Description Language,hardware description language,LANG,linguagem de programação,0.7163,98,13
+HDL,hdl,LANG,linguagem de programação,0.7955,98,13
+HDL,hdl,LANG,linguagem de programação,0.7419,98,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7052,99,13
+Hauck & DeHon,hauck & dehon,AUTOR,pesquisador ou autor,0.8468,100,13
+Virtex,virtex,HARDWARE,hardware ou plataforma embarcada,0.4861,101,13
+COMPUTAÇÃO RECONFIGURÁVEL,computação reconfigurável,METODO,método ou técnica computacional,0.5269,101,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7472,102,13
+Algoritmos Genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6609,102,13
+Algoritmo Genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5158,103,13
+Charles Darwin,charles darwin,AUTOR,pesquisador ou autor,0.9798,103,13
+Algoritmos Genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6393,108,13
+AGs,ags,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.56,109,13
+AGs,ags,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4889,110,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6009,111,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4563,113,13
+roleta,roleta,METODO,método ou técnica computacional,0.5562,120,13
+AGs,ags,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5024,129,13
+AGs,ags,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5322,129,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7201,130,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7235,130,13
+Charles Darwin,charles darwin,AUTOR,pesquisador ou autor,0.9117,130,13
+Charles Darwin,charles darwin,AUTOR,pesquisador ou autor,0.9834,132,13
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.773,141,13
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.808,141,13
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5818,143,13
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5952,144,13
+ALGORITMOS GENÉTICOS,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7144,146,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5859,146,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6132,146,13
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5781,147,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6332,148,13
+Algoritmo Genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6356,148,13
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4288,151,13
+Goresky & Klapper,goresky & klapper,AUTOR,pesquisador ou autor,0.9143,153,13
+Goresky & Klapper,goresky & klapper,AUTOR,pesquisador ou autor,0.9357,153,13
+MFA,mfa,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4508,155,13
+MFAj,mfaj,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5629,155,13
+MFAj,mfaj,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6095,155,13
+MFA,mfa,PROTOCOLO,protocolo ou padrão de comunicação,0.9545,158,13
+MFA,mfa,PROTOCOLO,protocolo ou padrão de comunicação,0.944,158,13
+MFA,mfa,FRAMEWORK,framework ou biblioteca de software,0.5805,164,13
+MFA,mfa,FRAMEWORK,framework ou biblioteca de software,0.5722,164,13
+MSj,msj,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6801,165,13
+MSj,msj,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6757,165,13
+MSMUX4j,msmux4j,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4122,167,13
+MSMUX5j,msmux5j,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4008,167,13
+MSMUX6j,msmux6j,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4112,167,13
+MSMUX6j,msmux6j,FRAMEWORK,framework ou biblioteca de software,0.3919,170,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5853,184,13
+Módulo de Sincronização,módulo de sincronização,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5586,188,13
+módulo de sincronização,módulo de sincronização,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5978,188,13
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4999,188,13
+MFA,mfa,FRAMEWORK,framework ou biblioteca de software,0.4009,190,13
+MFA,mfa,FRAMEWORK,framework ou biblioteca de software,0.4606,193,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4874,194,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7815,196,13
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.9222,198,13
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.8639,198,13
+VHDL,vhdl,LANG,linguagem de programação,0.9161,198,13
+Verilog,verilog,LANG,linguagem de programação,0.8964,198,13
+Matlab,matlab,LANG,linguagem de programação,0.522,198,13
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.4111,199,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7363,201,13
+AG,algoritmo genético,HARDWARE,hardware ou plataforma embarcada,0.5071,204,13
+FPGA,fpga,LANG,linguagem de programação,0.5524,204,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8154,206,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8294,206,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6507,207,13
+Yoshida & Yasuoka,yoshida & yasuoka,AUTOR,pesquisador ou autor,0.811,207,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7017,208,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4174,210,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7141,214,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5085,214,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.659,216,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5238,218,13
+MFA,mfa,LANG,linguagem de programação,0.4857,218,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5365,218,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5856,219,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6703,221,13
+MUX,mux,PROTOCOLO,protocolo ou padrão de comunicação,0.4646,223,13
+MSMUX4j,msmux4j,PROTOCOLO,protocolo ou padrão de comunicação,0.4672,223,13
+MSMUX5j,msmux5j,PROTOCOLO,protocolo ou padrão de comunicação,0.4011,223,13
+MUX,mux,PROTOCOLO,protocolo ou padrão de comunicação,0.5814,224,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5405,224,13
+Virtex 7,virtex 7,HARDWARE,hardware ou plataforma embarcada,0.6043,224,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.713,226,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7243,228,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7127,228,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8585,230,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.516,232,13
+MFA,mfa,HARDWARE,hardware ou plataforma embarcada,0.5081,232,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7053,236,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9459,236,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6834,236,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9469,236,13
+Yoshida & Yasuoka,yoshida & yasuoka,AUTOR,pesquisador ou autor,0.8563,237,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6974,237,13
+Yoshida & Yasuoka,yoshida & yasuoka,AUTOR,pesquisador ou autor,0.8369,237,13
+MFA,mfa,LANG,linguagem de programação,0.6066,238,13
+Yoshida & Yasuoka,yoshida & yasuoka,AUTOR,pesquisador ou autor,0.8036,238,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6602,239,13
+OIMGA,oimga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7627,240,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6881,240,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5974,243,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.646,243,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6759,243,13
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4494,245,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6918,246,13
+Virtex 7,virtex 7,HARDWARE,hardware ou plataforma embarcada,0.5218,246,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4252,247,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7255,248,13
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7269,248,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6055,248,13
+LUTs,luts,HARDWARE,hardware ou plataforma embarcada,0.489,248,13
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6011,249,13
+Mahmood Ahmadi,mahmood ahmadi,AUTOR,pesquisador ou autor,0.8148,254,13
+IEEE,ieee,EMPRESA,organização ou empresa de tecnologia,0.8265,254,13
+IEEE,ieee,EMPRESA,organização ou empresa de tecnologia,0.8724,254,13
+IEEE,ieee,EMPRESA,organização ou empresa de tecnologia,0.7463,255,13
+ACM,acm,EMPRESA,organização ou empresa de tecnologia,0.599,255,13
+fpga,fpga,HARDWARE,hardware ou plataforma embarcada,0.6198,256,13
+q-learning,q-learning,METODO,método ou técnica computacional,0.4552,256,13
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9574,256,13
+Fpga,fpga,HARDWARE,hardware ou plataforma embarcada,0.5721,256,13
+fpgas,fpga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4463,261,13
+IEEE,ieee,EMPRESA,organização ou empresa de tecnologia,0.7889,262,13
+IEEE,ieee,EMPRESA,organização ou empresa de tecnologia,0.7072,263,13
+IEEE,ieee,EMPRESA,organização ou empresa de tecnologia,0.8554,263,13
+genetic algorithm,genetic algorithm,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4776,264,13
+IEEE,ieee,EMPRESA,organização ou empresa de tecnologia,0.7813,264,13
+IEEE,ieee,EMPRESA,organização ou empresa de tecnologia,0.8378,264,13
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9788,0,14
+Programa de Pós-Graduação em Engenharia Elétrica e de Computação,programa de pós-graduação em engenharia elétrica e de computação,INSTITUICAO,instituição de ensino ou pesquisa,0.5691,1,14
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.669,1,14
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9792,2,14
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9566,3,14
+Centro de Tecnologia,centro de tecnologia,INSTITUICAO,instituição de ensino ou pesquisa,0.6926,3,14
+Programa de Pós-Graduação em Engenharia Elétrica,programa de pós-graduação em engenharia elétrica,INSTITUICAO,instituição de ensino ou pesquisa,0.6088,3,14
+Field Programmable Gate Array,fpga,HARDWARE,hardware ou plataforma embarcada,0.5457,4,14
+Marcelo Augusto Costa,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.8719,4,14
+CAPES,capes,INSTITUICAO,instituição de ensino ou pesquisa,0.7513,8,14
+Field Programmable Gate Array,fpga,HARDWARE,hardware ou plataforma embarcada,0.7416,9,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4709,9,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.7301,10,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.7761,10,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6524,11,14
+sistemas embarcados,sistemas embarcados,HARDWARE,hardware ou plataforma embarcada,0.5624,11,14
+Field Programmable Gate Array,fpga,HARDWARE,hardware ou plataforma embarcada,0.5026,12,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6593,12,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5886,12,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.6484,12,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.7466,12,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.768,14,14
+Sistemas embarcados,sistemas embarcados,HARDWARE,hardware ou plataforma embarcada,0.5369,14,14
+Field Programmable Gate Array,fpga,HARDWARE,hardware ou plataforma embarcada,0.4818,15,14
+ML605,ml605,HARDWARE,hardware ou plataforma embarcada,0.6835,17,14
+Circuito RC,circuito rc,HARDWARE,hardware ou plataforma embarcada,0.7807,17,14
+Método de Euler Melhorado,método de euler melhorado,METODO,método ou técnica computacional,0.8319,17,14
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.7997,25,14
+Simulink,simulink,FRAMEWORK,framework ou biblioteca de software,0.7188,25,14
+algoritmos,algoritmos,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4304,25,14
+microprocessadores,microprocessador,HARDWARE,hardware ou plataforma embarcada,0.582,26,14
+SOUZA D. T.,souza d. t.,AUTOR,pesquisador ou autor,0.8535,26,14
+Field-Programmable Gate Array,fpga,HARDWARE,hardware ou plataforma embarcada,0.7681,29,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8477,29,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8947,29,14
+LAPLANTE PHILLIP A.,laplante phillip a.,AUTOR,pesquisador ou autor,0.823,29,14
+SOUZA D. T.,souza d. t.,AUTOR,pesquisador ou autor,0.8527,30,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.582,30,14
+Arduino,arduino,LANG,linguagem de programação,0.6328,34,14
+Souza D. T.,souza d. t.,AUTOR,pesquisador ou autor,0.9482,35,14
+STR,str,LANG,linguagem de programação,0.5139,37,14
+STR,str,LANG,linguagem de programação,0.5353,37,14
+STR,str,HARDWARE,hardware ou plataforma embarcada,0.4188,38,14
+STR,str,HARDWARE,hardware ou plataforma embarcada,0.505,38,14
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.4821,38,14
+VHDL,vhdl,PROTOCOLO,protocolo ou padrão de comunicação,0.7831,40,14
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.7788,40,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8791,41,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8398,41,14
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.7975,44,14
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.8143,44,14
+Matlab,matlab,LANG,linguagem de programação,0.8106,45,14
+Simulink,simulink,LANG,linguagem de programação,0.8341,45,14
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.5906,46,14
+Simulink,simulink,FRAMEWORK,framework ou biblioteca de software,0.5968,46,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.808,47,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.5596,49,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.4249,50,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8971,50,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8559,50,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7826,51,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.903,52,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.925,52,14
+sistemas embarcados,sistemas embarcados,HARDWARE,hardware ou plataforma embarcada,0.7902,53,14
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.8086,59,14
+Sistemas embarcados,sistemas embarcados,HARDWARE,hardware ou plataforma embarcada,0.6303,62,14
+sistemas embarcados,sistemas embarcados,HARDWARE,hardware ou plataforma embarcada,0.7419,64,14
+sistemas embarcados,sistemas embarcados,HARDWARE,hardware ou plataforma embarcada,0.7566,64,14
+sistemas embarcados,sistemas embarcados,HARDWARE,hardware ou plataforma embarcada,0.4238,65,14
+Laplante Phillip A.,laplante phillip a.,AUTOR,pesquisador ou autor,0.9545,65,14
+sistemas embarcados,sistemas embarcados,HARDWARE,hardware ou plataforma embarcada,0.5431,66,14
+sistemas embarcados,sistemas embarcados,HARDWARE,hardware ou plataforma embarcada,0.6524,67,14
+SISTEMAS EMBARCADOS,sistemas embarcados,HARDWARE,hardware ou plataforma embarcada,0.8583,67,14
+NASA,nasa,EMPRESA,organização ou empresa de tecnologia,0.6266,69,14
+Intel,intel,EMPRESA,organização ou empresa de tecnologia,0.7789,71,14
+sistemas embarcados,sistemas embarcados,HARDWARE,hardware ou plataforma embarcada,0.4748,72,14
+sistemas embarcados,sistemas embarcados,HARDWARE,hardware ou plataforma embarcada,0.6279,73,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.629,74,14
+Field Programmable Gate Array,fpga,HARDWARE,hardware ou plataforma embarcada,0.4747,74,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6519,74,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6908,74,14
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.922,74,14
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.9108,76,14
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.9332,76,14
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.7448,77,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7914,77,14
+VHDL,vhdl,LANG,linguagem de programação,0.9288,77,14
+Verilog,verilog,LANG,linguagem de programação,0.8261,78,14
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.4052,78,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7453,80,14
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.7182,81,14
+Laplante Phillip A.,laplante phillip a.,AUTOR,pesquisador ou autor,0.8202,83,14
+Laplante Phillip A.,laplante phillip a.,AUTOR,pesquisador ou autor,0.7776,84,14
+Laplante Phillip A.,laplante phillip a.,AUTOR,pesquisador ou autor,0.8836,87,14
+Laplante Phillip A.,laplante phillip a.,AUTOR,pesquisador ou autor,0.9319,89,14
+Laplante Phillip A.,laplante phillip a.,AUTOR,pesquisador ou autor,0.8693,90,14
+SISTEMAS EMBARCADOS,sistemas embarcados,HARDWARE,hardware ou plataforma embarcada,0.5503,92,14
+sistemas embarcados,sistemas embarcados,HARDWARE,hardware ou plataforma embarcada,0.5604,99,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5985,100,14
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.723,101,14
+SISTEMAS EMBARCADOS,sistemas embarcados,HARDWARE,hardware ou plataforma embarcada,0.4423,102,14
+STRSD,strsd,HARDWARE,hardware ou plataforma embarcada,0.4171,105,14
+STRSD,strsd,HARDWARE,hardware ou plataforma embarcada,0.4655,106,14
+MCP,mcp,FRAMEWORK,framework ou biblioteca de software,0.5364,107,14
+MCP,mcp,FRAMEWORK,framework ou biblioteca de software,0.4688,107,14
+MCP,mcp,HARDWARE,hardware ou plataforma embarcada,0.5663,108,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5853,108,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.6376,110,14
+STRSD,strsd,HARDWARE,hardware ou plataforma embarcada,0.4589,111,14
+MCP,mcp,HARDWARE,hardware ou plataforma embarcada,0.5489,114,14
+MCP,mcp,HARDWARE,hardware ou plataforma embarcada,0.3876,114,14
+MCP,mcp,HARDWARE,hardware ou plataforma embarcada,0.4805,114,14
+MGS,mgs,FRAMEWORK,framework ou biblioteca de software,0.5284,115,14
+MGS,mgs,FRAMEWORK,framework ou biblioteca de software,0.5026,115,14
+MGS,mgs,FRAMEWORK,framework ou biblioteca de software,0.5692,115,14
+MCP,mcp,FRAMEWORK,framework ou biblioteca de software,0.5484,117,14
+MCP,mcp,FRAMEWORK,framework ou biblioteca de software,0.526,121,14
+MCP,mcp,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5251,124,14
+MGS,mgs,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4538,124,14
+MCP,mcp,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6108,124,14
+MCP,mcp,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6266,124,14
+MCP,mcp,HARDWARE,hardware ou plataforma embarcada,0.6233,125,14
+MGS,mgs,HARDWARE,hardware ou plataforma embarcada,0.5315,125,14
+MCP,mcp,HARDWARE,hardware ou plataforma embarcada,0.6726,125,14
+MCP,mcp,HARDWARE,hardware ou plataforma embarcada,0.5856,125,14
+MGS,mgs,PROTOCOLO,protocolo ou padrão de comunicação,0.4869,125,14
+método de Euler,método de euler,METODO,método ou técnica computacional,0.463,135,14
+Método de Euler,método de euler,METODO,método ou técnica computacional,0.4553,135,14
+método de Euler,método de euler,METODO,método ou técnica computacional,0.7933,136,14
+método de Euler melhorado,método de euler melhorado,METODO,método ou técnica computacional,0.8574,136,14
+método de Euler,método de euler,METODO,método ou técnica computacional,0.6486,136,14
+método de Euler melhorado,método de euler melhorado,METODO,método ou técnica computacional,0.8104,136,14
+Método de Runge-Kutta de ordem 3,método de runge-kutta de ordem 3,METODO,método ou técnica computacional,0.9313,138,14
+método de Runge-Kutta de ordem 3,método de runge-kutta de ordem 3,METODO,método ou técnica computacional,0.9206,138,14
+método de Runge-Kutta de ordem 3,método de runge-kutta de ordem 3,METODO,método ou técnica computacional,0.8324,138,14
+Método de Runge-Kutta de ordem 3,método de runge-kutta de ordem 3,METODO,método ou técnica computacional,0.7098,140,14
+Método de Runge-Kutta de ordem 4,método de runge-kutta de ordem 4,METODO,método ou técnica computacional,0.8798,140,14
+método de Runge-Kutta de ordem 4,método de runge-kutta de ordem 4,METODO,método ou técnica computacional,0.9139,140,14
+método de Runge-Kutta de ordem 4,método de runge-kutta de ordem 4,METODO,método ou técnica computacional,0.7362,142,14
+Método de Runge-Kutta de ordem 4,método de runge-kutta de ordem 4,METODO,método ou técnica computacional,0.6417,142,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6219,143,14
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.7097,143,14
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.8173,144,14
+Simulink,simulink,FRAMEWORK,framework ou biblioteca de software,0.3811,144,14
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.8227,144,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.545,145,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7728,157,14
+MCP,mcp,HARDWARE,hardware ou plataforma embarcada,0.6197,158,14
+MCP,mcp,HARDWARE,hardware ou plataforma embarcada,0.6049,158,14
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.7549,164,14
+MGS,mgs,FRAMEWORK,framework ou biblioteca de software,0.5696,165,14
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.7765,166,14
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.8226,166,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5222,166,14
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.9313,167,14
+Simulink,simulink,FRAMEWORK,framework ou biblioteca de software,0.4476,167,14
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.9514,167,14
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.7268,172,14
+Simulink,simulink,LANG,linguagem de programação,0.6601,172,14
+LUTs,luts,HARDWARE,hardware ou plataforma embarcada,0.7269,175,14
+plataforma,plataforma,HARDWARE,hardware ou plataforma embarcada,0.4766,176,14
+método de Euler,método de euler,METODO,método ou técnica computacional,0.8298,178,14
+método de Euler Melhorado,método de euler melhorado,METODO,método ou técnica computacional,0.8169,178,14
+Simulink,simulink,LANG,linguagem de programação,0.4333,179,14
+método de Euler,método de euler,METODO,método ou técnica computacional,0.478,180,14
+método de Euler,método de euler,METODO,método ou técnica computacional,0.6367,182,14
+método de Euler,método de euler,METODO,método ou técnica computacional,0.4958,182,14
+método de Runge-Kutta,método de runge-kutta,METODO,método ou técnica computacional,0.6456,182,14
+método de Euler,método de euler,METODO,método ou técnica computacional,0.6522,183,14
+método de Euler,método de euler,METODO,método ou técnica computacional,0.5938,183,14
+método de Runge-Kutta,método de runge-kutta,METODO,método ou técnica computacional,0.5242,183,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.6149,184,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.6089,185,14
+plataforma,plataforma,HARDWARE,hardware ou plataforma embarcada,0.3887,186,14
+método de Euler,método de euler,METODO,método ou técnica computacional,0.4771,186,14
+plataforma,plataforma,HARDWARE,hardware ou plataforma embarcada,0.4979,186,14
+método de Runge-Kutta,método de runge-kutta,METODO,método ou técnica computacional,0.755,188,14
+método de Runge-Kutta,método de runge-kutta,METODO,método ou técnica computacional,0.6747,188,14
+método de Euler,método de euler,METODO,método ou técnica computacional,0.5373,188,14
+método de Runge-Kutta,método de runge-kutta,METODO,método ou técnica computacional,0.7659,189,14
+método de Runge-Kutta,método de runge-kutta,METODO,método ou técnica computacional,0.6772,189,14
+método de Euler,método de euler,METODO,método ou técnica computacional,0.545,189,14
+método de Runge-Kutta,método de runge-kutta,METODO,método ou técnica computacional,0.91,190,14
+método de Runge-Kutta,método de runge-kutta,METODO,método ou técnica computacional,0.8546,190,14
+Simulink,simulink,LANG,linguagem de programação,0.5992,192,14
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.4849,198,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.3809,201,14
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.8115,201,14
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.8391,201,14
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.9165,202,14
+Simulink,simulink,FRAMEWORK,framework ou biblioteca de software,0.5145,202,14
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.9212,202,14
+método de Euler,método de euler,METODO,método ou técnica computacional,0.633,210,14
+método de Euler,método de euler,METODO,método ou técnica computacional,0.5629,210,14
+método de Runge-Kutta,método de runge-kutta,METODO,método ou técnica computacional,0.5449,211,14
+método de Euler,método de euler,METODO,método ou técnica computacional,0.8849,212,14
+método de Euler Melhorado,método de euler melhorado,METODO,método ou técnica computacional,0.7114,212,14
+método de Runge-Kutta,método de runge-kutta,METODO,método ou técnica computacional,0.6045,212,14
+método de Runge-Kutta,método de runge-kutta,METODO,método ou técnica computacional,0.4648,212,14
+método de Euler,método de euler,METODO,método ou técnica computacional,0.4924,213,14
+método de Runge-Kutta,método de runge-kutta,METODO,método ou técnica computacional,0.5465,214,14
+método de Euler,método de euler,METODO,método ou técnica computacional,0.8849,215,14
+método de Euler Melhorado,método de euler melhorado,METODO,método ou técnica computacional,0.7114,215,14
+método de Runge-Kutta,método de runge-kutta,METODO,método ou técnica computacional,0.6045,215,14
+método de Runge-Kutta,método de runge-kutta,METODO,método ou técnica computacional,0.4648,215,14
+ML605,ml605,HARDWARE,hardware ou plataforma embarcada,0.8574,216,14
+Circuito RC,circuito rc,HARDWARE,hardware ou plataforma embarcada,0.9272,216,14
+ML605,ml605,HARDWARE,hardware ou plataforma embarcada,0.8739,216,14
+Circuito RC,circuito rc,HARDWARE,hardware ou plataforma embarcada,0.9278,216,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.8864,218,14
+método de Euler,método de euler,METODO,método ou técnica computacional,0.8508,218,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.8642,218,14
+método de Euler Melhorado,método de euler melhorado,METODO,método ou técnica computacional,0.5473,218,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.8529,218,14
+método de Runge-Kutta,método de runge-kutta,METODO,método ou técnica computacional,0.7062,218,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.8804,218,14
+método de Runge-Kutta,método de runge-kutta,METODO,método ou técnica computacional,0.475,218,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.8587,219,14
+método de Euler,método de euler,METODO,método ou técnica computacional,0.5122,219,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.8686,219,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.849,220,14
+método de Runge-Kutta,método de runge-kutta,METODO,método ou técnica computacional,0.53,220,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.8507,220,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.8864,221,14
+método de Euler,método de euler,METODO,método ou técnica computacional,0.8508,221,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.8642,221,14
+método de Euler Melhorado,método de euler melhorado,METODO,método ou técnica computacional,0.5473,221,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.8529,221,14
+método de Runge-Kutta,método de runge-kutta,METODO,método ou técnica computacional,0.7062,221,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.8804,221,14
+método de Runge-Kutta,método de runge-kutta,METODO,método ou técnica computacional,0.475,221,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.8559,222,14
+método de Euler,método de euler,METODO,método ou técnica computacional,0.5101,222,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.8659,222,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.8493,223,14
+método de Runge-Kutta,método de runge-kutta,METODO,método ou técnica computacional,0.5195,223,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.8557,223,14
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6933,224,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.7431,224,14
+MCP,mcp,HARDWARE,hardware ou plataforma embarcada,0.5133,224,14
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.6681,225,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.9186,226,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.9007,226,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.5001,227,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.7174,231,14
+STRSD-FPGA,strsd-fpga,HARDWARE,hardware ou plataforma embarcada,0.7701,231,14
+Arduino,arduino,HARDWARE,hardware ou plataforma embarcada,0.4524,232,14
+Arduino,arduino,HARDWARE,hardware ou plataforma embarcada,0.593,232,14
+C++,c++,LANG,linguagem de programação,0.5714,234,14
+ACM,acm,EMPRESA,organização ou empresa de tecnologia,0.5635,240,14
+ACM,acm,EMPRESA,organização ou empresa de tecnologia,0.526,240,14
+NASA,nasa,EMPRESA,organização ou empresa de tecnologia,0.7459,243,14
+Nasa,nasa,EMPRESA,organização ou empresa de tecnologia,0.7861,243,14
+IEEE,ieee,EMPRESA,organização ou empresa de tecnologia,0.7314,246,14
+Método de Euler,método de euler,METODO,método ou técnica computacional,0.6763,248,14
+Método de Euler,método de euler,METODO,método ou técnica computacional,0.5772,248,14
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9699,0,15
+Prof. Dr. Marcelo Augusto Costa Fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.7862,1,15
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.8714,1,15
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9718,2,15
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9643,4,15
+Centro de Tecnologia,centro de tecnologia,INSTITUICAO,instituição de ensino ou pesquisa,0.6065,4,15
+Programa de Pós-Graduação em Engenharia Elétrica e de Computação,programa de pós-graduação em engenharia elétrica e de computação,INSTITUICAO,instituição de ensino ou pesquisa,0.5772,4,15
+Marcelo Augusto Costa fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.9124,4,15
+Algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6652,4,15
+Programação linear,programação linear,LANG,linguagem de programação,0.9316,5,15
+Programação estocástica,programação estocástica,LANG,linguagem de programação,0.8504,5,15
+Marcelo Augusto Costa,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.7979,5,15
+Marcelo Fernandes,marcelo fernandes,AUTOR,pesquisador ou autor,0.8287,6,15
+programação linear,programação linear,LANG,linguagem de programação,0.5583,8,15
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.548,9,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5268,9,15
+Algoritmos Genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4607,12,15
+Programação linear,programação linear,METODO,método ou técnica computacional,0.6823,12,15
+Programação estocástica,programação estocástica,METODO,método ou técnica computacional,0.6358,12,15
+linear programming,linear programming,METODO,método ou técnica computacional,0.5498,12,15
+genetic algorithms,genetic algorithms,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5659,12,15
+ELC-GA,elc-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5049,13,15
+genetic algorithm,genetic algorithm,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6786,14,15
+genetic algorithms,genetic algorithms,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6361,14,15
+ELCGA,elcga,METODO,método ou técnica computacional,0.6932,15,15
+CMA,cma,METODO,método ou técnica computacional,0.7428,15,15
+Genetic Algorithms,genetic algorithms,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5067,17,15
+Linear Programming,linear programming,LANG,linguagem de programação,0.635,17,15
+Algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5549,18,15
+Algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4335,18,15
+método da roleta,método da roleta,METODO,método ou técnica computacional,0.5589,19,15
+AWGN,awgn,LANG,linguagem de programação,0.5372,21,15
+4-QAM,4-qam,PROTOCOLO,protocolo ou padrão de comunicação,0.6882,23,15
+16-QAM,16-qam,PROTOCOLO,protocolo ou padrão de comunicação,0.6376,23,15
+4-QAM,4-qam,PROTOCOLO,protocolo ou padrão de comunicação,0.5735,24,15
+16-QAM,16-qam,PROTOCOLO,protocolo ou padrão de comunicação,0.5341,24,15
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.7094,25,15
+CMA,cma,FRAMEWORK,framework ou biblioteca de software,0.3854,29,15
+Genetic algorithm,genetic algorithm,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8381,32,15
+Linear programming,linear programming,METODO,método ou técnica computacional,0.4507,33,15
+ISI,isi,PROTOCOLO,protocolo ou padrão de comunicação,0.6163,38,15
+ISI,isi,PROTOCOLO,protocolo ou padrão de comunicação,0.6642,38,15
+ISI,isi,PROTOCOLO,protocolo ou padrão de comunicação,0.6409,38,15
+ISI,isi,EMPRESA,organização ou empresa de tecnologia,0.4457,39,15
+ISI,isi,INSTITUICAO,instituição de ensino ou pesquisa,0.4869,40,15
+ISI,isi,INSTITUICAO,instituição de ensino ou pesquisa,0.6003,40,15
+equalização cega,equalização cega,METODO,método ou técnica computacional,0.6191,43,15
+equalização cega,equalização cega,METODO,método ou técnica computacional,0.8363,43,15
+equalização cega,equalização cega,METODO,método ou técnica computacional,0.7801,43,15
+HOS,hos,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4392,44,15
+CMA,cma,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6012,44,15
+HOS,hos,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4864,44,15
+CMA,cma,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4807,44,15
+ISI,isi,INSTITUICAO,instituição de ensino ou pesquisa,0.5961,45,15
+CMA,cma,INSTITUICAO,instituição de ensino ou pesquisa,0.5209,45,15
+HOS,hos,LANG,linguagem de programação,0.5382,46,15
+Programação Linear,programação linear,LANG,linguagem de programação,0.6768,48,15
+CMA,cma,LANG,linguagem de programação,0.4017,48,15
+programação linear,programação linear,LANG,linguagem de programação,0.4911,48,15
+programação linear,programação linear,LANG,linguagem de programação,0.582,49,15
+programação linear,programação linear,LANG,linguagem de programação,0.4393,52,15
+Genetic Algorithm,genetic algorithm,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5133,54,15
+CMA,cma,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4209,55,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4572,58,15
+algoritmos,algoritmos,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6104,60,15
+programação linear,programação linear,LANG,linguagem de programação,0.5164,61,15
+programação linear,programação linear,LANG,linguagem de programação,0.4948,62,15
+programação linear,programação linear,LANG,linguagem de programação,0.904,63,15
+programação linear,programação linear,LANG,linguagem de programação,0.9143,63,15
+algoritmos genéticos,algoritmo genético,METODO,método ou técnica computacional,0.6324,64,15
+programação linear,programação linear,LANG,linguagem de programação,0.5802,66,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5654,67,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5231,67,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.535,67,15
+ELC-GA,elc-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9538,68,15
+ELC-GA,elc-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9281,68,15
+ELC-GA,elc-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9098,68,15
+Marcelo Fernandes,marcelo fernandes,AUTOR,pesquisador ou autor,0.8611,69,15
+Marcelo Fernandes,marcelo fernandes,AUTOR,pesquisador ou autor,0.8932,69,15
+Marcelo Fernandes,marcelo fernandes,AUTOR,pesquisador ou autor,0.8831,70,15
+Programação Linear,programação linear,LANG,linguagem de programação,0.734,71,15
+Programação Linear,programação linear,LANG,linguagem de programação,0.7649,71,15
+ELC-GA,elc-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.493,72,15
+Algoritmos Genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6718,74,15
+ALGORITMOS GENÉTICOS,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5645,77,15
+Algoritmos Genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7404,79,15
+algoritmos genéticos,algoritmo genético,METODO,método ou técnica computacional,0.6579,81,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6687,82,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7407,82,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5686,83,15
+fenótipo,fenótipo,METODO,método ou técnica computacional,0.4979,88,15
+fenótipo,fenótipo,METODO,método ou técnica computacional,0.5243,88,15
+fenótipo,fenótipo,METODO,método ou técnica computacional,0.4811,88,15
+fenótipo,fenótipo,METODO,método ou técnica computacional,0.4978,88,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7808,89,15
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6138,89,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6179,90,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5395,93,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4122,95,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6502,98,15
+ALGORITMOS GENÉTICOS,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4476,102,15
+método da roleta,método da roleta,METODO,método ou técnica computacional,0.857,105,15
+método da roleta,método da roleta,METODO,método ou técnica computacional,0.8345,105,15
+método da roleta,método da roleta,METODO,método ou técnica computacional,0.5144,107,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7493,109,15
+ALGORITMOS GENÉTICOS,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6572,116,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6378,116,15
+algoritmo genético,algoritmo genético,METODO,método ou técnica computacional,0.6141,128,15
+Algoritmo Genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7483,129,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6738,129,15
+ALGORITMOS GENÉTICOS,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7912,130,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7204,130,15
+ALGORITMOS GENÉTICOS,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8258,135,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7726,135,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6332,137,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4653,139,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6249,139,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6618,140,15
+canal,canal,PROTOCOLO,protocolo ou padrão de comunicação,0.3992,141,15
+canal,canal,PROTOCOLO,protocolo ou padrão de comunicação,0.5045,149,15
+canal,canal,PROTOCOLO,protocolo ou padrão de comunicação,0.6225,149,15
+ISI,isi,FRAMEWORK,framework ou biblioteca de software,0.4031,156,15
+AWGN,awgn,FRAMEWORK,framework ou biblioteca de software,0.3986,156,15
+ISI,isi,FRAMEWORK,framework ou biblioteca de software,0.4451,156,15
+CMA,cma,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8191,166,15
+CMA,cma,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8471,166,15
+programação linear,programação linear,LANG,linguagem de programação,0.5293,171,15
+programação linear estocástica,programação linear estocástica,LANG,linguagem de programação,0.6974,172,15
+Programação Linear Estocástica,programação linear estocástica,LANG,linguagem de programação,0.5946,172,15
+programação linear,programação linear,LANG,linguagem de programação,0.6774,173,15
+programação linear,programação linear,LANG,linguagem de programação,0.9647,174,15
+programação linear,programação linear,LANG,linguagem de programação,0.9402,174,15
+programação estocástica,programação estocástica,METODO,método ou técnica computacional,0.9305,175,15
+programação estocástica,programação estocástica,METODO,método ou técnica computacional,0.936,175,15
+programação estocástica,programação estocástica,METODO,método ou técnica computacional,0.8884,175,15
+programação linear,programação linear,LANG,linguagem de programação,0.9476,178,15
+programação linear,programação linear,LANG,linguagem de programação,0.7988,178,15
+programação linear,programação linear,LANG,linguagem de programação,0.9284,178,15
+programação linear,programação linear,LANG,linguagem de programação,0.6319,186,15
+programação linear,programação linear,LANG,linguagem de programação,0.572,190,15
+programação linear,programação linear,LANG,linguagem de programação,0.6073,190,15
+PROGRAMAÇÃO LINEAR,programação linear,LANG,linguagem de programação,0.7132,191,15
+programação linear,programação linear,LANG,linguagem de programação,0.702,191,15
+programação linear,programação linear,LANG,linguagem de programação,0.5249,192,15
+modelo de programação linear,modelo de programação linear,LANG,linguagem de programação,0.4919,193,15
+modelo de programação linear,modelo de programação linear,LANG,linguagem de programação,0.8419,194,15
+modelo de programação linear,modelo de programação linear,LANG,linguagem de programação,0.8808,194,15
+programação linear,programação linear,LANG,linguagem de programação,0.675,195,15
+programação estocástica,programação estocástica,LANG,linguagem de programação,0.7136,196,15
+PROGRAMAÇÃO LINEAR ESTOCÁSTICA,programação linear estocástica,METODO,método ou técnica computacional,0.5404,196,15
+programação estocástica,programação estocástica,LANG,linguagem de programação,0.7451,196,15
+Chance-constrained programming,chance-constrained programming,METODO,método ou técnica computacional,0.5675,205,15
+Chance-constrained programming,chance-constrained programming,METODO,método ou técnica computacional,0.6754,206,15
+Algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7153,210,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7806,210,15
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5049,210,15
+chance-constrained programming,chance-constrained programming,LANG,linguagem de programação,0.7544,211,15
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4185,212,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7638,213,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.814,213,15
+programação linear,programação linear,LANG,linguagem de programação,0.7302,214,15
+programação linear,programação linear,LANG,linguagem de programação,0.5955,217,15
+ISI,isi,LANG,linguagem de programação,0.5095,217,15
+ISI,isi,LANG,linguagem de programação,0.4462,217,15
+JPL,jpl,FRAMEWORK,framework ou biblioteca de software,0.7193,226,15
+JPL,jpl,FRAMEWORK,framework ou biblioteca de software,0.7306,226,15
+JPL,jpl,FRAMEWORK,framework ou biblioteca de software,0.4932,227,15
+CMA,cma,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5404,228,15
+ELC-GA,elc-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6215,230,15
+ELC-GA,elc-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8662,231,15
+ELC-GA,elc-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8769,231,15
+ELC-GA,elc-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9025,231,15
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4712,232,15
+CMA,cma,FRAMEWORK,framework ou biblioteca de software,0.4385,232,15
+ELC-GA,elc-ga,FRAMEWORK,framework ou biblioteca de software,0.4417,232,15
+ELC-GA,elc-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4616,240,15
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4684,241,15
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.7481,241,15
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5778,242,15
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.8503,244,15
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.8868,244,15
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.8814,244,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.496,253,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9005,254,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9222,254,15
+ELC-GA,elc-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6788,256,15
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5751,257,15
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.7166,257,15
+Mathworks,mathworks,FRAMEWORK,framework ou biblioteca de software,0.3884,257,15
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.409,258,15
+AWGN,awgn,PROTOCOLO,protocolo ou padrão de comunicação,0.416,259,15
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9308,263,15
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8976,263,15
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.742,263,15
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9085,263,15
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.6948,264,15
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.7064,265,15
+4-QAM,4-qam,PROTOCOLO,protocolo ou padrão de comunicação,0.6885,265,15
+16-QAM,16-qam,PROTOCOLO,protocolo ou padrão de comunicação,0.7701,265,15
+64-QAM,64-qam,PROTOCOLO,protocolo ou padrão de comunicação,0.7903,265,15
+ELC-GA,elc-ga,METODO,método ou técnica computacional,0.4597,266,15
+CMA,cma,METODO,método ou técnica computacional,0.7167,266,15
+64-QAM,64-qam,PROTOCOLO,protocolo ou padrão de comunicação,0.39,266,15
+CMA,cma,METODO,método ou técnica computacional,0.614,266,15
+CMA,cma,FRAMEWORK,framework ou biblioteca de software,0.4067,267,15
+CMA,cma,FRAMEWORK,framework ou biblioteca de software,0.4053,267,15
+ELC-GA,elc-ga,PROTOCOLO,protocolo ou padrão de comunicação,0.4686,268,15
+16-QAM,16-qam,PROTOCOLO,protocolo ou padrão de comunicação,0.6374,268,15
+64-QAM,64-qam,PROTOCOLO,protocolo ou padrão de comunicação,0.5558,268,15
+ELC-GA,elc-ga,PROTOCOLO,protocolo ou padrão de comunicação,0.512,268,15
+16-QAM,16-qam,PROTOCOLO,protocolo ou padrão de comunicação,0.8746,272,15
+64-QAM,64-qam,PROTOCOLO,protocolo ou padrão de comunicação,0.8586,272,15
+4-QAM,4-qam,PROTOCOLO,protocolo ou padrão de comunicação,0.5808,272,15
+CMA,cma,METODO,método ou técnica computacional,0.5988,272,15
+16-QAM,16-qam,PROTOCOLO,protocolo ou padrão de comunicação,0.8553,272,15
+64-QAM,64-qam,PROTOCOLO,protocolo ou padrão de comunicação,0.8289,272,15
+CMA,cma,METODO,método ou técnica computacional,0.6353,272,15
+ELCGA,elcga,METODO,método ou técnica computacional,0.5178,272,15
+CMA,cma,METODO,método ou técnica computacional,0.6095,272,15
+ELC-GA,elc-ga,PROTOCOLO,protocolo ou padrão de comunicação,0.697,273,15
+4-QAM,4-qam,PROTOCOLO,protocolo ou padrão de comunicação,0.5819,273,15
+16-QAM,16-qam,PROTOCOLO,protocolo ou padrão de comunicação,0.7415,273,15
+64-QAM,64-qam,PROTOCOLO,protocolo ou padrão de comunicação,0.7104,273,15
+ELC-GA,elc-ga,PROTOCOLO,protocolo ou padrão de comunicação,0.702,273,15
+4-QAM,4-qam,PROTOCOLO,protocolo ou padrão de comunicação,0.4038,277,15
+4-QAM,4-qam,PROTOCOLO,protocolo ou padrão de comunicação,0.4823,278,15
+16-QAM,16-qam,PROTOCOLO,protocolo ou padrão de comunicação,0.472,279,15
+CMA,cma,FRAMEWORK,framework ou biblioteca de software,0.882,280,15
+64-QAM,64-qam,LANG,linguagem de programação,0.6684,280,15
+CMA,cma,FRAMEWORK,framework ou biblioteca de software,0.9041,280,15
+ELC-GA,elc-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9392,281,15
+CMA,cma,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6321,281,15
+ELC-GA,elc-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9214,281,15
+ELC-GA,elc-ga,FRAMEWORK,framework ou biblioteca de software,0.3953,282,15
+CMA,cma,METODO,método ou técnica computacional,0.5824,283,15
+ELCGA,elcga,METODO,método ou técnica computacional,0.6156,283,15
+CMA,cma,METODO,método ou técnica computacional,0.4702,283,15
+ELC-GA,elc-ga,METODO,método ou técnica computacional,0.5188,283,15
+ELC-GA,elc-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6545,286,15
+CMA,cma,METODO,método ou técnica computacional,0.4821,288,15
+ELC-GA,elc-ga,METODO,método ou técnica computacional,0.4537,288,15
+CMA,cma,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6589,289,15
+CMA,cma,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.588,289,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8455,291,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.843,291,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7019,292,15
+programação linear,programação linear,LANG,linguagem de programação,0.6618,292,15
+programação linear,programação linear,LANG,linguagem de programação,0.6776,292,15
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6989,292,15
+programação linear,programação linear,LANG,linguagem de programação,0.7026,293,15
+Chance-constrained programming,chance-constrained programming,METODO,método ou técnica computacional,0.4539,296,15
+IEEE,ieee,EMPRESA,organização ou empresa de tecnologia,0.522,297,15
+Linear Programming,linear programming,LANG,linguagem de programação,0.6473,297,15
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.981,0,16
+Programa de Pós-Graduação em Engenharia,programa de pós-graduação em engenharia,INSTITUICAO,instituição de ensino ou pesquisa,0.7258,1,16
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.8109,2,16
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9732,3,16
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9623,4,16
+Centro de Tecnologia,centro de tecnologia,INSTITUICAO,instituição de ensino ou pesquisa,0.7632,4,16
+Programa de Pós-Graduação em Engenharia Elétrica e de Computação,programa de pós-graduação em engenharia elétrica e de computação,INSTITUICAO,instituição de ensino ou pesquisa,0.6846,4,16
+Marcelo Augusto Costa,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.8017,5,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6543,5,16
+Marcelo Augusto Costa,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.8616,5,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5506,6,16
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9072,9,16
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.8389,9,16
+Q-learning,q-learning,METODO,método ou técnica computacional,0.5221,11,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6142,11,16
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.8306,12,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7559,12,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7173,12,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7309,12,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9451,13,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9429,13,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8954,13,16
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.4489,14,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.399,14,16
+Q-learning,q-learning,METODO,método ou técnica computacional,0.7313,14,16
+Q-Learning,q-learning,METODO,método ou técnica computacional,0.77,14,16
+Q-learning,q-learning,METODO,método ou técnica computacional,0.6434,14,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8469,19,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5229,20,16
+de Souza & Fernandes,de souza & fernandes,AUTOR,pesquisador ou autor,0.7606,22,16
+Q-learning,q-learning,METODO,método ou técnica computacional,0.5099,23,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9544,25,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9511,25,16
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.7104,26,16
+ASIC,asic,HARDWARE,hardware ou plataforma embarcada,0.4799,26,16
+Kuon & Rose,kuon & rose,AUTOR,pesquisador ou autor,0.855,26,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6493,27,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7264,27,16
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.7264,28,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6388,30,16
+Q-Learning,q-learning,METODO,método ou técnica computacional,0.4765,31,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5613,32,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6344,33,16
+SARSA,sarsa,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9074,34,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8248,34,16
+SARSA,sarsa,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8592,34,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.695,34,16
+SARSA,sarsa,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8936,34,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7175,34,16
+SARSA,sarsa,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.812,34,16
+VHDL,vhdl,LANG,linguagem de programação,0.8883,34,16
+Woehrle & Kirchner,woehrle & kirchner,AUTOR,pesquisador ou autor,0.7713,35,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5926,36,16
+ASIC,asic,HARDWARE,hardware ou plataforma embarcada,0.7937,36,16
+de Souza & Fernandes,de souza & fernandes,AUTOR,pesquisador ou autor,0.8413,36,16
+Kuon & Rose,kuon & rose,AUTOR,pesquisador ou autor,0.7837,37,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5539,37,16
+GPUs,gpus,HARDWARE,hardware ou plataforma embarcada,0.688,38,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9657,41,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9734,41,16
+GPU,gpu,HARDWARE,hardware ou plataforma embarcada,0.7645,41,16
+CPU,cpu,HARDWARE,hardware ou plataforma embarcada,0.552,41,16
+GPU,gpu,HARDWARE,hardware ou plataforma embarcada,0.7775,42,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4949,42,16
+GPUs,gpus,HARDWARE,hardware ou plataforma embarcada,0.7318,42,16
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.6508,43,16
+Q-learning,q-learning,METODO,método ou técnica computacional,0.5035,44,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9532,45,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9475,45,16
+Q-learning,q-learning,METODO,método ou técnica computacional,0.5582,45,16
+GPUs,gpus,HARDWARE,hardware ou plataforma embarcada,0.7819,46,16
+Lucileide M. D. da Silva,lucileide m. d. da silva,AUTOR,pesquisador ou autor,0.9243,47,16
+Matheus F. Torquato,matheus f. torquato,AUTOR,pesquisador ou autor,0.9009,47,16
+Marcelo A. C. Fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.9312,47,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5368,47,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5273,47,16
+Lucileide M. D. da Silva,lucileide m. d. da silva,AUTOR,pesquisador ou autor,0.8826,47,16
+Marcelo A. C. Fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.9474,47,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5475,47,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5727,47,16
+Escola Potiguar de Computação e suas Aplicações,escola potiguar de computação e suas aplicações,INSTITUICAO,instituição de ensino ou pesquisa,0.6924,47,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7297,49,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7403,50,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9453,52,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9461,52,16
+Computação Reconﬁgurável,computação reconﬁgurável,METODO,método ou técnica computacional,0.6443,53,16
+computação reconﬁgurável,computação reconﬁgurável,METODO,método ou técnica computacional,0.8391,53,16
+computação reconﬁgurável,computação reconﬁgurável,METODO,método ou técnica computacional,0.8177,53,16
+ASIC,asic,HARDWARE,hardware ou plataforma embarcada,0.5133,53,16
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.7775,53,16
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.7663,53,16
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.8706,55,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.75,55,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4411,56,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4434,56,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4751,56,16
+ASICs,asics,HARDWARE,hardware ou plataforma embarcada,0.3986,56,16
+Kuon & Rose,kuon & rose,AUTOR,pesquisador ou autor,0.8194,57,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9359,57,16
+ASIC,asic,HARDWARE,hardware ou plataforma embarcada,0.9174,57,16
+microprocessadores,microprocessador,HARDWARE,hardware ou plataforma embarcada,0.5307,57,16
+ASIC,asic,HARDWARE,hardware ou plataforma embarcada,0.9283,57,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9013,57,16
+microprocessadores,microprocessador,HARDWARE,hardware ou plataforma embarcada,0.6052,57,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.91,57,16
+Field Programmable Gate Arrays,field programmable gate arrays,HARDWARE,hardware ou plataforma embarcada,0.4729,59,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4736,59,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9728,60,16
+Field Programmable Gate Array,fpga,HARDWARE,hardware ou plataforma embarcada,0.6851,60,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9557,60,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9055,61,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8686,61,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9035,62,16
+Woehrle & Kirchner,woehrle & kirchner,AUTOR,pesquisador ou autor,0.7922,62,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8909,62,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7044,63,16
+LUTs,luts,HARDWARE,hardware ou plataforma embarcada,0.5954,64,16
+LUTs,luts,HARDWARE,hardware ou plataforma embarcada,0.5109,64,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5341,64,16
+SRAM,sram,HARDWARE,hardware ou plataforma embarcada,0.6357,65,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5885,65,16
+SRAM,sram,HARDWARE,hardware ou plataforma embarcada,0.6646,65,16
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.7224,65,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8677,66,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8425,66,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5895,67,16
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.5082,67,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7374,67,16
+Hardware Description Language,hardware description language,LANG,linguagem de programação,0.8765,67,16
+HDL,hdl,LANG,linguagem de programação,0.8651,67,16
+HDL,hdl,LANG,linguagem de programação,0.7417,67,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7385,68,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4191,69,16
+Hauck & Dehon,hauck & dehon,AUTOR,pesquisador ou autor,0.7779,69,16
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.8276,69,16
+ASICs,asics,HARDWARE,hardware ou plataforma embarcada,0.6,69,16
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.8141,69,16
+ASICs,asics,HARDWARE,hardware ou plataforma embarcada,0.4193,70,16
+Kuon & Rose,kuon & rose,AUTOR,pesquisador ou autor,0.8609,70,16
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.5556,70,16
+bioinformática,bioinformática,METODO,método ou técnica computacional,0.535,70,16
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.42,70,16
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.4903,70,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8878,71,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8787,71,16
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.6217,71,16
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.7635,72,16
+Woehrle & Kirchner,woehrle & kirchner,AUTOR,pesquisador ou autor,0.7796,73,16
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.7572,74,16
+Hauck & Dehon,hauck & dehon,AUTOR,pesquisador ou autor,0.7556,74,16
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.7953,75,16
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.8168,76,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4468,76,16
+Hauck & Dehon,hauck & dehon,AUTOR,pesquisador ou autor,0.7875,77,16
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.5248,77,16
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.5952,78,16
+SRAM,sram,HARDWARE,hardware ou plataforma embarcada,0.5152,78,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8398,79,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8426,79,16
+Q-learning,q-learning,METODO,método ou técnica computacional,0.8587,81,16
+Q-learning,q-learning,METODO,método ou técnica computacional,0.8886,81,16
+Q-learning,q-learning,METODO,método ou técnica computacional,0.8321,94,16
+Q-LEARNING,q-learning,METODO,método ou técnica computacional,0.8455,94,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5606,96,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6161,99,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6081,99,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5437,101,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4146,102,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8766,103,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8841,103,16
+algoritmo Q-learning,algoritmo q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4324,104,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5293,107,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7225,108,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6354,110,16
+Q-learning,q-learning,FRAMEWORK,framework ou biblioteca de software,0.4846,116,16
+Q-learning,q-learning,HARDWARE,hardware ou plataforma embarcada,0.5838,130,16
+algoritmo Q-learning,algoritmo q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8677,149,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8038,149,16
+algoritmo Q-learning,algoritmo q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7803,149,16
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.89,155,16
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.9077,155,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8301,162,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7842,173,16
+LUTs,luts,HARDWARE,hardware ou plataforma embarcada,0.5706,177,16
+LUTs,luts,HARDWARE,hardware ou plataforma embarcada,0.4835,178,16
+LUTs,luts,HARDWARE,hardware ou plataforma embarcada,0.5009,178,16
+LUTs,luts,METODO,método ou técnica computacional,0.7347,179,16
+LUTs,luts,METODO,método ou técnica computacional,0.6686,179,16
+LUTs,luts,METODO,método ou técnica computacional,0.7515,179,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9551,180,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9668,180,16
+Q-learning,q-learning,FRAMEWORK,framework ou biblioteca de software,0.5793,189,16
+Q-learning,q-learning,FRAMEWORK,framework ou biblioteca de software,0.7179,189,16
+Q-learning,q-learning,FRAMEWORK,framework ou biblioteca de software,0.5618,190,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7899,191,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8143,191,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8533,191,16
+Q-learning,q-learning,METODO,método ou técnica computacional,0.8217,195,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7443,195,16
+Q-learning,q-learning,METODO,método ou técnica computacional,0.7715,195,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.702,195,16
+Q-learning,q-learning,METODO,método ou técnica computacional,0.9236,196,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.807,196,16
+Q-learning,q-learning,METODO,método ou técnica computacional,0.9128,196,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8022,197,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7738,197,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9329,198,16
+Q-learning,q-learning,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9055,198,16
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7075,200,16
+Q-learning,q-learning,METODO,método ou técnica computacional,0.6168,209,16
+fpga,fpga,HARDWARE,hardware ou plataforma embarcada,0.6203,212,16
+gpu,gpu,HARDWARE,hardware ou plataforma embarcada,0.6037,212,16
+cpu,cpu,HARDWARE,hardware ou plataforma embarcada,0.5028,212,16
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.7218,215,16
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.7844,215,16
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.6844,215,16
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9704,216,16
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.7942,216,16
+Marcelo A. C. Fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.7888,217,16
+Marcelo Augusto Costa Fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.8831,220,16
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9804,0,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7416,0,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6345,0,17
+Programa de Pós-Graduação em Engenharia,programa de pós-graduação em engenharia,INSTITUICAO,instituição de ensino ou pesquisa,0.7275,1,17
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9059,2,17
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9012,3,17
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.8898,3,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7039,4,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6483,4,17
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9662,4,17
+Programa de Pós-Graduação em Engenharia Elétrica e de Computação,programa de pós-graduação em engenharia elétrica e de computação,INSTITUICAO,instituição de ensino ou pesquisa,0.54,4,17
+Marcelo Augusto Costa,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.7799,5,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.4669,5,17
+Marcelo Augusto Costa,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.8326,5,17
+algoritmo MD5,algoritmo md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9067,10,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6138,11,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5045,11,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6499,11,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8941,12,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.895,12,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9274,12,17
+hash,hash,METODO,método ou técnica computacional,0.4706,14,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8681,14,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.904,14,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9137,14,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.916,14,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8947,14,17
+Field Programmable Gate Array,fpga,HARDWARE,hardware ou plataforma embarcada,0.5098,14,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8063,14,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6323,15,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6156,15,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8748,16,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.858,16,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9171,16,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8929,16,17
+hash,hash,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7029,17,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6576,17,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8418,17,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.862,17,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8852,21,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8717,21,17
+ATmega 2560,atmega 2560,HARDWARE,hardware ou plataforma embarcada,0.8336,21,17
+Intel Galileo Gen 2,intel galileo gen 2,HARDWARE,hardware ou plataforma embarcada,0.8332,21,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6345,22,17
+IoT,iot,PROTOCOLO,protocolo ou padrão de comunicação,0.6119,23,17
+Internet of Things,iot,PROTOCOLO,protocolo ou padrão de comunicação,0.4408,23,17
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.511,24,17
+Internet das Coisas,iot,PROTOCOLO,protocolo ou padrão de comunicação,0.5585,27,17
+IoT,iot,PROTOCOLO,protocolo ou padrão de comunicação,0.5066,27,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9018,29,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.886,29,17
+IoT,iot,HARDWARE,hardware ou plataforma embarcada,0.5029,31,17
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.5618,32,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.495,32,17
+ASIC,asic,HARDWARE,hardware ou plataforma embarcada,0.5447,32,17
+de Souza & Fernandes,de souza & fernandes,AUTOR,pesquisador ou autor,0.8651,33,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7288,34,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.719,34,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7643,34,17
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.8017,34,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5943,35,17
+RTL,rtl,LANG,linguagem de programação,0.7377,35,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7059,37,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5758,37,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4162,38,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7303,40,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8611,41,17
+He & Xue,he & xue,AUTOR,pesquisador ou autor,0.8936,41,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8105,41,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8374,42,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.765,42,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8209,42,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8114,42,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8348,42,17
+He & Xue,he & xue,AUTOR,pesquisador ou autor,0.7773,43,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6518,44,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.717,44,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.717,44,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7044,47,17
+MD5,md5,METODO,método ou técnica computacional,0.5314,48,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9676,49,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9689,49,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9603,49,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6444,50,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6502,50,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7116,50,17
+SHA-1,sha-1,PROTOCOLO,protocolo ou padrão de comunicação,0.6853,51,17
+SHA-1,sha-1,PROTOCOLO,protocolo ou padrão de comunicação,0.7588,52,17
+SHA-1,sha-1,PROTOCOLO,protocolo ou padrão de comunicação,0.5351,53,17
+SHA-1,sha-1,PROTOCOLO,protocolo ou padrão de comunicação,0.5835,54,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6702,54,17
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.568,56,17
+SHA-1,sha-1,PROTOCOLO,protocolo ou padrão de comunicação,0.4985,56,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.46,59,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7011,59,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6741,60,17
+ASIC,asic,HARDWARE,hardware ou plataforma embarcada,0.7141,60,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6915,61,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8241,62,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7587,62,17
+Carlos E. B. Santos Júnior,carlos e. b. santos júnior,AUTOR,pesquisador ou autor,0.9815,64,17
+Marcelo A. C. Fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.9704,64,17
+Carlos E. B. Santos Júnior,carlos e. b. santos júnior,AUTOR,pesquisador ou autor,0.9681,65,17
+Marcelo A. C. Fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.9706,65,17
+Algoritmo MD5,algoritmo md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8818,65,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5071,65,17
+Carlos E. B. Santos Júnior,carlos e. b. santos júnior,AUTOR,pesquisador ou autor,0.9605,65,17
+Marcelo A. C. Fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.9643,65,17
+Algoritmo MD5,algoritmo md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.839,65,17
+Escola Potiguar de Computação e suas Aplicações,escola potiguar de computação e suas aplicações,INSTITUICAO,instituição de ensino ou pesquisa,0.7801,65,17
+SHA-1,sha-1,PROTOCOLO,protocolo ou padrão de comunicação,0.3826,67,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9199,68,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9162,68,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9488,69,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9355,69,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8034,69,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7989,69,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8088,73,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7557,73,17
+hash,hash,METODO,método ou técnica computacional,0.6883,86,17
+hash,hash,METODO,método ou técnica computacional,0.6595,86,17
+hash,hash,METODO,método ou técnica computacional,0.6747,86,17
+hash,hash,METODO,método ou técnica computacional,0.6436,86,17
+hash,hash,METODO,método ou técnica computacional,0.4657,87,17
+hash,hash,METODO,método ou técnica computacional,0.5068,87,17
+hash,hash,METODO,método ou técnica computacional,0.4661,87,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8798,91,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7248,91,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8767,91,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7393,92,17
+MD5,md5,METODO,método ou técnica computacional,0.5264,97,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7581,104,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5738,111,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8983,112,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8071,112,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.906,112,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5268,113,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.727,113,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7585,115,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7513,116,17
+Algoritmo MD5,algoritmo md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7409,119,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8168,125,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8148,127,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.738,130,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8213,133,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7909,133,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6867,133,17
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.8694,134,17
+Field Programmable Gate Arrays,field programmable gate arrays,HARDWARE,hardware ou plataforma embarcada,0.5416,134,17
+lógica,lógica,LANG,linguagem de programação,0.7768,136,17
+lógica,lógica,LANG,linguagem de programação,0.4459,137,17
+lógica,lógica,LANG,linguagem de programação,0.4228,137,17
+ASICs,asics,HARDWARE,hardware ou plataforma embarcada,0.4376,138,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.398,141,17
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.68,143,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7603,144,17
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.684,144,17
+Intel,intel,EMPRESA,organização ou empresa de tecnologia,0.518,146,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9014,147,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8945,147,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.869,147,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9183,148,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8792,148,17
+Hardware Description Language,hardware description language,LANG,linguagem de programação,0.4286,148,17
+HDL,hdl,LANG,linguagem de programação,0.4593,148,17
+VHDL,vhdl,LANG,linguagem de programação,0.9177,148,17
+Verilog,verilog,LANG,linguagem de programação,0.9199,148,17
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.8559,149,17
+Intel,intel,EMPRESA,organização ou empresa de tecnologia,0.8723,149,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5471,150,17
+MATLAB,matlab,FRAMEWORK,framework ou biblioteca de software,0.8078,150,17
+RTL,rtl,LANG,linguagem de programação,0.7964,150,17
+MATLAB,matlab,FRAMEWORK,framework ou biblioteca de software,0.7967,150,17
+MathWorks,mathworks,EMPRESA,organização ou empresa de tecnologia,0.8866,151,17
+MathWorks,mathworks,EMPRESA,organização ou empresa de tecnologia,0.8978,151,17
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.7108,152,17
+Intel,intel,EMPRESA,organização ou empresa de tecnologia,0.5129,152,17
+Python,python,LANG,linguagem de programação,0.9907,153,17
+Python,python,LANG,linguagem de programação,0.9853,153,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7426,153,17
+C++,c++,LANG,linguagem de programação,0.7037,154,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5959,154,17
+Intel,intel,EMPRESA,organização ou empresa de tecnologia,0.7095,154,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5904,154,17
+Intel,intel,EMPRESA,organização ou empresa de tecnologia,0.3932,155,17
+Intel,intel,EMPRESA,organização ou empresa de tecnologia,0.5721,155,17
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.791,156,17
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.7858,156,17
+Intel,intel,EMPRESA,organização ou empresa de tecnologia,0.8515,157,17
+RTL,rtl,LANG,linguagem de programação,0.8464,157,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5257,157,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6456,158,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9116,159,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8701,159,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9321,159,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7558,160,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8076,160,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.7658,161,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.625,162,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6504,163,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.752,165,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.823,167,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6619,167,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6997,167,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7781,167,17
+GPP,gpp,FRAMEWORK,framework ou biblioteca de software,0.525,172,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7268,172,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5179,173,17
+MD5,md5,PROTOCOLO,protocolo ou padrão de comunicação,0.4817,176,17
+GG-MUX,gg-mux,PROTOCOLO,protocolo ou padrão de comunicação,0.9678,177,17
+GG-MUX,gg-mux,PROTOCOLO,protocolo ou padrão de comunicação,0.967,177,17
+GG-MUX,gg-mux,PROTOCOLO,protocolo ou padrão de comunicação,0.9693,177,17
+de Souza & Fernandes,de souza & fernandes,AUTOR,pesquisador ou autor,0.7662,178,17
+MD5,md5,HARDWARE,hardware ou plataforma embarcada,0.4789,183,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6942,190,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4428,191,17
+GPP,gpp,HARDWARE,hardware ou plataforma embarcada,0.4231,195,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7082,195,17
+SHA-1,sha-1,PROTOCOLO,protocolo ou padrão de comunicação,0.6042,196,17
+SHA-1,sha-1,PROTOCOLO,protocolo ou padrão de comunicação,0.7087,199,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6716,205,17
+SHA-1,sha-1,PROTOCOLO,protocolo ou padrão de comunicação,0.3945,207,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5652,209,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8845,209,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8745,209,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8985,210,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9081,210,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7849,211,17
+He & Xue,he & xue,AUTOR,pesquisador ou autor,0.9015,211,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.877,213,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9328,213,17
+LUTs,luts,METODO,método ou técnica computacional,0.5029,213,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9413,213,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.608,216,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4841,219,17
+MATLAB,matlab,FRAMEWORK,framework ou biblioteca de software,0.8481,219,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6726,220,17
+SHA-1,sha-1,PROTOCOLO,protocolo ou padrão de comunicação,0.5315,220,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9017,222,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9006,222,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9515,222,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.9373,222,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6896,223,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9074,224,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8056,224,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9138,224,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5311,225,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6442,228,17
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.7418,228,17
+MD5,md5,PROTOCOLO,protocolo ou padrão de comunicação,0.4745,229,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9332,231,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9241,231,17
+Intel Galileo,intel galileo,HARDWARE,hardware ou plataforma embarcada,0.5359,234,17
+Intel Galileo,intel galileo,HARDWARE,hardware ou plataforma embarcada,0.6584,235,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9195,236,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8901,236,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9217,236,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9144,236,17
+ATmega 2560,atmega 2560,HARDWARE,hardware ou plataforma embarcada,0.7529,236,17
+Intel Galileo Gen 2,intel galileo gen 2,HARDWARE,hardware ou plataforma embarcada,0.7408,236,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9036,237,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9051,237,17
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.3851,238,17
+Artix 7,artix 7,HARDWARE,hardware ou plataforma embarcada,0.8098,238,17
+Spartan 6,spartan 6,HARDWARE,hardware ou plataforma embarcada,0.8227,238,17
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.415,239,17
+Arduino,arduino,HARDWARE,hardware ou plataforma embarcada,0.5392,239,17
+MD5,md5,METODO,método ou técnica computacional,0.6958,240,17
+SHA-1,sha-1,METODO,método ou técnica computacional,0.6837,240,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7426,242,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7494,242,17
+ATmega 2560,atmega 2560,HARDWARE,hardware ou plataforma embarcada,0.7253,244,17
+Intel Galileo,intel galileo,HARDWARE,hardware ou plataforma embarcada,0.477,244,17
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.3986,244,17
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.7658,245,17
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.5528,245,17
+Artix 7,artix 7,FRAMEWORK,framework ou biblioteca de software,0.4578,246,17
+Spartan 6,spartan 6,FRAMEWORK,framework ou biblioteca de software,0.4848,246,17
+Artix 7,artix 7,FRAMEWORK,framework ou biblioteca de software,0.4275,246,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9247,246,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9041,246,17
+ATmega2560,atmega2560,HARDWARE,hardware ou plataforma embarcada,0.7119,247,17
+Intel Galileo Gen 2,intel galileo gen 2,HARDWARE,hardware ou plataforma embarcada,0.5417,248,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8583,250,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.84,250,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.719,250,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8051,250,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5788,250,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.6578,251,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8465,252,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5992,252,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8419,252,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7758,253,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7408,253,17
+ATmega2560,atmega2560,HARDWARE,hardware ou plataforma embarcada,0.5314,254,17
+Intel Galileo Gen 2,intel galileo gen 2,HARDWARE,hardware ou plataforma embarcada,0.659,254,17
+FPGAs,fpga,HARDWARE,hardware ou plataforma embarcada,0.3925,254,17
+Xilinx,xilinx,EMPRESA,organização ou empresa de tecnologia,0.7082,254,17
+Artix 7,artix 7,HARDWARE,hardware ou plataforma embarcada,0.8706,254,17
+Spartan 6,spartan 6,HARDWARE,hardware ou plataforma embarcada,0.8573,254,17
+Spartan 6,spartan 6,FRAMEWORK,framework ou biblioteca de software,0.4272,255,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9351,255,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9227,255,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.5498,256,17
+ATmega2560,atmega2560,HARDWARE,hardware ou plataforma embarcada,0.6735,256,17
+Intel Galileo Gen 2,intel galileo gen 2,HARDWARE,hardware ou plataforma embarcada,0.6386,256,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8889,258,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8831,258,17
+ASCII,ascii,LANG,linguagem de programação,0.8818,259,17
+MD5,md5,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5914,260,17
+SHA-1,sha-1,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6326,260,17
+FPGA,fpga,HARDWARE,hardware ou plataforma embarcada,0.8973,260,17
+gpu,gpu,HARDWARE,hardware ou plataforma embarcada,0.4015,261,17
+ALTERA,altera,HARDWARE,hardware ou plataforma embarcada,0.4335,263,17
+Marcelo A. C. Fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.7775,265,17
+fpga,fpga,HARDWARE,hardware ou plataforma embarcada,0.4348,265,17
+q-learning,q-learning,METODO,método ou técnica computacional,0.5001,265,17
+fpga,fpga,HARDWARE,hardware ou plataforma embarcada,0.7165,266,17
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9635,266,17
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.765,266,17
+Marcelo Fernandes,marcelo fernandes,AUTOR,pesquisador ou autor,0.8882,266,17
+fpga,fpga,HARDWARE,hardware ou plataforma embarcada,0.6051,266,17
+fpga,fpga,HARDWARE,hardware ou plataforma embarcada,0.4028,269,17
+INTEL,intel,EMPRESA,organização ou empresa de tecnologia,0.9151,269,17
+Intel,intel,EMPRESA,organização ou empresa de tecnologia,0.9211,269,17
+fpga,fpga,HARDWARE,hardware ou plataforma embarcada,0.5207,269,17
+Intel,intel,EMPRESA,organização ou empresa de tecnologia,0.924,269,17
+Altera,altera,EMPRESA,organização ou empresa de tecnologia,0.432,270,17
+fpgas,fpga,LANG,linguagem de programação,0.4594,272,17
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9825,0,18
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9478,2,18
+Marcelo Augusto Costa Fernandes,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.945,3,18
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9706,3,18
+Centro de Tecnologia,centro de tecnologia,INSTITUICAO,instituição de ensino ou pesquisa,0.8415,3,18
+Programa de Pós-Graduação em Engenharia Elétrica e de Computação,programa de pós-graduação em engenharia elétrica e de computação,INSTITUICAO,instituição de ensino ou pesquisa,0.6494,3,18
+Algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6246,3,18
+Marcelo Augusto Costa,marcelo augusto costa fernandes,AUTOR,pesquisador ou autor,0.8302,4,18
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9691,4,18
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.924,6,18
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9301,7,18
+Centro de Tecnologia,centro de tecnologia,INSTITUICAO,instituição de ensino ou pesquisa,0.6237,7,18
+Programa de Pós-Graduação em Engenharia Elétrica e de Computação,programa de pós-graduação em engenharia elétrica e de computação,INSTITUICAO,instituição de ensino ou pesquisa,0.7649,8,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.463,8,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6525,11,18
+DPNA-GA,dpna-ga,METODO,método ou técnica computacional,0.6725,12,18
+DPNA-GA,dpna-ga,METODO,método ou técnica computacional,0.643,12,18
+Genetic Algorithm,genetic algorithm,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6045,13,18
+Genetic Algorithms,genetic algorithms,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5503,15,18
+Tuncer & Yildirim,tuncer & yildirim,AUTOR,pesquisador ou autor,0.8402,21,18
+DPNA-GA,dpna-ga,METODO,método ou técnica computacional,0.7105,22,18
+DPNA-GA,dpna-ga,METODO,método ou técnica computacional,0.7417,22,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7973,23,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8434,23,18
+Inteligência Artificial,inteligência artificial,METODO,método ou técnica computacional,0.4508,24,18
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4774,25,18
+AGs,ags,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4045,26,18
+Samadi & Othman,samadi & othman,AUTOR,pesquisador ou autor,0.7915,27,18
+Tuncer & Yildirim,tuncer & yildirim,AUTOR,pesquisador ou autor,0.9076,30,18
+Tuncer & Yildirim,tuncer & yildirim,AUTOR,pesquisador ou autor,0.8898,30,18
+Samadi & Othman,samadi & othman,AUTOR,pesquisador ou autor,0.7684,30,18
+Samadi & Othman,samadi & othman,AUTOR,pesquisador ou autor,0.7958,32,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7993,38,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8496,38,18
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8402,42,18
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8374,42,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8255,47,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7886,47,18
+algoritmo genético,algoritmo genético,METODO,método ou técnica computacional,0.7837,48,18
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7503,49,18
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6414,49,18
+algoritmos genéticos,algoritmo genético,METODO,método ou técnica computacional,0.6629,50,18
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5759,51,18
+algoritmos genéticos,algoritmo genético,METODO,método ou técnica computacional,0.5664,52,18
+algoritmos genéticos,algoritmo genético,METODO,método ou técnica computacional,0.7809,55,18
+algoritmos,algoritmos,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4784,56,18
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6443,56,18
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5579,58,18
+Algoritmos Genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8169,63,18
+algoritmos genéticos,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6464,67,18
+Crossover,crossover,METODO,método ou técnica computacional,0.4557,72,18
+crossover,crossover,METODO,método ou técnica computacional,0.4869,72,18
+crossover,crossover,METODO,método ou técnica computacional,0.698,74,18
+algoritmos genéticos,algoritmo genético,METODO,método ou técnica computacional,0.4905,74,18
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8113,75,18
+Algoritmo Genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7581,75,18
+roleta,roleta,METODO,método ou técnica computacional,0.4683,78,18
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4285,102,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6937,103,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5249,103,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.445,105,18
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5593,106,18
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6199,111,18
+AG,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6548,111,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4419,123,18
+Matlab,matlab,LANG,linguagem de programação,0.8972,124,18
+DPNA-GA,dpna-ga,INSTITUICAO,instituição de ensino ou pesquisa,0.6121,128,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4703,136,18
+Matlab,matlab,FRAMEWORK,framework ou biblioteca de software,0.7429,139,18
+DPNA-GA,dpna-ga,HARDWARE,hardware ou plataforma embarcada,0.4169,140,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8489,141,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9024,141,18
+Samadi & Othman,samadi & othman,AUTOR,pesquisador ou autor,0.9096,155,18
+DPNA-GA,dpna-ga,METODO,método ou técnica computacional,0.678,157,18
+Tuncer & Yildirim,tuncer & yildirim,AUTOR,pesquisador ou autor,0.944,157,18
+Tuncer & Yildirim,tuncer & yildirim,AUTOR,pesquisador ou autor,0.9353,157,18
+Tuncer & Yildirim,tuncer & yildirim,AUTOR,pesquisador ou autor,0.8406,158,18
+Tuncer & Yildirim,tuncer & yildirim,AUTOR,pesquisador ou autor,0.8497,159,18
+Tuncer & Yildirim,tuncer & yildirim,AUTOR,pesquisador ou autor,0.8753,160,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9068,160,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.9134,160,18
+Tuncer & Yildirim,tuncer & yildirim,AUTOR,pesquisador ou autor,0.8444,161,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8241,162,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8113,162,18
+algoritmo genético,algoritmo genético,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4174,162,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8469,163,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8356,163,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8375,164,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8588,164,18
+Tuncer & Yildirim,tuncer & yildirim,AUTOR,pesquisador ou autor,0.8974,165,18
+DPNA-GA,dpna-ga,METODO,método ou técnica computacional,0.8002,165,18
+Tuncer & Yildirim,tuncer & yildirim,AUTOR,pesquisador ou autor,0.8654,165,18
+DPNA-GA,dpna-ga,METODO,método ou técnica computacional,0.826,165,18
+DPNA-GA,dpna-ga,METODO,método ou técnica computacional,0.9032,166,18
+DPNA-GA,dpna-ga,METODO,método ou técnica computacional,0.8969,166,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7322,168,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.824,168,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6716,173,18
+Tuncer & Yildirim,tuncer & yildirim,AUTOR,pesquisador ou autor,0.9094,174,18
+Tuncer & Yildirim,tuncer & yildirim,AUTOR,pesquisador ou autor,0.9159,174,18
+DPNA-GA,dpna-ga,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.8134,174,18
+DPNA-GA,dpna-ga,METODO,método ou técnica computacional,0.6299,175,18
+DPNA-GA,dpna-ga,METODO,método ou técnica computacional,0.7074,175,18
+DPNA-GA,dpna-ga,METODO,método ou técnica computacional,0.6139,176,18
+matlab,matlab,LANG,linguagem de programação,0.469,181,18
+Genetic Algorithm,genetic algorithm,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4319,184,18
+Genetic Algorithms,genetic algorithms,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4081,187,18
+Genetic Algorithms,genetic algorithms,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7249,189,18
+genetic algorithm,genetic algorithm,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6728,190,18
+genetic algorithm,genetic algorithm,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5693,191,18
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9828,0,19
+Programa de Pós-Graduação em Engenharia,programa de pós-graduação em engenharia,INSTITUICAO,instituição de ensino ou pesquisa,0.7334,1,19
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.9059,2,19
+Programa de Pós-Graduação em Engenharia Elétrica e de Computação,programa de pós-graduação em engenharia elétrica e de computação,INSTITUICAO,instituição de ensino ou pesquisa,0.5867,4,19
+UFRN,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.8309,4,19
+Universidade Federal do Rio Grande do Norte,ufrn,INSTITUICAO,instituição de ensino ou pesquisa,0.7848,4,19
+Redes Neurais,rede neural,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4017,5,19
+MLP,mlp,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4174,13,19
+MLP,mlp,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4426,15,19
+MLP-AC,mlp-ac,FRAMEWORK,framework ou biblioteca de software,0.4244,17,19
+MLP-AD,mlp-ad,FRAMEWORK,framework ou biblioteca de software,0.411,17,19
+ENB-MLP-EC,enb-mlp-ec,FRAMEWORK,framework ou biblioteca de software,0.4136,18,19
+MLP-AC,mlp-ac,FRAMEWORK,framework ou biblioteca de software,0.4485,20,19
+MLP-AD,mlp-ad,FRAMEWORK,framework ou biblioteca de software,0.4309,20,19
+ENB-MLP-EC,enb-mlp-ec,LANG,linguagem de programação,0.4327,21,19
+ENB-MLP,enb-mlp,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.472,36,19
+ENB-MLP,enb-mlp,EMPRESA,organização ou empresa de tecnologia,0.5517,37,19
+ENB-MLP,enb-mlp,EMPRESA,organização ou empresa de tecnologia,0.4973,37,19
+PMD,pmd,PROTOCOLO,protocolo ou padrão de comunicação,0.4923,38,19
+PMD,pmd,PROTOCOLO,protocolo ou padrão de comunicação,0.5557,38,19
+ENB-MLP,enb-mlp,PROTOCOLO,protocolo ou padrão de comunicação,0.7459,39,19
+ENB-MLP,enb-mlp,PROTOCOLO,protocolo ou padrão de comunicação,0.6809,39,19
+ENB-MLP,enb-mlp,PROTOCOLO,protocolo ou padrão de comunicação,0.8165,40,19
+ENB-MLP,enb-mlp,PROTOCOLO,protocolo ou padrão de comunicação,0.8153,40,19
+ENB-MLP,enb-mlp,PROTOCOLO,protocolo ou padrão de comunicação,0.5266,41,19
+ENB-MLP,enb-mlp,PROTOCOLO,protocolo ou padrão de comunicação,0.4525,41,19
+PMD,pmd,METODO,método ou técnica computacional,0.6022,66,19
+PMD,pmd,METODO,método ou técnica computacional,0.7014,66,19
+PMD,pmd,METODO,método ou técnica computacional,0.6081,66,19
+Park & Chung,park & chung,AUTOR,pesquisador ou autor,0.8626,74,19
+Park & Chung,park & chung,AUTOR,pesquisador ou autor,0.9223,79,19
+Park & Chung,park & chung,AUTOR,pesquisador ou autor,0.9425,81,19
+ISI,isi,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4565,87,19
+ISI,isi,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4465,87,19
+LTE,lte,PROTOCOLO,protocolo ou padrão de comunicação,0.6667,93,19
+LTE,lte,PROTOCOLO,protocolo ou padrão de comunicação,0.9662,94,19
+LTE,lte,PROTOCOLO,protocolo ou padrão de comunicação,0.9739,94,19
+LTE,lte,PROTOCOLO,protocolo ou padrão de comunicação,0.6645,95,19
+rede neural,rede neural,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5093,105,19
+MLP,mlp,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4201,106,19
+Backpropagation,backpropagation,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.7165,112,19
+Backpropagation,backpropagation,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6471,115,19
+MLP,mlp,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4802,123,19
+4-QAM,4-qam,PROTOCOLO,protocolo ou padrão de comunicação,0.4947,126,19
+MLP,mlp,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4163,130,19
+MLP-Q,mlp-q,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4842,130,19
+ENB-MLP,enb-mlp,FRAMEWORK,framework ou biblioteca de software,0.4129,131,19
+MLP-Q,mlp-q,PROTOCOLO,protocolo ou padrão de comunicação,0.4641,132,19
+ENB-MLP,enb-mlp,PROTOCOLO,protocolo ou padrão de comunicação,0.4041,133,19
+ENB-MLP,enb-mlp,FRAMEWORK,framework ou biblioteca de software,0.6135,134,19
+ENB-MLP,enb-mlp,FRAMEWORK,framework ou biblioteca de software,0.7179,134,19
+ENB-MLP,enb-mlp,HARDWARE,hardware ou plataforma embarcada,0.3855,139,19
+LTE,lte,HARDWARE,hardware ou plataforma embarcada,0.3851,139,19
+4-QAM,4-qam,PROTOCOLO,protocolo ou padrão de comunicação,0.431,139,19
+4-QAM,4-qam,PROTOCOLO,protocolo ou padrão de comunicação,0.6308,140,19
+canal,canal,PROTOCOLO,protocolo ou padrão de comunicação,0.3847,144,19
+canal,canal,PROTOCOLO,protocolo ou padrão de comunicação,0.3853,144,19
+canal,canal,PROTOCOLO,protocolo ou padrão de comunicação,0.4328,144,19
+ENB-MLP,enb-mlp,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.5947,146,19
+ENB-MLP-EC,enb-mlp-ec,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.6172,146,19
+LTE-LMS,lte-lms,PROTOCOLO,protocolo ou padrão de comunicação,0.7184,148,19
+ENB-MLP,enb-mlp,HARDWARE,hardware ou plataforma embarcada,0.4979,149,19
+ENB-MLP-EC,enb-mlp-ec,HARDWARE,hardware ou plataforma embarcada,0.5109,149,19
+MLP-AC,mlp-ac,HARDWARE,hardware ou plataforma embarcada,0.4074,149,19
+MLP-AD,mlp-ad,HARDWARE,hardware ou plataforma embarcada,0.495,149,19
+LTE-LMS,lte-lms,PROTOCOLO,protocolo ou padrão de comunicação,0.6473,150,19
+DFE-LMS,dfe-lms,PROTOCOLO,protocolo ou padrão de comunicação,0.4811,150,19
+ENB-MLP,enb-mlp,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4371,154,19
+ENB-MLP-EC,enb-mlp-ec,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4838,154,19
+MLP-AD,mlp-ad,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4385,154,19
+MLP-AD,mlp-ad,FRAMEWORK,framework ou biblioteca de software,0.4073,167,19
+MLP-AC,mlp-ac,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4481,167,19
+ENB-MLP,enb-mlp,HARDWARE,hardware ou plataforma embarcada,0.3876,170,19
+MLP-AC,mlp-ac,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4102,170,19
+ENB-MLP-EC,enb-mlp-ec,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4818,171,19
+MLP-AC,mlp-ac,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.4692,171,19
+MLP-AD,mlp-ad,ALGORITMO,algoritmo ou técnica de inteligência artificial,0.521,171,19
+ENB-MLP-EC,enb-mlp-ec,PROTOCOLO,protocolo ou padrão de comunicação,0.3928,175,19
+MLP-AD,mlp-ad,HARDWARE,hardware ou plataforma embarcada,0.4387,177,19
+ENB-MLP-EC,enb-mlp-ec,HARDWARE,hardware ou plataforma embarcada,0.4506,177,19
+MLP-AD,mlp-ad,HARDWARE,hardware ou plataforma embarcada,0.4144,177,19
+ENB-MLP,enb-mlp,HARDWARE,hardware ou plataforma embarcada,0.4796,181,19
+ENB-MLP,enb-mlp,HARDWARE,hardware ou plataforma embarcada,0.4797,181,19
+ENB-MLP-EC,enb-mlp-ec,HARDWARE,hardware ou plataforma embarcada,0.4681,181,19
+LTE-LMS,lte-lms,PROTOCOLO,protocolo ou padrão de comunicação,0.9155,182,19
+DFE-LMS,dfe-lms,PROTOCOLO,protocolo ou padrão de comunicação,0.8009,182,19
+LTE-LMS,lte-lms,PROTOCOLO,protocolo ou padrão de comunicação,0.9328,182,19
+DFE-LMS,dfe-lms,PROTOCOLO,protocolo ou padrão de comunicação,0.7603,182,19
+ENB-MLP-EC,enb-mlp-ec,FRAMEWORK,framework ou biblioteca de software,0.5895,185,19
+MLP-Q,mlp-q,METODO,método ou técnica computacional,0.514,189,19
+ENB-MLP,enb-mlp,PROTOCOLO,protocolo ou padrão de comunicação,0.5426,189,19
+LTE-LMS,lte-lms,PROTOCOLO,protocolo ou padrão de comunicação,0.7351,191,19
+DFE-LMS,dfe-lms,PROTOCOLO,protocolo ou padrão de comunicação,0.7196,191,19
+MLP-AC,mlp-ac,PROTOCOLO,protocolo ou padrão de comunicação,0.5613,191,19
+MLP-AD,mlp-ad,PROTOCOLO,protocolo ou padrão de comunicação,0.5942,191,19
+ENB-MLP,enb-mlp,PROTOCOLO,protocolo ou padrão de comunicação,0.4851,191,19
+ENB-MLP-EC,enb-mlp-ec,PROTOCOLO,protocolo ou padrão de comunicação,0.5527,191,19
+ENB-MLP,enb-mlp,PROTOCOLO,protocolo ou padrão de comunicação,0.5329,193,19

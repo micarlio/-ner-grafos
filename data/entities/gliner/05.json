@@ -1,0 +1,4286 @@
+[
+  {
+    "text": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "text_norm": "universidade federal do rio grande do norte",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.9796,
+    "chunk_idx": 0,
+    "tese_id": "05"
+  },
+  {
+    "text": "Karolayne Santos de Azevedo",
+    "text_norm": "karolayne santos de azevedo",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7846,
+    "chunk_idx": 1,
+    "tese_id": "05"
+  },
+  {
+    "text": "Prof. Dr. Marcelo Augusto Costa Fernandes",
+    "text_norm": "prof. dr. marcelo augusto costa fernandes",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7261,
+    "chunk_idx": 1,
+    "tese_id": "05"
+  },
+  {
+    "text": "Programa de Pós-Graduação em Engenharia",
+    "text_norm": "programa de pós-graduação em engenharia",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.7489,
+    "chunk_idx": 1,
+    "tese_id": "05"
+  },
+  {
+    "text": "UFRN",
+    "text_norm": "ufrn",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.9059,
+    "chunk_idx": 2,
+    "tese_id": "05"
+  },
+  {
+    "text": "Divisão de Serviços Técnicos",
+    "text_norm": "divisão de serviços técnicos",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.5472,
+    "chunk_idx": 3,
+    "tese_id": "05"
+  },
+  {
+    "text": "UFRN",
+    "text_norm": "ufrn",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.9507,
+    "chunk_idx": 3,
+    "tese_id": "05"
+  },
+  {
+    "text": "Biblioteca Central",
+    "text_norm": "biblioteca central",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.6542,
+    "chunk_idx": 3,
+    "tese_id": "05"
+  },
+  {
+    "text": "Zila Mamede Azevedo",
+    "text_norm": "zila mamede azevedo",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6842,
+    "chunk_idx": 3,
+    "tese_id": "05"
+  },
+  {
+    "text": "Karolayne Santos",
+    "text_norm": "karolayne santos",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8972,
+    "chunk_idx": 3,
+    "tese_id": "05"
+  },
+  {
+    "text": "Karolayne Santos de Azevedo",
+    "text_norm": "karolayne santos de azevedo",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9056,
+    "chunk_idx": 4,
+    "tese_id": "05"
+  },
+  {
+    "text": "Universidade Federal do Rio Grande do Norte",
+    "text_norm": "universidade federal do rio grande do norte",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.9594,
+    "chunk_idx": 4,
+    "tese_id": "05"
+  },
+  {
+    "text": "UFRN",
+    "text_norm": "ufrn",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.8759,
+    "chunk_idx": 4,
+    "tese_id": "05"
+  },
+  {
+    "text": "Pós-Graduação em Engenharia Elétrica e de Computação",
+    "text_norm": "pós-graduação em engenharia elétrica e de computação",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.7131,
+    "chunk_idx": 4,
+    "tese_id": "05"
+  },
+  {
+    "text": "Dr. Marcelo Augusto Costa Fernandes",
+    "text_norm": "dr. marcelo augusto costa fernandes",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6384,
+    "chunk_idx": 4,
+    "tese_id": "05"
+  },
+  {
+    "text": "Fernandes",
+    "text_norm": "fernandes",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.615,
+    "chunk_idx": 5,
+    "tese_id": "05"
+  },
+  {
+    "text": "Marcelo Augusto Costa",
+    "text_norm": "marcelo augusto costa",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8687,
+    "chunk_idx": 5,
+    "tese_id": "05"
+  },
+  {
+    "text": "Prof. Dr. Marcelo Augusto Costa Fernandes",
+    "text_norm": "prof. dr. marcelo augusto costa fernandes",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7583,
+    "chunk_idx": 6,
+    "tese_id": "05"
+  },
+  {
+    "text": "UFRN",
+    "text_norm": "ufrn",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.9461,
+    "chunk_idx": 7,
+    "tese_id": "05"
+  },
+  {
+    "text": "CAPES",
+    "text_norm": "capes",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.8416,
+    "chunk_idx": 7,
+    "tese_id": "05"
+  },
+  {
+    "text": "aprendizado de máquina",
+    "text_norm": "aprendizado de máquina",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4251,
+    "chunk_idx": 8,
+    "tese_id": "05"
+  },
+  {
+    "text": "GISAID",
+    "text_norm": "gisaid",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.3955,
+    "chunk_idx": 10,
+    "tese_id": "05"
+  },
+  {
+    "text": "Anderson-Darling",
+    "text_norm": "anderson-darling",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9093,
+    "chunk_idx": 11,
+    "tese_id": "05"
+  },
+  {
+    "text": "Jarque-Bera",
+    "text_norm": "jarque-bera",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8969,
+    "chunk_idx": 11,
+    "tese_id": "05"
+  },
+  {
+    "text": "Kruskal-Wallis",
+    "text_norm": "kruskal-wallis",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8883,
+    "chunk_idx": 11,
+    "tese_id": "05"
+  },
+  {
+    "text": "Classificação Viral",
+    "text_norm": "classificação viral",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.377,
+    "chunk_idx": 12,
+    "tese_id": "05"
+  },
+  {
+    "text": "Aprendizagem Profunda",
+    "text_norm": "aprendizagem profunda",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5024,
+    "chunk_idx": 12,
+    "tese_id": "05"
+  },
+  {
+    "text": "Rede Neural Convolucional",
+    "text_norm": "rede neural convolucional",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6519,
+    "chunk_idx": 12,
+    "tese_id": "05"
+  },
+  {
+    "text": "machine learning",
+    "text_norm": "machine learning",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.8439,
+    "chunk_idx": 14,
+    "tese_id": "05"
+  },
+  {
+    "text": "convolutional neural network",
+    "text_norm": "convolutional neural network",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3584,
+    "chunk_idx": 15,
+    "tese_id": "05"
+  },
+  {
+    "text": "binary classification",
+    "text_norm": "binary classification",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.3789,
+    "chunk_idx": 16,
+    "tese_id": "05"
+  },
+  {
+    "text": "GISAID",
+    "text_norm": "gisaid",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.4157,
+    "chunk_idx": 16,
+    "tese_id": "05"
+  },
+  {
+    "text": "Anderson-Darling",
+    "text_norm": "anderson-darling",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5083,
+    "chunk_idx": 17,
+    "tese_id": "05"
+  },
+  {
+    "text": "Jarque-Bera",
+    "text_norm": "jarque-bera",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.485,
+    "chunk_idx": 17,
+    "tese_id": "05"
+  },
+  {
+    "text": "Kruskal-Wallis",
+    "text_norm": "kruskal-wallis",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5003,
+    "chunk_idx": 17,
+    "tese_id": "05"
+  },
+  {
+    "text": "Deep Learning",
+    "text_norm": "deep learning",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6627,
+    "chunk_idx": 19,
+    "tese_id": "05"
+  },
+  {
+    "text": "Convolutional Neural Network",
+    "text_norm": "convolutional neural network",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7287,
+    "chunk_idx": 19,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN",
+    "text_norm": "cnn",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3922,
+    "chunk_idx": 19,
+    "tese_id": "05"
+  },
+  {
+    "text": "Arquitetura de uma rede convolucional",
+    "text_norm": "arquitetura de uma rede convolucional",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.434,
+    "chunk_idx": 22,
+    "tese_id": "05"
+  },
+  {
+    "text": "ANOVA",
+    "text_norm": "anova",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.623,
+    "chunk_idx": 31,
+    "tese_id": "05"
+  },
+  {
+    "text": "Wang",
+    "text_norm": "wang",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9334,
+    "chunk_idx": 33,
+    "tese_id": "05"
+  },
+  {
+    "text": "Li",
+    "text_norm": "li",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8897,
+    "chunk_idx": 33,
+    "tese_id": "05"
+  },
+  {
+    "text": "Li",
+    "text_norm": "li",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8813,
+    "chunk_idx": 33,
+    "tese_id": "05"
+  },
+  {
+    "text": "Zhang",
+    "text_norm": "zhang",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8295,
+    "chunk_idx": 33,
+    "tese_id": "05"
+  },
+  {
+    "text": "Wang",
+    "text_norm": "wang",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.897,
+    "chunk_idx": 33,
+    "tese_id": "05"
+  },
+  {
+    "text": "Wu",
+    "text_norm": "wu",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7721,
+    "chunk_idx": 33,
+    "tese_id": "05"
+  },
+  {
+    "text": "Liu",
+    "text_norm": "liu",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.77,
+    "chunk_idx": 33,
+    "tese_id": "05"
+  },
+  {
+    "text": "Xu",
+    "text_norm": "xu",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7467,
+    "chunk_idx": 33,
+    "tese_id": "05"
+  },
+  {
+    "text": "Singh",
+    "text_norm": "singh",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.918,
+    "chunk_idx": 33,
+    "tese_id": "05"
+  },
+  {
+    "text": "Payne",
+    "text_norm": "payne",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8902,
+    "chunk_idx": 35,
+    "tese_id": "05"
+  },
+  {
+    "text": "Khalil & da Silva Khalil",
+    "text_norm": "khalil & da silva khalil",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5706,
+    "chunk_idx": 35,
+    "tese_id": "05"
+  },
+  {
+    "text": "De Wit et al.",
+    "text_norm": "de wit et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7751,
+    "chunk_idx": 35,
+    "tese_id": "05"
+  },
+  {
+    "text": "Ramadan & Shaib",
+    "text_norm": "ramadan & shaib",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6503,
+    "chunk_idx": 35,
+    "tese_id": "05"
+  },
+  {
+    "text": "Sanjuán & Domingo-Calap",
+    "text_norm": "sanjuán & domingo-calap",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4847,
+    "chunk_idx": 36,
+    "tese_id": "05"
+  },
+  {
+    "text": "Oude Munnink et al.",
+    "text_norm": "oude munnink et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.687,
+    "chunk_idx": 37,
+    "tese_id": "05"
+  },
+  {
+    "text": "Sanjuán et al.",
+    "text_norm": "sanjuán et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6249,
+    "chunk_idx": 37,
+    "tese_id": "05"
+  },
+  {
+    "text": "van Dorp",
+    "text_norm": "van dorp",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8865,
+    "chunk_idx": 38,
+    "tese_id": "05"
+  },
+  {
+    "text": "Richard",
+    "text_norm": "richard",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8027,
+    "chunk_idx": 38,
+    "tese_id": "05"
+  },
+  {
+    "text": "Tan",
+    "text_norm": "tan",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.849,
+    "chunk_idx": 38,
+    "tese_id": "05"
+  },
+  {
+    "text": "Shaw",
+    "text_norm": "shaw",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8407,
+    "chunk_idx": 38,
+    "tese_id": "05"
+  },
+  {
+    "text": "Acman & Balloux",
+    "text_norm": "acman & balloux",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6374,
+    "chunk_idx": 38,
+    "tese_id": "05"
+  },
+  {
+    "text": "Korber et al.",
+    "text_norm": "korber et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4176,
+    "chunk_idx": 38,
+    "tese_id": "05"
+  },
+  {
+    "text": "Sanjuán & Domingo-Calap",
+    "text_norm": "sanjuán & domingo-calap",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5827,
+    "chunk_idx": 38,
+    "tese_id": "05"
+  },
+  {
+    "text": "Konings et al.",
+    "text_norm": "konings et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4369,
+    "chunk_idx": 38,
+    "tese_id": "05"
+  },
+  {
+    "text": "Oude Munnink et al.",
+    "text_norm": "oude munnink et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6176,
+    "chunk_idx": 41,
+    "tese_id": "05"
+  },
+  {
+    "text": "van Dorp",
+    "text_norm": "van dorp",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8786,
+    "chunk_idx": 41,
+    "tese_id": "05"
+  },
+  {
+    "text": "Acman",
+    "text_norm": "acman",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8865,
+    "chunk_idx": 41,
+    "tese_id": "05"
+  },
+  {
+    "text": "Richard",
+    "text_norm": "richard",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7349,
+    "chunk_idx": 41,
+    "tese_id": "05"
+  },
+  {
+    "text": "Shaw",
+    "text_norm": "shaw",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8377,
+    "chunk_idx": 41,
+    "tese_id": "05"
+  },
+  {
+    "text": "Ford",
+    "text_norm": "ford",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8211,
+    "chunk_idx": 41,
+    "tese_id": "05"
+  },
+  {
+    "text": "Ormond",
+    "text_norm": "ormond",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8122,
+    "chunk_idx": 41,
+    "tese_id": "05"
+  },
+  {
+    "text": "Owen",
+    "text_norm": "owen",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.861,
+    "chunk_idx": 41,
+    "tese_id": "05"
+  },
+  {
+    "text": "Pang",
+    "text_norm": "pang",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8294,
+    "chunk_idx": 41,
+    "tese_id": "05"
+  },
+  {
+    "text": "Tan",
+    "text_norm": "tan",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8267,
+    "chunk_idx": 41,
+    "tese_id": "05"
+  },
+  {
+    "text": "Boshier",
+    "text_norm": "boshier",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4491,
+    "chunk_idx": 41,
+    "tese_id": "05"
+  },
+  {
+    "text": "Rambaut",
+    "text_norm": "rambaut",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8454,
+    "chunk_idx": 41,
+    "tese_id": "05"
+  },
+  {
+    "text": "Toyoshima et al.",
+    "text_norm": "toyoshima et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6203,
+    "chunk_idx": 42,
+    "tese_id": "05"
+  },
+  {
+    "text": "Remita et al.",
+    "text_norm": "remita et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5906,
+    "chunk_idx": 42,
+    "tese_id": "05"
+  },
+  {
+    "text": "Korber et al.",
+    "text_norm": "korber et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7087,
+    "chunk_idx": 42,
+    "tese_id": "05"
+  },
+  {
+    "text": "alinhamento de sequências",
+    "text_norm": "alinhamento de sequências",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5216,
+    "chunk_idx": 42,
+    "tese_id": "05"
+  },
+  {
+    "text": "padrão-ouro",
+    "text_norm": "padrão-ouro",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4077,
+    "chunk_idx": 42,
+    "tese_id": "05"
+  },
+  {
+    "text": "Lebatteux et al.",
+    "text_norm": "lebatteux et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6665,
+    "chunk_idx": 42,
+    "tese_id": "05"
+  },
+  {
+    "text": "BLAST",
+    "text_norm": "blast",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9151,
+    "chunk_idx": 43,
+    "tese_id": "05"
+  },
+  {
+    "text": "Altschul et al.",
+    "text_norm": "altschul et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8361,
+    "chunk_idx": 43,
+    "tese_id": "05"
+  },
+  {
+    "text": "MALT",
+    "text_norm": "malt",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9127,
+    "chunk_idx": 43,
+    "tese_id": "05"
+  },
+  {
+    "text": "Vågene et al.",
+    "text_norm": "vågene et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8525,
+    "chunk_idx": 43,
+    "tese_id": "05"
+  },
+  {
+    "text": "FASTA",
+    "text_norm": "fasta",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9115,
+    "chunk_idx": 43,
+    "tese_id": "05"
+  },
+  {
+    "text": "Lipman & Pearson",
+    "text_norm": "lipman & pearson",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7579,
+    "chunk_idx": 43,
+    "tese_id": "05"
+  },
+  {
+    "text": "ClustalW",
+    "text_norm": "clustalw",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8782,
+    "chunk_idx": 43,
+    "tese_id": "05"
+  },
+  {
+    "text": "Thompson et al.",
+    "text_norm": "thompson et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8585,
+    "chunk_idx": 43,
+    "tese_id": "05"
+  },
+  {
+    "text": "USEARCH",
+    "text_norm": "usearch",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9143,
+    "chunk_idx": 43,
+    "tese_id": "05"
+  },
+  {
+    "text": "Edgar",
+    "text_norm": "edgar",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8619,
+    "chunk_idx": 43,
+    "tese_id": "05"
+  },
+  {
+    "text": "Randhawa et al.",
+    "text_norm": "randhawa et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8324,
+    "chunk_idx": 44,
+    "tese_id": "05"
+  },
+  {
+    "text": "Zielezinski et al.",
+    "text_norm": "zielezinski et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8029,
+    "chunk_idx": 44,
+    "tese_id": "05"
+  },
+  {
+    "text": "Lebatteux et al.",
+    "text_norm": "lebatteux et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9134,
+    "chunk_idx": 44,
+    "tese_id": "05"
+  },
+  {
+    "text": "Zielezinki et al.",
+    "text_norm": "zielezinki et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6507,
+    "chunk_idx": 45,
+    "tese_id": "05"
+  },
+  {
+    "text": "Zielezinski",
+    "text_norm": "zielezinski",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6114,
+    "chunk_idx": 45,
+    "tese_id": "05"
+  },
+  {
+    "text": "Lebatteux",
+    "text_norm": "lebatteux",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.491,
+    "chunk_idx": 45,
+    "tese_id": "05"
+  },
+  {
+    "text": "álgebra linear",
+    "text_norm": "álgebra linear",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.788,
+    "chunk_idx": 46,
+    "tese_id": "05"
+  },
+  {
+    "text": "mecânica estatística",
+    "text_norm": "mecânica estatística",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4789,
+    "chunk_idx": 46,
+    "tese_id": "05"
+  },
+  {
+    "text": "Lebatteux et al.",
+    "text_norm": "lebatteux et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9357,
+    "chunk_idx": 46,
+    "tese_id": "05"
+  },
+  {
+    "text": "Zielezinski et al.",
+    "text_norm": "zielezinski et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7078,
+    "chunk_idx": 46,
+    "tese_id": "05"
+  },
+  {
+    "text": "Randhawa et al.",
+    "text_norm": "randhawa et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7523,
+    "chunk_idx": 46,
+    "tese_id": "05"
+  },
+  {
+    "text": "Lebatteux et al.",
+    "text_norm": "lebatteux et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7169,
+    "chunk_idx": 46,
+    "tese_id": "05"
+  },
+  {
+    "text": "Ren et al.",
+    "text_norm": "ren et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7539,
+    "chunk_idx": 46,
+    "tese_id": "05"
+  },
+  {
+    "text": "classificação viral",
+    "text_norm": "classificação viral",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5445,
+    "chunk_idx": 47,
+    "tese_id": "05"
+  },
+  {
+    "text": "Machine Learning",
+    "text_norm": "machine learning",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6443,
+    "chunk_idx": 47,
+    "tese_id": "05"
+  },
+  {
+    "text": "ML",
+    "text_norm": "ml",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.594,
+    "chunk_idx": 47,
+    "tese_id": "05"
+  },
+  {
+    "text": "ML",
+    "text_norm": "ml",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4356,
+    "chunk_idx": 47,
+    "tese_id": "05"
+  },
+  {
+    "text": "classificação viral",
+    "text_norm": "classificação viral",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4363,
+    "chunk_idx": 47,
+    "tese_id": "05"
+  },
+  {
+    "text": "Davenport & Kalakota",
+    "text_norm": "davenport & kalakota",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.587,
+    "chunk_idx": 48,
+    "tese_id": "05"
+  },
+  {
+    "text": "Mottaqi",
+    "text_norm": "mottaqi",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8642,
+    "chunk_idx": 48,
+    "tese_id": "05"
+  },
+  {
+    "text": "Deep Learning",
+    "text_norm": "deep learning",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6035,
+    "chunk_idx": 48,
+    "tese_id": "05"
+  },
+  {
+    "text": "Park & Kellis",
+    "text_norm": "park & kellis",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.662,
+    "chunk_idx": 48,
+    "tese_id": "05"
+  },
+  {
+    "text": "L.Rincon & others",
+    "text_norm": "l.rincon & others",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6174,
+    "chunk_idx": 48,
+    "tese_id": "05"
+  },
+  {
+    "text": "Lalmuanawma",
+    "text_norm": "lalmuanawma",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6454,
+    "chunk_idx": 48,
+    "tese_id": "05"
+  },
+  {
+    "text": "et al.",
+    "text_norm": "et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4467,
+    "chunk_idx": 49,
+    "tese_id": "05"
+  },
+  {
+    "text": "Mottaqi",
+    "text_norm": "mottaqi",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6737,
+    "chunk_idx": 49,
+    "tese_id": "05"
+  },
+  {
+    "text": "et al.",
+    "text_norm": "et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.3802,
+    "chunk_idx": 49,
+    "tese_id": "05"
+  },
+  {
+    "text": "Convolutional Neural Network",
+    "text_norm": "convolutional neural network",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3666,
+    "chunk_idx": 49,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN",
+    "text_norm": "cnn",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4717,
+    "chunk_idx": 49,
+    "tese_id": "05"
+  },
+  {
+    "text": "Eraslan et al.",
+    "text_norm": "eraslan et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8041,
+    "chunk_idx": 50,
+    "tese_id": "05"
+  },
+  {
+    "text": "Zou et al.",
+    "text_norm": "zou et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7348,
+    "chunk_idx": 50,
+    "tese_id": "05"
+  },
+  {
+    "text": "Fabija´",
+    "text_norm": "fabija´",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4789,
+    "chunk_idx": 50,
+    "tese_id": "05"
+  },
+  {
+    "text": "Grabowski",
+    "text_norm": "grabowski",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5868,
+    "chunk_idx": 50,
+    "tese_id": "05"
+  },
+  {
+    "text": "VGDC",
+    "text_norm": "vgdc",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4917,
+    "chunk_idx": 50,
+    "tese_id": "05"
+  },
+  {
+    "text": "Tampuu et al.",
+    "text_norm": "tampuu et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8472,
+    "chunk_idx": 51,
+    "tese_id": "05"
+  },
+  {
+    "text": "Lopez-Rincon et al.",
+    "text_norm": "lopez-rincon et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7314,
+    "chunk_idx": 52,
+    "tese_id": "05"
+  },
+  {
+    "text": "L.Rincon & others",
+    "text_norm": "l.rincon & others",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.419,
+    "chunk_idx": 52,
+    "tese_id": "05"
+  },
+  {
+    "text": "Ren et al.",
+    "text_norm": "ren et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9407,
+    "chunk_idx": 53,
+    "tese_id": "05"
+  },
+  {
+    "text": "Adebita et. al",
+    "text_norm": "adebita et. al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.93,
+    "chunk_idx": 54,
+    "tese_id": "05"
+  },
+  {
+    "text": "Os autores",
+    "text_norm": "os autores",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7738,
+    "chunk_idx": 55,
+    "tese_id": "05"
+  },
+  {
+    "text": "GSP",
+    "text_norm": "gsp",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6821,
+    "chunk_idx": 55,
+    "tese_id": "05"
+  },
+  {
+    "text": "Genomic Signal Processing",
+    "text_norm": "genomic signal processing",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6912,
+    "chunk_idx": 55,
+    "tese_id": "05"
+  },
+  {
+    "text": "Gunasekaran et. al",
+    "text_norm": "gunasekaran et. al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8086,
+    "chunk_idx": 56,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN",
+    "text_norm": "cnn",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.6096,
+    "chunk_idx": 56,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN-LSTM",
+    "text_norm": "cnn-lstm",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.6084,
+    "chunk_idx": 56,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN-Bidirectional LSTM",
+    "text_norm": "cnn-bidirectional lstm",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6136,
+    "chunk_idx": 56,
+    "tese_id": "05"
+  },
+  {
+    "text": "K-mer",
+    "text_norm": "k-mer",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.4753,
+    "chunk_idx": 56,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN",
+    "text_norm": "cnn",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.4206,
+    "chunk_idx": 57,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN-Bidirectional",
+    "text_norm": "cnn-bidirectional",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3774,
+    "chunk_idx": 57,
+    "tese_id": "05"
+  },
+  {
+    "text": "LSTM",
+    "text_norm": "lstm",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8475,
+    "chunk_idx": 57,
+    "tese_id": "05"
+  },
+  {
+    "text": "K-mer",
+    "text_norm": "k-mer",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7388,
+    "chunk_idx": 57,
+    "tese_id": "05"
+  },
+  {
+    "text": "Gunasekaran",
+    "text_norm": "gunasekaran",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8879,
+    "chunk_idx": 57,
+    "tese_id": "05"
+  },
+  {
+    "text": "Basu",
+    "text_norm": "basu",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7935,
+    "chunk_idx": 57,
+    "tese_id": "05"
+  },
+  {
+    "text": "Campbell",
+    "text_norm": "campbell",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8875,
+    "chunk_idx": 57,
+    "tese_id": "05"
+  },
+  {
+    "text": "LSTM",
+    "text_norm": "lstm",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8438,
+    "chunk_idx": 57,
+    "tese_id": "05"
+  },
+  {
+    "text": "Long short-term memory",
+    "text_norm": "long short-term memory",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.436,
+    "chunk_idx": 57,
+    "tese_id": "05"
+  },
+  {
+    "text": "K-mer",
+    "text_norm": "k-mer",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7193,
+    "chunk_idx": 57,
+    "tese_id": "05"
+  },
+  {
+    "text": "modelo",
+    "text_norm": "modelo",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.3521,
+    "chunk_idx": 58,
+    "tese_id": "05"
+  },
+  {
+    "text": "Basu & Campbell",
+    "text_norm": "basu & campbell",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4394,
+    "chunk_idx": 59,
+    "tese_id": "05"
+  },
+  {
+    "text": "Whata et. al",
+    "text_norm": "whata et. al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8971,
+    "chunk_idx": 59,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN",
+    "text_norm": "cnn",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5857,
+    "chunk_idx": 59,
+    "tese_id": "05"
+  },
+  {
+    "text": "Bi-LSTM",
+    "text_norm": "bi-lstm",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5672,
+    "chunk_idx": 59,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN-Bi-LSTM",
+    "text_norm": "cnn-bi-lstm",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6222,
+    "chunk_idx": 59,
+    "tese_id": "05"
+  },
+  {
+    "text": "convolutional neural network bi-directional long short-term memory",
+    "text_norm": "convolutional neural network bi-directional long short-term memory",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4467,
+    "chunk_idx": 59,
+    "tese_id": "05"
+  },
+  {
+    "text": "Rincon et.al",
+    "text_norm": "rincon et.al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8791,
+    "chunk_idx": 61,
+    "tese_id": "05"
+  },
+  {
+    "text": "dnac",
+    "text_norm": "dnac",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4787,
+    "chunk_idx": 61,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN",
+    "text_norm": "cnn",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6903,
+    "chunk_idx": 62,
+    "tese_id": "05"
+  },
+  {
+    "text": "Lopez-Rincon et al.",
+    "text_norm": "lopez-rincon et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8342,
+    "chunk_idx": 62,
+    "tese_id": "05"
+  },
+  {
+    "text": "autores",
+    "text_norm": "autores",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6953,
+    "chunk_idx": 63,
+    "tese_id": "05"
+  },
+  {
+    "text": "algoritmo de floresta aleatória",
+    "text_norm": "algoritmo de floresta aleatória",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6504,
+    "chunk_idx": 63,
+    "tese_id": "05"
+  },
+  {
+    "text": "algoritmo de seleção de características LASSO",
+    "text_norm": "algoritmo de seleção de características lasso",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6687,
+    "chunk_idx": 63,
+    "tese_id": "05"
+  },
+  {
+    "text": "autores",
+    "text_norm": "autores",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6732,
+    "chunk_idx": 64,
+    "tese_id": "05"
+  },
+  {
+    "text": "Nagy et al.",
+    "text_norm": "nagy et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7846,
+    "chunk_idx": 65,
+    "tese_id": "05"
+  },
+  {
+    "text": "Kandpal",
+    "text_norm": "kandpal",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9091,
+    "chunk_idx": 65,
+    "tese_id": "05"
+  },
+  {
+    "text": "Davuluri",
+    "text_norm": "davuluri",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9181,
+    "chunk_idx": 65,
+    "tese_id": "05"
+  },
+  {
+    "text": "Floresta Aleatória",
+    "text_norm": "floresta aleatória",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3637,
+    "chunk_idx": 65,
+    "tese_id": "05"
+  },
+  {
+    "text": "Kandpal & Davuluri",
+    "text_norm": "kandpal & davuluri",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6889,
+    "chunk_idx": 66,
+    "tese_id": "05"
+  },
+  {
+    "text": "Wang",
+    "text_norm": "wang",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8903,
+    "chunk_idx": 67,
+    "tese_id": "05"
+  },
+  {
+    "text": "Wang",
+    "text_norm": "wang",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9708,
+    "chunk_idx": 67,
+    "tese_id": "05"
+  },
+  {
+    "text": "Chen",
+    "text_norm": "chen",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9149,
+    "chunk_idx": 67,
+    "tese_id": "05"
+  },
+  {
+    "text": "Gao",
+    "text_norm": "gao",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9029,
+    "chunk_idx": 67,
+    "tese_id": "05"
+  },
+  {
+    "text": "Hozumi",
+    "text_norm": "hozumi",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8973,
+    "chunk_idx": 67,
+    "tese_id": "05"
+  },
+  {
+    "text": "Yin",
+    "text_norm": "yin",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8747,
+    "chunk_idx": 67,
+    "tese_id": "05"
+  },
+  {
+    "text": "Wei",
+    "text_norm": "wei",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.827,
+    "chunk_idx": 67,
+    "tese_id": "05"
+  },
+  {
+    "text": "Ali",
+    "text_norm": "ali",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6945,
+    "chunk_idx": 67,
+    "tese_id": "05"
+  },
+  {
+    "text": "autores",
+    "text_norm": "autores",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7222,
+    "chunk_idx": 68,
+    "tese_id": "05"
+  },
+  {
+    "text": "k-mers",
+    "text_norm": "k-mers",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5774,
+    "chunk_idx": 68,
+    "tese_id": "05"
+  },
+  {
+    "text": "clusterização",
+    "text_norm": "clusterização",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4788,
+    "chunk_idx": 68,
+    "tese_id": "05"
+  },
+  {
+    "text": "Ali",
+    "text_norm": "ali",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9624,
+    "chunk_idx": 69,
+    "tese_id": "05"
+  },
+  {
+    "text": "Ali",
+    "text_norm": "ali",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9361,
+    "chunk_idx": 69,
+    "tese_id": "05"
+  },
+  {
+    "text": "Khan",
+    "text_norm": "khan",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6965,
+    "chunk_idx": 69,
+    "tese_id": "05"
+  },
+  {
+    "text": "Khan",
+    "text_norm": "khan",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7334,
+    "chunk_idx": 69,
+    "tese_id": "05"
+  },
+  {
+    "text": "Patterson",
+    "text_norm": "patterson",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6166,
+    "chunk_idx": 69,
+    "tese_id": "05"
+  },
+  {
+    "text": "Ali",
+    "text_norm": "ali",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.967,
+    "chunk_idx": 69,
+    "tese_id": "05"
+  },
+  {
+    "text": "Bello",
+    "text_norm": "bello",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.741,
+    "chunk_idx": 69,
+    "tese_id": "05"
+  },
+  {
+    "text": "Patterson",
+    "text_norm": "patterson",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5064,
+    "chunk_idx": 69,
+    "tese_id": "05"
+  },
+  {
+    "text": "one-hot encode",
+    "text_norm": "one-hot encode",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5405,
+    "chunk_idx": 70,
+    "tese_id": "05"
+  },
+  {
+    "text": "método livre de alinhamento",
+    "text_norm": "método livre de alinhamento",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.3823,
+    "chunk_idx": 71,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN",
+    "text_norm": "cnn",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.5725,
+    "chunk_idx": 72,
+    "tese_id": "05"
+  },
+  {
+    "text": "Azevedo",
+    "text_norm": "azevedo",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8836,
+    "chunk_idx": 73,
+    "tese_id": "05"
+  },
+  {
+    "text": "Karolayne",
+    "text_norm": "karolayne",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.706,
+    "chunk_idx": 73,
+    "tese_id": "05"
+  },
+  {
+    "text": "Chaitanya",
+    "text_norm": "chaitanya",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5421,
+    "chunk_idx": 79,
+    "tese_id": "05"
+  },
+  {
+    "text": "Chaitanya",
+    "text_norm": "chaitanya",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.933,
+    "chunk_idx": 80,
+    "tese_id": "05"
+  },
+  {
+    "text": "Simmonds & Aiewsakun",
+    "text_norm": "simmonds & aiewsakun",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6348,
+    "chunk_idx": 80,
+    "tese_id": "05"
+  },
+  {
+    "text": "Prasad & Schmid",
+    "text_norm": "prasad & schmid",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7882,
+    "chunk_idx": 80,
+    "tese_id": "05"
+  },
+  {
+    "text": "Konings et al.",
+    "text_norm": "konings et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8403,
+    "chunk_idx": 80,
+    "tese_id": "05"
+  },
+  {
+    "text": "Sanjuán et al.",
+    "text_norm": "sanjuán et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6356,
+    "chunk_idx": 81,
+    "tese_id": "05"
+  },
+  {
+    "text": "van Dorp",
+    "text_norm": "van dorp",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9075,
+    "chunk_idx": 81,
+    "tese_id": "05"
+  },
+  {
+    "text": "Acman",
+    "text_norm": "acman",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.941,
+    "chunk_idx": 81,
+    "tese_id": "05"
+  },
+  {
+    "text": "Richard",
+    "text_norm": "richard",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7964,
+    "chunk_idx": 81,
+    "tese_id": "05"
+  },
+  {
+    "text": "Shaw",
+    "text_norm": "shaw",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9087,
+    "chunk_idx": 81,
+    "tese_id": "05"
+  },
+  {
+    "text": "Ford",
+    "text_norm": "ford",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8906,
+    "chunk_idx": 81,
+    "tese_id": "05"
+  },
+  {
+    "text": "Ormond",
+    "text_norm": "ormond",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9188,
+    "chunk_idx": 81,
+    "tese_id": "05"
+  },
+  {
+    "text": "Owen",
+    "text_norm": "owen",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9128,
+    "chunk_idx": 81,
+    "tese_id": "05"
+  },
+  {
+    "text": "Pang",
+    "text_norm": "pang",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8539,
+    "chunk_idx": 81,
+    "tese_id": "05"
+  },
+  {
+    "text": "Tan",
+    "text_norm": "tan",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8339,
+    "chunk_idx": 81,
+    "tese_id": "05"
+  },
+  {
+    "text": "Boshier & others",
+    "text_norm": "boshier & others",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.532,
+    "chunk_idx": 81,
+    "tese_id": "05"
+  },
+  {
+    "text": "Laha et al.",
+    "text_norm": "laha et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5601,
+    "chunk_idx": 81,
+    "tese_id": "05"
+  },
+  {
+    "text": "Elena & Sanjuán",
+    "text_norm": "elena & sanjuán",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8012,
+    "chunk_idx": 82,
+    "tese_id": "05"
+  },
+  {
+    "text": "Harvey et al.",
+    "text_norm": "harvey et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9296,
+    "chunk_idx": 83,
+    "tese_id": "05"
+  },
+  {
+    "text": "Sjaarda et al.",
+    "text_norm": "sjaarda et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8762,
+    "chunk_idx": 83,
+    "tese_id": "05"
+  },
+  {
+    "text": "Marquioni & de Aguiar",
+    "text_norm": "marquioni & de aguiar",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.848,
+    "chunk_idx": 83,
+    "tese_id": "05"
+  },
+  {
+    "text": "van Dorp",
+    "text_norm": "van dorp",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8143,
+    "chunk_idx": 84,
+    "tese_id": "05"
+  },
+  {
+    "text": "Acman",
+    "text_norm": "acman",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9292,
+    "chunk_idx": 84,
+    "tese_id": "05"
+  },
+  {
+    "text": "Richard",
+    "text_norm": "richard",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8237,
+    "chunk_idx": 84,
+    "tese_id": "05"
+  },
+  {
+    "text": "Shaw",
+    "text_norm": "shaw",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8598,
+    "chunk_idx": 84,
+    "tese_id": "05"
+  },
+  {
+    "text": "Ford",
+    "text_norm": "ford",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8248,
+    "chunk_idx": 84,
+    "tese_id": "05"
+  },
+  {
+    "text": "Ormond",
+    "text_norm": "ormond",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9182,
+    "chunk_idx": 84,
+    "tese_id": "05"
+  },
+  {
+    "text": "Owen",
+    "text_norm": "owen",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9106,
+    "chunk_idx": 85,
+    "tese_id": "05"
+  },
+  {
+    "text": "Pang",
+    "text_norm": "pang",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8428,
+    "chunk_idx": 85,
+    "tese_id": "05"
+  },
+  {
+    "text": "Tan",
+    "text_norm": "tan",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8455,
+    "chunk_idx": 85,
+    "tese_id": "05"
+  },
+  {
+    "text": "Boshier",
+    "text_norm": "boshier",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8089,
+    "chunk_idx": 85,
+    "tese_id": "05"
+  },
+  {
+    "text": "Holmes et al.",
+    "text_norm": "holmes et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8805,
+    "chunk_idx": 86,
+    "tese_id": "05"
+  },
+  {
+    "text": "Harvey et al.",
+    "text_norm": "harvey et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.545,
+    "chunk_idx": 89,
+    "tese_id": "05"
+  },
+  {
+    "text": "Mascola",
+    "text_norm": "mascola",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6581,
+    "chunk_idx": 89,
+    "tese_id": "05"
+  },
+  {
+    "text": "Konings et al.",
+    "text_norm": "konings et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6665,
+    "chunk_idx": 89,
+    "tese_id": "05"
+  },
+  {
+    "text": "Sohrabi et al.",
+    "text_norm": "sohrabi et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6015,
+    "chunk_idx": 89,
+    "tese_id": "05"
+  },
+  {
+    "text": "OMS",
+    "text_norm": "oms",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.8045,
+    "chunk_idx": 91,
+    "tese_id": "05"
+  },
+  {
+    "text": "World Health Organization",
+    "text_norm": "world health organization",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.4319,
+    "chunk_idx": 92,
+    "tese_id": "05"
+  },
+  {
+    "text": "Aleem et al.",
+    "text_norm": "aleem et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9006,
+    "chunk_idx": 92,
+    "tese_id": "05"
+  },
+  {
+    "text": "OMS",
+    "text_norm": "oms",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.5582,
+    "chunk_idx": 93,
+    "tese_id": "05"
+  },
+  {
+    "text": "OMS",
+    "text_norm": "oms",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.5829,
+    "chunk_idx": 93,
+    "tese_id": "05"
+  },
+  {
+    "text": "OMS",
+    "text_norm": "oms",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.524,
+    "chunk_idx": 94,
+    "tese_id": "05"
+  },
+  {
+    "text": "Nextstrain",
+    "text_norm": "nextstrain",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.4695,
+    "chunk_idx": 95,
+    "tese_id": "05"
+  },
+  {
+    "text": "Pango",
+    "text_norm": "pango",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.4362,
+    "chunk_idx": 95,
+    "tese_id": "05"
+  },
+  {
+    "text": "Pango",
+    "text_norm": "pango",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.4008,
+    "chunk_idx": 95,
+    "tese_id": "05"
+  },
+  {
+    "text": "OMS",
+    "text_norm": "oms",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.5599,
+    "chunk_idx": 95,
+    "tese_id": "05"
+  },
+  {
+    "text": "OMS",
+    "text_norm": "oms",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.4757,
+    "chunk_idx": 96,
+    "tese_id": "05"
+  },
+  {
+    "text": "Omicron",
+    "text_norm": "omicron",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.5499,
+    "chunk_idx": 96,
+    "tese_id": "05"
+  },
+  {
+    "text": "Wu et al.",
+    "text_norm": "wu et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9457,
+    "chunk_idx": 98,
+    "tese_id": "05"
+  },
+  {
+    "text": "Adetiba et al.",
+    "text_norm": "adetiba et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9133,
+    "chunk_idx": 98,
+    "tese_id": "05"
+  },
+  {
+    "text": "He et al.",
+    "text_norm": "he et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6996,
+    "chunk_idx": 99,
+    "tese_id": "05"
+  },
+  {
+    "text": "Ren",
+    "text_norm": "ren",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8502,
+    "chunk_idx": 99,
+    "tese_id": "05"
+  },
+  {
+    "text": "et al",
+    "text_norm": "et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6837,
+    "chunk_idx": 100,
+    "tese_id": "05"
+  },
+  {
+    "text": "Gong et al.",
+    "text_norm": "gong et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8991,
+    "chunk_idx": 103,
+    "tese_id": "05"
+  },
+  {
+    "text": "Tao et al.",
+    "text_norm": "tao et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6158,
+    "chunk_idx": 107,
+    "tese_id": "05"
+  },
+  {
+    "text": "Luo",
+    "text_norm": "luo",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9182,
+    "chunk_idx": 107,
+    "tese_id": "05"
+  },
+  {
+    "text": "Morris",
+    "text_norm": "morris",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8652,
+    "chunk_idx": 107,
+    "tese_id": "05"
+  },
+  {
+    "text": "Sachithanandham",
+    "text_norm": "sachithanandham",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8475,
+    "chunk_idx": 107,
+    "tese_id": "05"
+  },
+  {
+    "text": "Amadi",
+    "text_norm": "amadi",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8873,
+    "chunk_idx": 107,
+    "tese_id": "05"
+  },
+  {
+    "text": "Gaston",
+    "text_norm": "gaston",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8783,
+    "chunk_idx": 107,
+    "tese_id": "05"
+  },
+  {
+    "text": "Li",
+    "text_norm": "li",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8921,
+    "chunk_idx": 107,
+    "tese_id": "05"
+  },
+  {
+    "text": "Swanson",
+    "text_norm": "swanson",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8801,
+    "chunk_idx": 107,
+    "tese_id": "05"
+  },
+  {
+    "text": "Schwartz",
+    "text_norm": "schwartz",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8688,
+    "chunk_idx": 107,
+    "tese_id": "05"
+  },
+  {
+    "text": "Klein",
+    "text_norm": "klein",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8589,
+    "chunk_idx": 107,
+    "tese_id": "05"
+  },
+  {
+    "text": "Pekosz & others",
+    "text_norm": "pekosz & others",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5592,
+    "chunk_idx": 107,
+    "tese_id": "05"
+  },
+  {
+    "text": "Konings et al.",
+    "text_norm": "konings et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5549,
+    "chunk_idx": 107,
+    "tese_id": "05"
+  },
+  {
+    "text": "Wibmer et al.",
+    "text_norm": "wibmer et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9626,
+    "chunk_idx": 109,
+    "tese_id": "05"
+  },
+  {
+    "text": "Tegally et al.",
+    "text_norm": "tegally et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9516,
+    "chunk_idx": 109,
+    "tese_id": "05"
+  },
+  {
+    "text": "Duong",
+    "text_norm": "duong",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.928,
+    "chunk_idx": 109,
+    "tese_id": "05"
+  },
+  {
+    "text": "Del Rio et al.",
+    "text_norm": "del rio et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8741,
+    "chunk_idx": 113,
+    "tese_id": "05"
+  },
+  {
+    "text": "Liu & Rocklv",
+    "text_norm": "liu & rocklv",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7173,
+    "chunk_idx": 113,
+    "tese_id": "05"
+  },
+  {
+    "text": "OMS",
+    "text_norm": "oms",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.3915,
+    "chunk_idx": 116,
+    "tese_id": "05"
+  },
+  {
+    "text": "Deep LearningDL",
+    "text_norm": "deep learningdl",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5351,
+    "chunk_idx": 121,
+    "tese_id": "05"
+  },
+  {
+    "text": "Artificial IntelligenceIA",
+    "text_norm": "artificial intelligenceia",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4141,
+    "chunk_idx": 121,
+    "tese_id": "05"
+  },
+  {
+    "text": "Voulodimos et al",
+    "text_norm": "voulodimos et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4634,
+    "chunk_idx": 122,
+    "tese_id": "05"
+  },
+  {
+    "text": "McCullock e Pitts",
+    "text_norm": "mccullock e pitts",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8025,
+    "chunk_idx": 122,
+    "tese_id": "05"
+  },
+  {
+    "text": "Pitts",
+    "text_norm": "pitts",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6309,
+    "chunk_idx": 122,
+    "tese_id": "05"
+  },
+  {
+    "text": "Rosenblatt",
+    "text_norm": "rosenblatt",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.968,
+    "chunk_idx": 122,
+    "tese_id": "05"
+  },
+  {
+    "text": "Rosenblatt",
+    "text_norm": "rosenblatt",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9368,
+    "chunk_idx": 122,
+    "tese_id": "05"
+  },
+  {
+    "text": "Sharma et al.",
+    "text_norm": "sharma et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9339,
+    "chunk_idx": 126,
+    "tese_id": "05"
+  },
+  {
+    "text": "ReLU",
+    "text_norm": "relu",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5447,
+    "chunk_idx": 128,
+    "tese_id": "05"
+  },
+  {
+    "text": "DL",
+    "text_norm": "dl",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.4049,
+    "chunk_idx": 132,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN",
+    "text_norm": "cnn",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6017,
+    "chunk_idx": 136,
+    "tese_id": "05"
+  },
+  {
+    "text": "Tan & Lim",
+    "text_norm": "tan & lim",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.3508,
+    "chunk_idx": 136,
+    "tese_id": "05"
+  },
+  {
+    "text": "ReLU",
+    "text_norm": "relu",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5381,
+    "chunk_idx": 139,
+    "tese_id": "05"
+  },
+  {
+    "text": "Alkhatib 2021",
+    "text_norm": "alkhatib 2021",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8099,
+    "chunk_idx": 139,
+    "tese_id": "05"
+  },
+  {
+    "text": "Ergen",
+    "text_norm": "ergen",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.593,
+    "chunk_idx": 139,
+    "tese_id": "05"
+  },
+  {
+    "text": "Glorot et al.",
+    "text_norm": "glorot et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5057,
+    "chunk_idx": 139,
+    "tese_id": "05"
+  },
+  {
+    "text": "Rede Neural Convolucional",
+    "text_norm": "rede neural convolucional",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4372,
+    "chunk_idx": 140,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN",
+    "text_norm": "cnn",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8117,
+    "chunk_idx": 140,
+    "tese_id": "05"
+  },
+  {
+    "text": "DL",
+    "text_norm": "dl",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.4394,
+    "chunk_idx": 140,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN",
+    "text_norm": "cnn",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7318,
+    "chunk_idx": 140,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNNs",
+    "text_norm": "cnns",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4027,
+    "chunk_idx": 141,
+    "tese_id": "05"
+  },
+  {
+    "text": "Yamashita et al.",
+    "text_norm": "yamashita et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9274,
+    "chunk_idx": 142,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNNs",
+    "text_norm": "cnns",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6541,
+    "chunk_idx": 142,
+    "tese_id": "05"
+  },
+  {
+    "text": "Li et al.",
+    "text_norm": "li et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9364,
+    "chunk_idx": 142,
+    "tese_id": "05"
+  },
+  {
+    "text": "Huang et al.",
+    "text_norm": "huang et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9602,
+    "chunk_idx": 142,
+    "tese_id": "05"
+  },
+  {
+    "text": "Yin et al.",
+    "text_norm": "yin et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9441,
+    "chunk_idx": 142,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNNs",
+    "text_norm": "cnns",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6642,
+    "chunk_idx": 142,
+    "tese_id": "05"
+  },
+  {
+    "text": "Hubel",
+    "text_norm": "hubel",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9506,
+    "chunk_idx": 143,
+    "tese_id": "05"
+  },
+  {
+    "text": "Wiesel",
+    "text_norm": "wiesel",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8442,
+    "chunk_idx": 143,
+    "tese_id": "05"
+  },
+  {
+    "text": "Hubel & Wiesel",
+    "text_norm": "hubel & wiesel",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4433,
+    "chunk_idx": 144,
+    "tese_id": "05"
+  },
+  {
+    "text": "Kunihiko Fukushima",
+    "text_norm": "kunihiko fukushima",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9818,
+    "chunk_idx": 144,
+    "tese_id": "05"
+  },
+  {
+    "text": "Neocognitron",
+    "text_norm": "neocognitron",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3534,
+    "chunk_idx": 144,
+    "tese_id": "05"
+  },
+  {
+    "text": "Yann LeCun",
+    "text_norm": "yann lecun",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9866,
+    "chunk_idx": 145,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN",
+    "text_norm": "cnn",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6285,
+    "chunk_idx": 145,
+    "tese_id": "05"
+  },
+  {
+    "text": "LeNet",
+    "text_norm": "lenet",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.3899,
+    "chunk_idx": 145,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN",
+    "text_norm": "cnn",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6802,
+    "chunk_idx": 145,
+    "tese_id": "05"
+  },
+  {
+    "text": "MLP",
+    "text_norm": "mlp",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6146,
+    "chunk_idx": 146,
+    "tese_id": "05"
+  },
+  {
+    "text": "Dhillon & Verma",
+    "text_norm": "dhillon & verma",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8526,
+    "chunk_idx": 146,
+    "tese_id": "05"
+  },
+  {
+    "text": "Gu et al.",
+    "text_norm": "gu et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7726,
+    "chunk_idx": 146,
+    "tese_id": "05"
+  },
+  {
+    "text": "convolução",
+    "text_norm": "convolução",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6989,
+    "chunk_idx": 147,
+    "tese_id": "05"
+  },
+  {
+    "text": "pooling",
+    "text_norm": "pooling",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6481,
+    "chunk_idx": 147,
+    "tese_id": "05"
+  },
+  {
+    "text": "convolução",
+    "text_norm": "convolução",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6067,
+    "chunk_idx": 147,
+    "tese_id": "05"
+  },
+  {
+    "text": "kernel",
+    "text_norm": "kernel",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4108,
+    "chunk_idx": 151,
+    "tese_id": "05"
+  },
+  {
+    "text": "kernel",
+    "text_norm": "kernel",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4218,
+    "chunk_idx": 151,
+    "tese_id": "05"
+  },
+  {
+    "text": "Ketkar",
+    "text_norm": "ketkar",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9236,
+    "chunk_idx": 153,
+    "tese_id": "05"
+  },
+  {
+    "text": "Alzubaidi et al",
+    "text_norm": "alzubaidi et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8697,
+    "chunk_idx": 155,
+    "tese_id": "05"
+  },
+  {
+    "text": "strides",
+    "text_norm": "strides",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6695,
+    "chunk_idx": 156,
+    "tese_id": "05"
+  },
+  {
+    "text": "strides",
+    "text_norm": "strides",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6913,
+    "chunk_idx": 156,
+    "tese_id": "05"
+  },
+  {
+    "text": "stride",
+    "text_norm": "stride",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.543,
+    "chunk_idx": 156,
+    "tese_id": "05"
+  },
+  {
+    "text": "Yepez n.d.",
+    "text_norm": "yepez n.d.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.844,
+    "chunk_idx": 156,
+    "tese_id": "05"
+  },
+  {
+    "text": "kernels",
+    "text_norm": "kernels",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.377,
+    "chunk_idx": 157,
+    "tese_id": "05"
+  },
+  {
+    "text": "kernels",
+    "text_norm": "kernels",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.3578,
+    "chunk_idx": 157,
+    "tese_id": "05"
+  },
+  {
+    "text": "Alzubaidi et al.",
+    "text_norm": "alzubaidi et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8291,
+    "chunk_idx": 157,
+    "tese_id": "05"
+  },
+  {
+    "text": "Padding",
+    "text_norm": "padding",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5291,
+    "chunk_idx": 159,
+    "tese_id": "05"
+  },
+  {
+    "text": "Innamorati et al.",
+    "text_norm": "innamorati et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8716,
+    "chunk_idx": 159,
+    "tese_id": "05"
+  },
+  {
+    "text": "algoritmo",
+    "text_norm": "algoritmo",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3751,
+    "chunk_idx": 160,
+    "tese_id": "05"
+  },
+  {
+    "text": "pooling",
+    "text_norm": "pooling",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4172,
+    "chunk_idx": 160,
+    "tese_id": "05"
+  },
+  {
+    "text": "Sun et al.",
+    "text_norm": "sun et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7281,
+    "chunk_idx": 161,
+    "tese_id": "05"
+  },
+  {
+    "text": "downsampling",
+    "text_norm": "downsampling",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.7161,
+    "chunk_idx": 161,
+    "tese_id": "05"
+  },
+  {
+    "text": "Akhtar & Ragavendran",
+    "text_norm": "akhtar & ragavendran",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7665,
+    "chunk_idx": 161,
+    "tese_id": "05"
+  },
+  {
+    "text": "pooling",
+    "text_norm": "pooling",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4798,
+    "chunk_idx": 162,
+    "tese_id": "05"
+  },
+  {
+    "text": "pooling",
+    "text_norm": "pooling",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4921,
+    "chunk_idx": 162,
+    "tese_id": "05"
+  },
+  {
+    "text": "pooling",
+    "text_norm": "pooling",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4059,
+    "chunk_idx": 166,
+    "tese_id": "05"
+  },
+  {
+    "text": "pooling máximo",
+    "text_norm": "pooling máximo",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.9026,
+    "chunk_idx": 166,
+    "tese_id": "05"
+  },
+  {
+    "text": "pooling médios",
+    "text_norm": "pooling médios",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5879,
+    "chunk_idx": 166,
+    "tese_id": "05"
+  },
+  {
+    "text": "pooling máximo",
+    "text_norm": "pooling máximo",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.874,
+    "chunk_idx": 166,
+    "tese_id": "05"
+  },
+  {
+    "text": "pooling",
+    "text_norm": "pooling",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4707,
+    "chunk_idx": 167,
+    "tese_id": "05"
+  },
+  {
+    "text": "Lee et al.",
+    "text_norm": "lee et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5475,
+    "chunk_idx": 167,
+    "tese_id": "05"
+  },
+  {
+    "text": "pooling",
+    "text_norm": "pooling",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5483,
+    "chunk_idx": 167,
+    "tese_id": "05"
+  },
+  {
+    "text": "pooling",
+    "text_norm": "pooling",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.443,
+    "chunk_idx": 167,
+    "tese_id": "05"
+  },
+  {
+    "text": "Akhtar & Ragavendran",
+    "text_norm": "akhtar & ragavendran",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6843,
+    "chunk_idx": 167,
+    "tese_id": "05"
+  },
+  {
+    "text": "Akhtar & Ragavendran",
+    "text_norm": "akhtar & ragavendran",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7296,
+    "chunk_idx": 168,
+    "tese_id": "05"
+  },
+  {
+    "text": "flattening",
+    "text_norm": "flattening",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.396,
+    "chunk_idx": 169,
+    "tese_id": "05"
+  },
+  {
+    "text": "Yepez n.d.",
+    "text_norm": "yepez n.d.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9218,
+    "chunk_idx": 173,
+    "tese_id": "05"
+  },
+  {
+    "text": "softmax",
+    "text_norm": "softmax",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.8428,
+    "chunk_idx": 174,
+    "tese_id": "05"
+  },
+  {
+    "text": "Yamashita et al.",
+    "text_norm": "yamashita et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9153,
+    "chunk_idx": 174,
+    "tese_id": "05"
+  },
+  {
+    "text": "softmax",
+    "text_norm": "softmax",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.7863,
+    "chunk_idx": 174,
+    "tese_id": "05"
+  },
+  {
+    "text": "Alzubaidi et al.",
+    "text_norm": "alzubaidi et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8894,
+    "chunk_idx": 175,
+    "tese_id": "05"
+  },
+  {
+    "text": "Yamashita et al.",
+    "text_norm": "yamashita et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9025,
+    "chunk_idx": 175,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN",
+    "text_norm": "cnn",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6339,
+    "chunk_idx": 176,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN",
+    "text_norm": "cnn",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6515,
+    "chunk_idx": 176,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN",
+    "text_norm": "cnn",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.7921,
+    "chunk_idx": 176,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN",
+    "text_norm": "cnn",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.7821,
+    "chunk_idx": 176,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN 2D",
+    "text_norm": "cnn 2d",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4312,
+    "chunk_idx": 177,
+    "tese_id": "05"
+  },
+  {
+    "text": "Alzubaidi et al",
+    "text_norm": "alzubaidi et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8875,
+    "chunk_idx": 177,
+    "tese_id": "05"
+  },
+  {
+    "text": "Alzubaidi et al.",
+    "text_norm": "alzubaidi et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8607,
+    "chunk_idx": 179,
+    "tese_id": "05"
+  },
+  {
+    "text": "softmax",
+    "text_norm": "softmax",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.4675,
+    "chunk_idx": 180,
+    "tese_id": "05"
+  },
+  {
+    "text": "modelo",
+    "text_norm": "modelo",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5095,
+    "chunk_idx": 181,
+    "tese_id": "05"
+  },
+  {
+    "text": "modelo",
+    "text_norm": "modelo",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5262,
+    "chunk_idx": 181,
+    "tese_id": "05"
+  },
+  {
+    "text": "entropia cruzada",
+    "text_norm": "entropia cruzada",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.7932,
+    "chunk_idx": 182,
+    "tese_id": "05"
+  },
+  {
+    "text": "cross-entropy",
+    "text_norm": "cross-entropy",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.3786,
+    "chunk_idx": 182,
+    "tese_id": "05"
+  },
+  {
+    "text": "entropia cruzada",
+    "text_norm": "entropia cruzada",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.7535,
+    "chunk_idx": 182,
+    "tese_id": "05"
+  },
+  {
+    "text": "algoritmo de otimização",
+    "text_norm": "algoritmo de otimização",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.433,
+    "chunk_idx": 184,
+    "tese_id": "05"
+  },
+  {
+    "text": "Gradiente",
+    "text_norm": "gradiente",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4361,
+    "chunk_idx": 184,
+    "tese_id": "05"
+  },
+  {
+    "text": "gradiente",
+    "text_norm": "gradiente",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6576,
+    "chunk_idx": 184,
+    "tese_id": "05"
+  },
+  {
+    "text": "método do gradiente descentende",
+    "text_norm": "método do gradiente descentende",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.35,
+    "chunk_idx": 186,
+    "tese_id": "05"
+  },
+  {
+    "text": "entropia cruzada",
+    "text_norm": "entropia cruzada",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.3816,
+    "chunk_idx": 186,
+    "tese_id": "05"
+  },
+  {
+    "text": "Currie & Rohren",
+    "text_norm": "currie & rohren",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6747,
+    "chunk_idx": 187,
+    "tese_id": "05"
+  },
+  {
+    "text": "Backpropagation",
+    "text_norm": "backpropagation",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9064,
+    "chunk_idx": 188,
+    "tese_id": "05"
+  },
+  {
+    "text": "Backpropagation",
+    "text_norm": "backpropagation",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.904,
+    "chunk_idx": 188,
+    "tese_id": "05"
+  },
+  {
+    "text": "Alzubaidi et al.",
+    "text_norm": "alzubaidi et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6315,
+    "chunk_idx": 190,
+    "tese_id": "05"
+  },
+  {
+    "text": "Miguez",
+    "text_norm": "miguez",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9066,
+    "chunk_idx": 190,
+    "tese_id": "05"
+  },
+  {
+    "text": "one-hot-encode",
+    "text_norm": "one-hot-encode",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6053,
+    "chunk_idx": 191,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN",
+    "text_norm": "cnn",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.55,
+    "chunk_idx": 192,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN",
+    "text_norm": "cnn",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.522,
+    "chunk_idx": 192,
+    "tese_id": "05"
+  },
+  {
+    "text": "one-hot encode",
+    "text_norm": "one-hot encode",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5298,
+    "chunk_idx": 194,
+    "tese_id": "05"
+  },
+  {
+    "text": "Camadas Totalmente Conectadas",
+    "text_norm": "camadas totalmente conectadas",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.3981,
+    "chunk_idx": 198,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN",
+    "text_norm": "cnn",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.445,
+    "chunk_idx": 198,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN",
+    "text_norm": "cnn",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.458,
+    "chunk_idx": 198,
+    "tese_id": "05"
+  },
+  {
+    "text": "camadas convolucionais 1D",
+    "text_norm": "camadas convolucionais 1d",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.3516,
+    "chunk_idx": 198,
+    "tese_id": "05"
+  },
+  {
+    "text": "camadas totalmente conectadas",
+    "text_norm": "camadas totalmente conectadas",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4165,
+    "chunk_idx": 198,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN",
+    "text_norm": "cnn",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.762,
+    "chunk_idx": 200,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN",
+    "text_norm": "cnn",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.7811,
+    "chunk_idx": 200,
+    "tese_id": "05"
+  },
+  {
+    "text": "adam",
+    "text_norm": "adam",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.4304,
+    "chunk_idx": 201,
+    "tese_id": "05"
+  },
+  {
+    "text": "adam",
+    "text_norm": "adam",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.3842,
+    "chunk_idx": 202,
+    "tese_id": "05"
+  },
+  {
+    "text": "DL",
+    "text_norm": "dl",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.5511,
+    "chunk_idx": 202,
+    "tese_id": "05"
+  },
+  {
+    "text": "Ren et al",
+    "text_norm": "ren et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9236,
+    "chunk_idx": 203,
+    "tese_id": "05"
+  },
+  {
+    "text": "Fabija",
+    "text_norm": "fabija",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5301,
+    "chunk_idx": 205,
+    "tese_id": "05"
+  },
+  {
+    "text": "Grabowski",
+    "text_norm": "grabowski",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.395,
+    "chunk_idx": 205,
+    "tese_id": "05"
+  },
+  {
+    "text": "L.Rincon",
+    "text_norm": "l.rincon",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5237,
+    "chunk_idx": 205,
+    "tese_id": "05"
+  },
+  {
+    "text": "National Genomics Data Center",
+    "text_norm": "national genomics data center",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.4012,
+    "chunk_idx": 207,
+    "tese_id": "05"
+  },
+  {
+    "text": "National Center for Biotechnology Information",
+    "text_norm": "national center for biotechnology information",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.8983,
+    "chunk_idx": 209,
+    "tese_id": "05"
+  },
+  {
+    "text": "NCBI",
+    "text_norm": "ncbi",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.6598,
+    "chunk_idx": 209,
+    "tese_id": "05"
+  },
+  {
+    "text": "Fabija",
+    "text_norm": "fabija",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5678,
+    "chunk_idx": 213,
+    "tese_id": "05"
+  },
+  {
+    "text": "Grabowski",
+    "text_norm": "grabowski",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5246,
+    "chunk_idx": 213,
+    "tese_id": "05"
+  },
+  {
+    "text": "Técnica de Mutação Artificial",
+    "text_norm": "técnica de mutação artificial",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4701,
+    "chunk_idx": 218,
+    "tese_id": "05"
+  },
+  {
+    "text": "metodologia de mutações artificiais",
+    "text_norm": "metodologia de mutações artificiais",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.3953,
+    "chunk_idx": 218,
+    "tese_id": "05"
+  },
+  {
+    "text": "L.Rincon & others",
+    "text_norm": "l.rincon & others",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6672,
+    "chunk_idx": 218,
+    "tese_id": "05"
+  },
+  {
+    "text": "método de mutação artificial",
+    "text_norm": "método de mutação artificial",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6585,
+    "chunk_idx": 219,
+    "tese_id": "05"
+  },
+  {
+    "text": "Nmut",
+    "text_norm": "nmut",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3612,
+    "chunk_idx": 221,
+    "tese_id": "05"
+  },
+  {
+    "text": "kmut",
+    "text_norm": "kmut",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5329,
+    "chunk_idx": 222,
+    "tese_id": "05"
+  },
+  {
+    "text": "método",
+    "text_norm": "método",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5551,
+    "chunk_idx": 223,
+    "tese_id": "05"
+  },
+  {
+    "text": "método",
+    "text_norm": "método",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5002,
+    "chunk_idx": 223,
+    "tese_id": "05"
+  },
+  {
+    "text": "ROC",
+    "text_norm": "roc",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4461,
+    "chunk_idx": 225,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNNs",
+    "text_norm": "cnns",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4274,
+    "chunk_idx": 242,
+    "tese_id": "05"
+  },
+  {
+    "text": "Fabija",
+    "text_norm": "fabija",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5051,
+    "chunk_idx": 243,
+    "tese_id": "05"
+  },
+  {
+    "text": "Grabowski",
+    "text_norm": "grabowski",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4999,
+    "chunk_idx": 243,
+    "tese_id": "05"
+  },
+  {
+    "text": "Fabija´nska & Grabowski",
+    "text_norm": "fabija´nska & grabowski",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7393,
+    "chunk_idx": 244,
+    "tese_id": "05"
+  },
+  {
+    "text": "Tampuu et al.",
+    "text_norm": "tampuu et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9311,
+    "chunk_idx": 244,
+    "tese_id": "05"
+  },
+  {
+    "text": "Fabija´nska",
+    "text_norm": "fabija´nska",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5838,
+    "chunk_idx": 244,
+    "tese_id": "05"
+  },
+  {
+    "text": "Grabowski",
+    "text_norm": "grabowski",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6835,
+    "chunk_idx": 244,
+    "tese_id": "05"
+  },
+  {
+    "text": "Tampuu et al.",
+    "text_norm": "tampuu et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8993,
+    "chunk_idx": 244,
+    "tese_id": "05"
+  },
+  {
+    "text": "Ren et al.",
+    "text_norm": "ren et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.771,
+    "chunk_idx": 244,
+    "tese_id": "05"
+  },
+  {
+    "text": "Tampuu",
+    "text_norm": "tampuu",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8532,
+    "chunk_idx": 244,
+    "tese_id": "05"
+  },
+  {
+    "text": "et al.",
+    "text_norm": "et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.3552,
+    "chunk_idx": 245,
+    "tese_id": "05"
+  },
+  {
+    "text": "L.Rincon & others",
+    "text_norm": "l.rincon & others",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6761,
+    "chunk_idx": 245,
+    "tese_id": "05"
+  },
+  {
+    "text": "Fabija",
+    "text_norm": "fabija",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5223,
+    "chunk_idx": 247,
+    "tese_id": "05"
+  },
+  {
+    "text": "Grabowski",
+    "text_norm": "grabowski",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4757,
+    "chunk_idx": 247,
+    "tese_id": "05"
+  },
+  {
+    "text": "L.Rincon",
+    "text_norm": "l.rincon",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8196,
+    "chunk_idx": 248,
+    "tese_id": "05"
+  },
+  {
+    "text": "pesquisadores",
+    "text_norm": "pesquisadores",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5802,
+    "chunk_idx": 252,
+    "tese_id": "05"
+  },
+  {
+    "text": "Shu & McCauley",
+    "text_norm": "shu & mccauley",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4073,
+    "chunk_idx": 253,
+    "tese_id": "05"
+  },
+  {
+    "text": "GISAID",
+    "text_norm": "gisaid",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.5504,
+    "chunk_idx": 253,
+    "tese_id": "05"
+  },
+  {
+    "text": "Kalia et al.",
+    "text_norm": "kalia et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7811,
+    "chunk_idx": 253,
+    "tese_id": "05"
+  },
+  {
+    "text": "GISAID",
+    "text_norm": "gisaid",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.6814,
+    "chunk_idx": 253,
+    "tese_id": "05"
+  },
+  {
+    "text": "van Dorp",
+    "text_norm": "van dorp",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8041,
+    "chunk_idx": 253,
+    "tese_id": "05"
+  },
+  {
+    "text": "Acman",
+    "text_norm": "acman",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7967,
+    "chunk_idx": 253,
+    "tese_id": "05"
+  },
+  {
+    "text": "Richard",
+    "text_norm": "richard",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4168,
+    "chunk_idx": 253,
+    "tese_id": "05"
+  },
+  {
+    "text": "Shaw",
+    "text_norm": "shaw",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7658,
+    "chunk_idx": 253,
+    "tese_id": "05"
+  },
+  {
+    "text": "Ford",
+    "text_norm": "ford",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6176,
+    "chunk_idx": 253,
+    "tese_id": "05"
+  },
+  {
+    "text": "Ormond",
+    "text_norm": "ormond",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8706,
+    "chunk_idx": 253,
+    "tese_id": "05"
+  },
+  {
+    "text": "Owen",
+    "text_norm": "owen",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9167,
+    "chunk_idx": 254,
+    "tese_id": "05"
+  },
+  {
+    "text": "Pang",
+    "text_norm": "pang",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8053,
+    "chunk_idx": 254,
+    "tese_id": "05"
+  },
+  {
+    "text": "Tan",
+    "text_norm": "tan",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7816,
+    "chunk_idx": 254,
+    "tese_id": "05"
+  },
+  {
+    "text": "Boshier",
+    "text_norm": "boshier",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7676,
+    "chunk_idx": 254,
+    "tese_id": "05"
+  },
+  {
+    "text": "GISAID",
+    "text_norm": "gisaid",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.4539,
+    "chunk_idx": 257,
+    "tese_id": "05"
+  },
+  {
+    "text": "Gularte et al.",
+    "text_norm": "gularte et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8766,
+    "chunk_idx": 259,
+    "tese_id": "05"
+  },
+  {
+    "text": "Alves",
+    "text_norm": "alves",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9166,
+    "chunk_idx": 259,
+    "tese_id": "05"
+  },
+  {
+    "text": "B.1.1",
+    "text_norm": "b.1.1",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.4487,
+    "chunk_idx": 261,
+    "tese_id": "05"
+  },
+  {
+    "text": "BA.2.9",
+    "text_norm": "ba.2.9",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.4118,
+    "chunk_idx": 261,
+    "tese_id": "05"
+  },
+  {
+    "text": "MU",
+    "text_norm": "mu",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.3765,
+    "chunk_idx": 261,
+    "tese_id": "05"
+  },
+  {
+    "text": "B.1.621",
+    "text_norm": "b.1.621",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.3775,
+    "chunk_idx": 261,
+    "tese_id": "05"
+  },
+  {
+    "text": "Lambda",
+    "text_norm": "lambda",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.4774,
+    "chunk_idx": 261,
+    "tese_id": "05"
+  },
+  {
+    "text": "Luo",
+    "text_norm": "luo",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9168,
+    "chunk_idx": 272,
+    "tese_id": "05"
+  },
+  {
+    "text": "Delaunay-Moisan",
+    "text_norm": "delaunay-moisan",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8816,
+    "chunk_idx": 272,
+    "tese_id": "05"
+  },
+  {
+    "text": "Timmis & Danchin 2021",
+    "text_norm": "timmis & danchin 2021",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6112,
+    "chunk_idx": 272,
+    "tese_id": "05"
+  },
+  {
+    "text": "Alpha",
+    "text_norm": "alpha",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5272,
+    "chunk_idx": 284,
+    "tese_id": "05"
+  },
+  {
+    "text": "Beta",
+    "text_norm": "beta",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4406,
+    "chunk_idx": 284,
+    "tese_id": "05"
+  },
+  {
+    "text": "Gamma",
+    "text_norm": "gamma",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4663,
+    "chunk_idx": 284,
+    "tese_id": "05"
+  },
+  {
+    "text": "Delta",
+    "text_norm": "delta",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4724,
+    "chunk_idx": 284,
+    "tese_id": "05"
+  },
+  {
+    "text": "Alpha",
+    "text_norm": "alpha",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5433,
+    "chunk_idx": 307,
+    "tese_id": "05"
+  },
+  {
+    "text": "Beta",
+    "text_norm": "beta",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4735,
+    "chunk_idx": 307,
+    "tese_id": "05"
+  },
+  {
+    "text": "Gamma",
+    "text_norm": "gamma",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4798,
+    "chunk_idx": 307,
+    "tese_id": "05"
+  },
+  {
+    "text": "Delta",
+    "text_norm": "delta",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4901,
+    "chunk_idx": 307,
+    "tese_id": "05"
+  },
+  {
+    "text": "Análise Estatística das Variantes",
+    "text_norm": "análise estatística das variantes",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4021,
+    "chunk_idx": 314,
+    "tese_id": "05"
+  },
+  {
+    "text": "Analysis Of Variance-ANOVA",
+    "text_norm": "analysis of variance-anova",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4476,
+    "chunk_idx": 314,
+    "tese_id": "05"
+  },
+  {
+    "text": "ANOVA",
+    "text_norm": "anova",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.8595,
+    "chunk_idx": 315,
+    "tese_id": "05"
+  },
+  {
+    "text": "ANOVA",
+    "text_norm": "anova",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8128,
+    "chunk_idx": 317,
+    "tese_id": "05"
+  },
+  {
+    "text": "nwalign",
+    "text_norm": "nwalign",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.3871,
+    "chunk_idx": 318,
+    "tese_id": "05"
+  },
+  {
+    "text": "matlab",
+    "text_norm": "matlab",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.8154,
+    "chunk_idx": 318,
+    "tese_id": "05"
+  },
+  {
+    "text": "padrão-outro",
+    "text_norm": "padrão-outro",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4582,
+    "chunk_idx": 319,
+    "tese_id": "05"
+  },
+  {
+    "text": "ANOVA",
+    "text_norm": "anova",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8416,
+    "chunk_idx": 322,
+    "tese_id": "05"
+  },
+  {
+    "text": "ANOVA",
+    "text_norm": "anova",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8456,
+    "chunk_idx": 322,
+    "tese_id": "05"
+  },
+  {
+    "text": "Anderson-Darling",
+    "text_norm": "anderson-darling",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4514,
+    "chunk_idx": 323,
+    "tese_id": "05"
+  },
+  {
+    "text": "Leotti et al",
+    "text_norm": "leotti et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9066,
+    "chunk_idx": 324,
+    "tese_id": "05"
+  },
+  {
+    "text": "Jarque-Bera",
+    "text_norm": "jarque-bera",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5539,
+    "chunk_idx": 328,
+    "tese_id": "05"
+  },
+  {
+    "text": "H0",
+    "text_norm": "h0",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.367,
+    "chunk_idx": 329,
+    "tese_id": "05"
+  },
+  {
+    "text": "teste de Kruskal-Wallis",
+    "text_norm": "teste de kruskal-wallis",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5866,
+    "chunk_idx": 331,
+    "tese_id": "05"
+  },
+  {
+    "text": "teste de Kruskal-Wallis",
+    "text_norm": "teste de kruskal-wallis",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4619,
+    "chunk_idx": 331,
+    "tese_id": "05"
+  },
+  {
+    "text": "matlab",
+    "text_norm": "matlab",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.6496,
+    "chunk_idx": 334,
+    "tese_id": "05"
+  },
+  {
+    "text": "Delta",
+    "text_norm": "delta",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5269,
+    "chunk_idx": 345,
+    "tese_id": "05"
+  },
+  {
+    "text": "Delta",
+    "text_norm": "delta",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5612,
+    "chunk_idx": 345,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN",
+    "text_norm": "cnn",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4858,
+    "chunk_idx": 349,
+    "tese_id": "05"
+  },
+  {
+    "text": "onehot encode",
+    "text_norm": "onehot encode",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5159,
+    "chunk_idx": 349,
+    "tese_id": "05"
+  },
+  {
+    "text": "técnica de mutação artificial",
+    "text_norm": "técnica de mutação artificial",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4788,
+    "chunk_idx": 350,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN",
+    "text_norm": "cnn",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5956,
+    "chunk_idx": 359,
+    "tese_id": "05"
+  },
+  {
+    "text": "modelo",
+    "text_norm": "modelo",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.7226,
+    "chunk_idx": 360,
+    "tese_id": "05"
+  },
+  {
+    "text": "modelo",
+    "text_norm": "modelo",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6685,
+    "chunk_idx": 360,
+    "tese_id": "05"
+  },
+  {
+    "text": "CNN",
+    "text_norm": "cnn",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3916,
+    "chunk_idx": 361,
+    "tese_id": "05"
+  },
+  {
+    "text": "Técnicas de Agrupamento",
+    "text_norm": "técnicas de agrupamento",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5268,
+    "chunk_idx": 362,
+    "tese_id": "05"
+  },
+  {
+    "text": "Deep clursting",
+    "text_norm": "deep clursting",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5219,
+    "chunk_idx": 362,
+    "tese_id": "05"
+  },
+  {
+    "text": "Aprendizagem incremental",
+    "text_norm": "aprendizagem incremental",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4937,
+    "chunk_idx": 363,
+    "tese_id": "05"
+  }
+]

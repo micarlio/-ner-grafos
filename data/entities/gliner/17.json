@@ -1,0 +1,6230 @@
+[
+  {
+    "text": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "text_norm": "universidade federal do rio grande do norte",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.9804,
+    "chunk_idx": 0,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7416,
+    "chunk_idx": 0,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6345,
+    "chunk_idx": 0,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.7075,
+    "chunk_idx": 0,
+    "tese_id": "17"
+  },
+  {
+    "text": "Carlos Eduardo de Barros Santos Júnior",
+    "text_norm": "carlos eduardo de barros santos júnior",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7658,
+    "chunk_idx": 1,
+    "tese_id": "17"
+  },
+  {
+    "text": "Prof. Dr. Marcelo Augusto Costa Fernandes",
+    "text_norm": "prof. dr. marcelo augusto costa fernandes",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7045,
+    "chunk_idx": 1,
+    "tese_id": "17"
+  },
+  {
+    "text": "Programa de Pós-Graduação em Engenharia",
+    "text_norm": "programa de pós-graduação em engenharia",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.7275,
+    "chunk_idx": 1,
+    "tese_id": "17"
+  },
+  {
+    "text": "UFRN",
+    "text_norm": "ufrn",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.9059,
+    "chunk_idx": 2,
+    "tese_id": "17"
+  },
+  {
+    "text": "Universidade Federaldo Rio Grande do Norte",
+    "text_norm": "universidade federaldo rio grande do norte",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.8708,
+    "chunk_idx": 3,
+    "tese_id": "17"
+  },
+  {
+    "text": "UFRN",
+    "text_norm": "ufrn",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.9012,
+    "chunk_idx": 3,
+    "tese_id": "17"
+  },
+  {
+    "text": "UFRN",
+    "text_norm": "ufrn",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.8898,
+    "chunk_idx": 3,
+    "tese_id": "17"
+  },
+  {
+    "text": "Santos Júnior",
+    "text_norm": "santos júnior",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7101,
+    "chunk_idx": 4,
+    "tese_id": "17"
+  },
+  {
+    "text": "Carlos Eduardo de Barros",
+    "text_norm": "carlos eduardo de barros",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8397,
+    "chunk_idx": 4,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7039,
+    "chunk_idx": 4,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6483,
+    "chunk_idx": 4,
+    "tese_id": "17"
+  },
+  {
+    "text": "Carlos Eduardo de Barros",
+    "text_norm": "carlos eduardo de barros",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7855,
+    "chunk_idx": 4,
+    "tese_id": "17"
+  },
+  {
+    "text": "Santos Júnior",
+    "text_norm": "santos júnior",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6909,
+    "chunk_idx": 4,
+    "tese_id": "17"
+  },
+  {
+    "text": "Universidade Federal do Rio Grande do Norte",
+    "text_norm": "universidade federal do rio grande do norte",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.9662,
+    "chunk_idx": 4,
+    "tese_id": "17"
+  },
+  {
+    "text": "Departamento de Engenharia da Computação e Automação",
+    "text_norm": "departamento de engenharia da computação e automação",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.5183,
+    "chunk_idx": 4,
+    "tese_id": "17"
+  },
+  {
+    "text": "Programa de Pós-Graduação em Engenharia Elétrica e de Computação",
+    "text_norm": "programa de pós-graduação em engenharia elétrica e de computação",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.54,
+    "chunk_idx": 4,
+    "tese_id": "17"
+  },
+  {
+    "text": "Marcelo Augusto Costa",
+    "text_norm": "marcelo augusto costa",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7799,
+    "chunk_idx": 5,
+    "tese_id": "17"
+  },
+  {
+    "text": "Fernandes",
+    "text_norm": "fernandes",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5315,
+    "chunk_idx": 5,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4669,
+    "chunk_idx": 5,
+    "tese_id": "17"
+  },
+  {
+    "text": "Throughput",
+    "text_norm": "throughput",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4544,
+    "chunk_idx": 5,
+    "tese_id": "17"
+  },
+  {
+    "text": "Marcelo Augusto Costa",
+    "text_norm": "marcelo augusto costa",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8326,
+    "chunk_idx": 5,
+    "tese_id": "17"
+  },
+  {
+    "text": "RAIMUNDO MUNIZ DE OLIVEIRA",
+    "text_norm": "raimundo muniz de oliveira",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4545,
+    "chunk_idx": 5,
+    "tese_id": "17"
+  },
+  {
+    "text": "prof. Marcelo",
+    "text_norm": "prof. marcelo",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6788,
+    "chunk_idx": 7,
+    "tese_id": "17"
+  },
+  {
+    "text": "professor Marcelo",
+    "text_norm": "professor marcelo",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5675,
+    "chunk_idx": 7,
+    "tese_id": "17"
+  },
+  {
+    "text": "GPSEHR",
+    "text_norm": "gpsehr",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.3549,
+    "chunk_idx": 7,
+    "tese_id": "17"
+  },
+  {
+    "text": "Sérgio Natan",
+    "text_norm": "sérgio natan",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8379,
+    "chunk_idx": 7,
+    "tese_id": "17"
+  },
+  {
+    "text": "Caio",
+    "text_norm": "caio",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4364,
+    "chunk_idx": 8,
+    "tese_id": "17"
+  },
+  {
+    "text": "Jorge Bitú Neto",
+    "text_norm": "jorge bitú neto",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7009,
+    "chunk_idx": 9,
+    "tese_id": "17"
+  },
+  {
+    "text": "Rodrigo Jorge",
+    "text_norm": "rodrigo jorge",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9527,
+    "chunk_idx": 10,
+    "tese_id": "17"
+  },
+  {
+    "text": "Noilson Caio",
+    "text_norm": "noilson caio",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9222,
+    "chunk_idx": 10,
+    "tese_id": "17"
+  },
+  {
+    "text": "algoritmo MD5",
+    "text_norm": "algoritmo md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9067,
+    "chunk_idx": 10,
+    "tese_id": "17"
+  },
+  {
+    "text": "algoritmo SHA-1",
+    "text_norm": "algoritmo sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9385,
+    "chunk_idx": 10,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6138,
+    "chunk_idx": 11,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5045,
+    "chunk_idx": 11,
+    "tese_id": "17"
+  },
+  {
+    "text": "throughput",
+    "text_norm": "throughput",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.3921,
+    "chunk_idx": 11,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6499,
+    "chunk_idx": 11,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8941,
+    "chunk_idx": 12,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.895,
+    "chunk_idx": 12,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9274,
+    "chunk_idx": 12,
+    "tese_id": "17"
+  },
+  {
+    "text": "micro-processador",
+    "text_norm": "micro-processador",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5745,
+    "chunk_idx": 12,
+    "tese_id": "17"
+  },
+  {
+    "text": "algoritmo",
+    "text_norm": "algoritmo",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5139,
+    "chunk_idx": 13,
+    "tese_id": "17"
+  },
+  {
+    "text": "hash",
+    "text_norm": "hash",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4706,
+    "chunk_idx": 14,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.8681,
+    "chunk_idx": 14,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.904,
+    "chunk_idx": 14,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9137,
+    "chunk_idx": 14,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.916,
+    "chunk_idx": 14,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8947,
+    "chunk_idx": 14,
+    "tese_id": "17"
+  },
+  {
+    "text": "Field Programmable Gate Array",
+    "text_norm": "field programmable gate array",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5098,
+    "chunk_idx": 14,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.8063,
+    "chunk_idx": 14,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6323,
+    "chunk_idx": 15,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6156,
+    "chunk_idx": 15,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1 algorithm",
+    "text_norm": "sha-1 algorithm",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6197,
+    "chunk_idx": 15,
+    "tese_id": "17"
+  },
+  {
+    "text": "ASSP",
+    "text_norm": "assp",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5003,
+    "chunk_idx": 16,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8748,
+    "chunk_idx": 16,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.858,
+    "chunk_idx": 16,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9171,
+    "chunk_idx": 16,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8929,
+    "chunk_idx": 16,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware platforms",
+    "text_norm": "hardware platforms",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.3791,
+    "chunk_idx": 16,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.459,
+    "chunk_idx": 17,
+    "tese_id": "17"
+  },
+  {
+    "text": "hash",
+    "text_norm": "hash",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7029,
+    "chunk_idx": 17,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6576,
+    "chunk_idx": 17,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8418,
+    "chunk_idx": 17,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.862,
+    "chunk_idx": 17,
+    "tese_id": "17"
+  },
+  {
+    "text": "processing",
+    "text_norm": "processing",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4601,
+    "chunk_idx": 17,
+    "tese_id": "17"
+  },
+  {
+    "text": "Próprio autor",
+    "text_norm": "próprio autor",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6357,
+    "chunk_idx": 20,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8852,
+    "chunk_idx": 21,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8717,
+    "chunk_idx": 21,
+    "tese_id": "17"
+  },
+  {
+    "text": "ATmega 2560",
+    "text_norm": "atmega 2560",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.8336,
+    "chunk_idx": 21,
+    "tese_id": "17"
+  },
+  {
+    "text": "Intel Galileo Gen 2",
+    "text_norm": "intel galileo gen 2",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.8332,
+    "chunk_idx": 21,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6345,
+    "chunk_idx": 22,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4376,
+    "chunk_idx": 22,
+    "tese_id": "17"
+  },
+  {
+    "text": "IoT",
+    "text_norm": "iot",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.6119,
+    "chunk_idx": 23,
+    "tese_id": "17"
+  },
+  {
+    "text": "Internet of Things",
+    "text_norm": "internet of things",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.4408,
+    "chunk_idx": 23,
+    "tese_id": "17"
+  },
+  {
+    "text": "Big Data",
+    "text_norm": "big data",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.5355,
+    "chunk_idx": 23,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGAs",
+    "text_norm": "fpgas",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.511,
+    "chunk_idx": 24,
+    "tese_id": "17"
+  },
+  {
+    "text": "algoritmos de hash",
+    "text_norm": "algoritmos de hash",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3939,
+    "chunk_idx": 27,
+    "tese_id": "17"
+  },
+  {
+    "text": "Internet das Coisas",
+    "text_norm": "internet das coisas",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.5585,
+    "chunk_idx": 27,
+    "tese_id": "17"
+  },
+  {
+    "text": "IoT",
+    "text_norm": "iot",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.5066,
+    "chunk_idx": 27,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5843,
+    "chunk_idx": 28,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9018,
+    "chunk_idx": 29,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.886,
+    "chunk_idx": 29,
+    "tese_id": "17"
+  },
+  {
+    "text": "Yahoo",
+    "text_norm": "yahoo",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.9031,
+    "chunk_idx": 29,
+    "tese_id": "17"
+  },
+  {
+    "text": "Linkedin",
+    "text_norm": "linkedin",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.9446,
+    "chunk_idx": 29,
+    "tese_id": "17"
+  },
+  {
+    "text": "MySpace",
+    "text_norm": "myspace",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.9388,
+    "chunk_idx": 29,
+    "tese_id": "17"
+  },
+  {
+    "text": "Dropbox",
+    "text_norm": "dropbox",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.9506,
+    "chunk_idx": 29,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4256,
+    "chunk_idx": 30,
+    "tese_id": "17"
+  },
+  {
+    "text": "IoT",
+    "text_norm": "iot",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5029,
+    "chunk_idx": 31,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGAs",
+    "text_norm": "fpgas",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5618,
+    "chunk_idx": 32,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.495,
+    "chunk_idx": 32,
+    "tese_id": "17"
+  },
+  {
+    "text": "ASSPs",
+    "text_norm": "assps",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4452,
+    "chunk_idx": 32,
+    "tese_id": "17"
+  },
+  {
+    "text": "ASIC",
+    "text_norm": "asic",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5447,
+    "chunk_idx": 32,
+    "tese_id": "17"
+  },
+  {
+    "text": "de Souza & Fernandes",
+    "text_norm": "de souza & fernandes",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8651,
+    "chunk_idx": 33,
+    "tese_id": "17"
+  },
+  {
+    "text": "da Silva et al.",
+    "text_norm": "da silva et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7299,
+    "chunk_idx": 33,
+    "tese_id": "17"
+  },
+  {
+    "text": "Noronha & Fernandes",
+    "text_norm": "noronha & fernandes",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7603,
+    "chunk_idx": 33,
+    "tese_id": "17"
+  },
+  {
+    "text": "Torquato & Fernandes",
+    "text_norm": "torquato & fernandes",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7281,
+    "chunk_idx": 33,
+    "tese_id": "17"
+  },
+  {
+    "text": "Shi et al.",
+    "text_norm": "shi et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6367,
+    "chunk_idx": 33,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7288,
+    "chunk_idx": 34,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.719,
+    "chunk_idx": 34,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.7643,
+    "chunk_idx": 34,
+    "tese_id": "17"
+  },
+  {
+    "text": "Xilinx",
+    "text_norm": "xilinx",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.8017,
+    "chunk_idx": 34,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5943,
+    "chunk_idx": 35,
+    "tese_id": "17"
+  },
+  {
+    "text": "RTL",
+    "text_norm": "rtl",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.7377,
+    "chunk_idx": 35,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.3818,
+    "chunk_idx": 36,
+    "tese_id": "17"
+  },
+  {
+    "text": "algoritmo",
+    "text_norm": "algoritmo",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7423,
+    "chunk_idx": 36,
+    "tese_id": "17"
+  },
+  {
+    "text": "algoritmo",
+    "text_norm": "algoritmo",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7303,
+    "chunk_idx": 36,
+    "tese_id": "17"
+  },
+  {
+    "text": "Deepakumara et al",
+    "text_norm": "deepakumara et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8282,
+    "chunk_idx": 37,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7059,
+    "chunk_idx": 37,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5758,
+    "chunk_idx": 37,
+    "tese_id": "17"
+  },
+  {
+    "text": "Xilinx Virtex 5 I000FG680-6",
+    "text_norm": "xilinx virtex 5 i000fg680-6",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6125,
+    "chunk_idx": 37,
+    "tese_id": "17"
+  },
+  {
+    "text": "Full Loop Unrolling",
+    "text_norm": "full loop unrolling",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4127,
+    "chunk_idx": 37,
+    "tese_id": "17"
+  },
+  {
+    "text": "Iterative Looping",
+    "text_norm": "iterative looping",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.3918,
+    "chunk_idx": 37,
+    "tese_id": "17"
+  },
+  {
+    "text": "FLU",
+    "text_norm": "flu",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3665,
+    "chunk_idx": 38,
+    "tese_id": "17"
+  },
+  {
+    "text": "IL",
+    "text_norm": "il",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.5889,
+    "chunk_idx": 38,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4162,
+    "chunk_idx": 38,
+    "tese_id": "17"
+  },
+  {
+    "text": "Jarvinen et al.",
+    "text_norm": "jarvinen et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8759,
+    "chunk_idx": 38,
+    "tese_id": "17"
+  },
+  {
+    "text": "Xilinx Virtex-II XC2V4000-6",
+    "text_norm": "xilinx virtex-ii xc2v4000-6",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6255,
+    "chunk_idx": 38,
+    "tese_id": "17"
+  },
+  {
+    "text": "Iterative",
+    "text_norm": "iterative",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5527,
+    "chunk_idx": 39,
+    "tese_id": "17"
+  },
+  {
+    "text": "IL",
+    "text_norm": "il",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7179,
+    "chunk_idx": 39,
+    "tese_id": "17"
+  },
+  {
+    "text": "Deepakumara et al.",
+    "text_norm": "deepakumara et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8417,
+    "chunk_idx": 39,
+    "tese_id": "17"
+  },
+  {
+    "text": "IL",
+    "text_norm": "il",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7031,
+    "chunk_idx": 39,
+    "tese_id": "17"
+  },
+  {
+    "text": "FP",
+    "text_norm": "fp",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5446,
+    "chunk_idx": 40,
+    "tese_id": "17"
+  },
+  {
+    "text": "FP",
+    "text_norm": "fp",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4026,
+    "chunk_idx": 40,
+    "tese_id": "17"
+  },
+  {
+    "text": "IL",
+    "text_norm": "il",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3564,
+    "chunk_idx": 40,
+    "tese_id": "17"
+  },
+  {
+    "text": "Deepakumara et al.",
+    "text_norm": "deepakumara et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8203,
+    "chunk_idx": 40,
+    "tese_id": "17"
+  },
+  {
+    "text": "Jarvinen et al.",
+    "text_norm": "jarvinen et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7595,
+    "chunk_idx": 40,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7303,
+    "chunk_idx": 40,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.8611,
+    "chunk_idx": 41,
+    "tese_id": "17"
+  },
+  {
+    "text": "He & Xue",
+    "text_norm": "he & xue",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8936,
+    "chunk_idx": 41,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.8105,
+    "chunk_idx": 41,
+    "tese_id": "17"
+  },
+  {
+    "text": "Jarvinen et al.",
+    "text_norm": "jarvinen et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7423,
+    "chunk_idx": 42,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8374,
+    "chunk_idx": 42,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.765,
+    "chunk_idx": 42,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.8209,
+    "chunk_idx": 42,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.8114,
+    "chunk_idx": 42,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8348,
+    "chunk_idx": 42,
+    "tese_id": "17"
+  },
+  {
+    "text": "He & Xue",
+    "text_norm": "he & xue",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6305,
+    "chunk_idx": 42,
+    "tese_id": "17"
+  },
+  {
+    "text": "Wang et al.",
+    "text_norm": "wang et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4477,
+    "chunk_idx": 43,
+    "tese_id": "17"
+  },
+  {
+    "text": "He & Xue",
+    "text_norm": "he & xue",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7773,
+    "chunk_idx": 43,
+    "tese_id": "17"
+  },
+  {
+    "text": "Deepakumara et al.",
+    "text_norm": "deepakumara et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.519,
+    "chunk_idx": 43,
+    "tese_id": "17"
+  },
+  {
+    "text": "Yiakoumis et al.",
+    "text_norm": "yiakoumis et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.3686,
+    "chunk_idx": 43,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6518,
+    "chunk_idx": 44,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.717,
+    "chunk_idx": 44,
+    "tese_id": "17"
+  },
+  {
+    "text": "autores",
+    "text_norm": "autores",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7367,
+    "chunk_idx": 44,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.717,
+    "chunk_idx": 44,
+    "tese_id": "17"
+  },
+  {
+    "text": "Morais et al.",
+    "text_norm": "morais et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7369,
+    "chunk_idx": 45,
+    "tese_id": "17"
+  },
+  {
+    "text": "Al-Kiswany et al.",
+    "text_norm": "al-kiswany et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7483,
+    "chunk_idx": 45,
+    "tese_id": "17"
+  },
+  {
+    "text": "Marks",
+    "text_norm": "marks",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.3895,
+    "chunk_idx": 45,
+    "tese_id": "17"
+  },
+  {
+    "text": "Kim & Kyong",
+    "text_norm": "kim & kyong",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9008,
+    "chunk_idx": 45,
+    "tese_id": "17"
+  },
+  {
+    "text": "Morais et al.",
+    "text_norm": "morais et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.559,
+    "chunk_idx": 45,
+    "tese_id": "17"
+  },
+  {
+    "text": "Intel i3-M370",
+    "text_norm": "intel i3-m370",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5498,
+    "chunk_idx": 45,
+    "tese_id": "17"
+  },
+  {
+    "text": "Al-Kiswany et al.",
+    "text_norm": "al-kiswany et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5453,
+    "chunk_idx": 45,
+    "tese_id": "17"
+  },
+  {
+    "text": "Kim & Kyong",
+    "text_norm": "kim & kyong",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8231,
+    "chunk_idx": 45,
+    "tese_id": "17"
+  },
+  {
+    "text": "NVIDIA Tesla M2050",
+    "text_norm": "nvidia tesla m2050",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6697,
+    "chunk_idx": 45,
+    "tese_id": "17"
+  },
+  {
+    "text": "AMD FirePro V7800",
+    "text_norm": "amd firepro v7800",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4338,
+    "chunk_idx": 46,
+    "tese_id": "17"
+  },
+  {
+    "text": "Iterative Loop",
+    "text_norm": "iterative loop",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4828,
+    "chunk_idx": 46,
+    "tese_id": "17"
+  },
+  {
+    "text": "FLU a Full Loop Unrolling",
+    "text_norm": "flu a full loop unrolling",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.3606,
+    "chunk_idx": 46,
+    "tese_id": "17"
+  },
+  {
+    "text": "FP a Full Pipeline",
+    "text_norm": "fp a full pipeline",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.456,
+    "chunk_idx": 46,
+    "tese_id": "17"
+  },
+  {
+    "text": "PLU",
+    "text_norm": "plu",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5234,
+    "chunk_idx": 46,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7044,
+    "chunk_idx": 47,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5314,
+    "chunk_idx": 48,
+    "tese_id": "17"
+  },
+  {
+    "text": "Iterative Looping",
+    "text_norm": "iterative looping",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6763,
+    "chunk_idx": 48,
+    "tese_id": "17"
+  },
+  {
+    "text": "Deepakumara et al.",
+    "text_norm": "deepakumara et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9215,
+    "chunk_idx": 48,
+    "tese_id": "17"
+  },
+  {
+    "text": "Jarvinen et al.",
+    "text_norm": "jarvinen et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9182,
+    "chunk_idx": 48,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.9676,
+    "chunk_idx": 49,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4052,
+    "chunk_idx": 49,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.9689,
+    "chunk_idx": 49,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.9603,
+    "chunk_idx": 49,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6444,
+    "chunk_idx": 50,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6502,
+    "chunk_idx": 50,
+    "tese_id": "17"
+  },
+  {
+    "text": "Jarvinen",
+    "text_norm": "jarvinen",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.3679,
+    "chunk_idx": 50,
+    "tese_id": "17"
+  },
+  {
+    "text": "Xilinx Virtex-II XC2V2000-6",
+    "text_norm": "xilinx virtex-ii xc2v2000-6",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.645,
+    "chunk_idx": 50,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7116,
+    "chunk_idx": 50,
+    "tese_id": "17"
+  },
+  {
+    "text": "Itarative Looping",
+    "text_norm": "itarative looping",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4465,
+    "chunk_idx": 50,
+    "tese_id": "17"
+  },
+  {
+    "text": "Michail et al.",
+    "text_norm": "michail et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7436,
+    "chunk_idx": 51,
+    "tese_id": "17"
+  },
+  {
+    "text": "Kakarountas et al.",
+    "text_norm": "kakarountas et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.724,
+    "chunk_idx": 51,
+    "tese_id": "17"
+  },
+  {
+    "text": "Xilinx Virtex-II XC2V2000-6",
+    "text_norm": "xilinx virtex-ii xc2v2000-6",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.7544,
+    "chunk_idx": 51,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.6853,
+    "chunk_idx": 51,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.7588,
+    "chunk_idx": 52,
+    "tese_id": "17"
+  },
+  {
+    "text": "Lee et al.",
+    "text_norm": "lee et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7358,
+    "chunk_idx": 53,
+    "tese_id": "17"
+  },
+  {
+    "text": "FL",
+    "text_norm": "fl",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.5061,
+    "chunk_idx": 53,
+    "tese_id": "17"
+  },
+  {
+    "text": "Iyer & Mandal",
+    "text_norm": "iyer & mandal",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7992,
+    "chunk_idx": 53,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.5351,
+    "chunk_idx": 53,
+    "tese_id": "17"
+  },
+  {
+    "text": "Xilinx Virtex 5 Xc5vlx50t",
+    "text_norm": "xilinx virtex 5 xc5vlx50t",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6924,
+    "chunk_idx": 53,
+    "tese_id": "17"
+  },
+  {
+    "text": "IL",
+    "text_norm": "il",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.4774,
+    "chunk_idx": 53,
+    "tese_id": "17"
+  },
+  {
+    "text": "Jarvinen",
+    "text_norm": "jarvinen",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7259,
+    "chunk_idx": 53,
+    "tese_id": "17"
+  },
+  {
+    "text": "Khan et al.",
+    "text_norm": "khan et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8613,
+    "chunk_idx": 54,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.5835,
+    "chunk_idx": 54,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6702,
+    "chunk_idx": 54,
+    "tese_id": "17"
+  },
+  {
+    "text": "Michail et al.",
+    "text_norm": "michail et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.769,
+    "chunk_idx": 55,
+    "tese_id": "17"
+  },
+  {
+    "text": "Kakarountas et al.",
+    "text_norm": "kakarountas et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.3943,
+    "chunk_idx": 55,
+    "tese_id": "17"
+  },
+  {
+    "text": "Michail et al.",
+    "text_norm": "michail et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7002,
+    "chunk_idx": 55,
+    "tese_id": "17"
+  },
+  {
+    "text": "TSMC",
+    "text_norm": "tsmc",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.4133,
+    "chunk_idx": 56,
+    "tese_id": "17"
+  },
+  {
+    "text": "ASIC",
+    "text_norm": "asic",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.3728,
+    "chunk_idx": 56,
+    "tese_id": "17"
+  },
+  {
+    "text": "Xilinx",
+    "text_norm": "xilinx",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.568,
+    "chunk_idx": 56,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.4985,
+    "chunk_idx": 56,
+    "tese_id": "17"
+  },
+  {
+    "text": "Michail et al",
+    "text_norm": "michail et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8537,
+    "chunk_idx": 56,
+    "tese_id": "17"
+  },
+  {
+    "text": "Michail et al.",
+    "text_norm": "michail et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5212,
+    "chunk_idx": 57,
+    "tese_id": "17"
+  },
+  {
+    "text": "Kakarountas et al.",
+    "text_norm": "kakarountas et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.443,
+    "chunk_idx": 57,
+    "tese_id": "17"
+  },
+  {
+    "text": "Xilinx Virtex 7",
+    "text_norm": "xilinx virtex 7",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5818,
+    "chunk_idx": 57,
+    "tese_id": "17"
+  },
+  {
+    "text": "Marks & Niewiadomska-Szynkiewicz",
+    "text_norm": "marks & niewiadomska-szynkiewicz",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4634,
+    "chunk_idx": 57,
+    "tese_id": "17"
+  },
+  {
+    "text": "Al-Kiswany et al.",
+    "text_norm": "al-kiswany et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4418,
+    "chunk_idx": 57,
+    "tese_id": "17"
+  },
+  {
+    "text": "NVIDIA Tesla M2050",
+    "text_norm": "nvidia tesla m2050",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.7393,
+    "chunk_idx": 58,
+    "tese_id": "17"
+  },
+  {
+    "text": "AMD FirePro V7800",
+    "text_norm": "amd firepro v7800",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.8198,
+    "chunk_idx": 58,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA Virtex 6 xc6vlx2 40t-11156",
+    "text_norm": "fpga virtex 6 xc6vlx2 40t-11156",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4457,
+    "chunk_idx": 58,
+    "tese_id": "17"
+  },
+  {
+    "text": "Iterative Looping",
+    "text_norm": "iterative looping",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6811,
+    "chunk_idx": 58,
+    "tese_id": "17"
+  },
+  {
+    "text": "Michail et al.",
+    "text_norm": "michail et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8897,
+    "chunk_idx": 59,
+    "tese_id": "17"
+  },
+  {
+    "text": "Kakarountas et al.",
+    "text_norm": "kakarountas et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.873,
+    "chunk_idx": 59,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.46,
+    "chunk_idx": 59,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.7011,
+    "chunk_idx": 59,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6741,
+    "chunk_idx": 60,
+    "tese_id": "17"
+  },
+  {
+    "text": "ASIC",
+    "text_norm": "asic",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.7141,
+    "chunk_idx": 60,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6915,
+    "chunk_idx": 61,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8241,
+    "chunk_idx": 62,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7587,
+    "chunk_idx": 62,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5899,
+    "chunk_idx": 62,
+    "tese_id": "17"
+  },
+  {
+    "text": "Carlos E. B. Santos Júnior",
+    "text_norm": "carlos e. b. santos júnior",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9815,
+    "chunk_idx": 64,
+    "tese_id": "17"
+  },
+  {
+    "text": "Marcelo A. C. Fernandes",
+    "text_norm": "marcelo a. c. fernandes",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9704,
+    "chunk_idx": 64,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo SHA-1",
+    "text_norm": "algoritmo sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7233,
+    "chunk_idx": 64,
+    "tese_id": "17"
+  },
+  {
+    "text": "Carlos E. B. Santos Júnior",
+    "text_norm": "carlos e. b. santos júnior",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9681,
+    "chunk_idx": 65,
+    "tese_id": "17"
+  },
+  {
+    "text": "Marcelo A. C. Fernandes",
+    "text_norm": "marcelo a. c. fernandes",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9706,
+    "chunk_idx": 65,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo MD5",
+    "text_norm": "algoritmo md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8818,
+    "chunk_idx": 65,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5071,
+    "chunk_idx": 65,
+    "tese_id": "17"
+  },
+  {
+    "text": "Carlos E. B. Santos Júnior",
+    "text_norm": "carlos e. b. santos júnior",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9605,
+    "chunk_idx": 65,
+    "tese_id": "17"
+  },
+  {
+    "text": "Sérgio S. Natan",
+    "text_norm": "sérgio s. natan",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9376,
+    "chunk_idx": 65,
+    "tese_id": "17"
+  },
+  {
+    "text": "Marcelo A. C. Fernandes",
+    "text_norm": "marcelo a. c. fernandes",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9643,
+    "chunk_idx": 65,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo MD5",
+    "text_norm": "algoritmo md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.839,
+    "chunk_idx": 65,
+    "tese_id": "17"
+  },
+  {
+    "text": "Hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.3618,
+    "chunk_idx": 65,
+    "tese_id": "17"
+  },
+  {
+    "text": "Escola Potiguar de Computação e suas Aplicações",
+    "text_norm": "escola potiguar de computação e suas aplicações",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.7801,
+    "chunk_idx": 65,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.3826,
+    "chunk_idx": 67,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9199,
+    "chunk_idx": 68,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9162,
+    "chunk_idx": 68,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.9488,
+    "chunk_idx": 69,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.9355,
+    "chunk_idx": 69,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8034,
+    "chunk_idx": 69,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7989,
+    "chunk_idx": 69,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8088,
+    "chunk_idx": 73,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7557,
+    "chunk_idx": 73,
+    "tese_id": "17"
+  },
+  {
+    "text": "NIST",
+    "text_norm": "nist",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.7204,
+    "chunk_idx": 73,
+    "tese_id": "17"
+  },
+  {
+    "text": "National Institute of Standards and Technology",
+    "text_norm": "national institute of standards and technology",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.8908,
+    "chunk_idx": 73,
+    "tese_id": "17"
+  },
+  {
+    "text": "IEC",
+    "text_norm": "iec",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.5038,
+    "chunk_idx": 74,
+    "tese_id": "17"
+  },
+  {
+    "text": "International Organization for Standardization",
+    "text_norm": "international organization for standardization",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.7309,
+    "chunk_idx": 74,
+    "tese_id": "17"
+  },
+  {
+    "text": "Electrotechnical Commission",
+    "text_norm": "electrotechnical commission",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.6278,
+    "chunk_idx": 75,
+    "tese_id": "17"
+  },
+  {
+    "text": "Kurose & Ross",
+    "text_norm": "kurose & ross",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7903,
+    "chunk_idx": 77,
+    "tese_id": "17"
+  },
+  {
+    "text": "Stallings",
+    "text_norm": "stallings",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8008,
+    "chunk_idx": 77,
+    "tese_id": "17"
+  },
+  {
+    "text": "Stallings",
+    "text_norm": "stallings",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.3609,
+    "chunk_idx": 78,
+    "tese_id": "17"
+  },
+  {
+    "text": "hash 2",
+    "text_norm": "hash 2",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.5538,
+    "chunk_idx": 79,
+    "tese_id": "17"
+  },
+  {
+    "text": "Lima Filho",
+    "text_norm": "lima filho",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9548,
+    "chunk_idx": 81,
+    "tese_id": "17"
+  },
+  {
+    "text": "RAID",
+    "text_norm": "raid",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6651,
+    "chunk_idx": 81,
+    "tese_id": "17"
+  },
+  {
+    "text": "hash",
+    "text_norm": "hash",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6883,
+    "chunk_idx": 86,
+    "tese_id": "17"
+  },
+  {
+    "text": "hash",
+    "text_norm": "hash",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6595,
+    "chunk_idx": 86,
+    "tese_id": "17"
+  },
+  {
+    "text": "hash",
+    "text_norm": "hash",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6747,
+    "chunk_idx": 86,
+    "tese_id": "17"
+  },
+  {
+    "text": "hash",
+    "text_norm": "hash",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6436,
+    "chunk_idx": 86,
+    "tese_id": "17"
+  },
+  {
+    "text": "hash",
+    "text_norm": "hash",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4657,
+    "chunk_idx": 87,
+    "tese_id": "17"
+  },
+  {
+    "text": "Stallings",
+    "text_norm": "stallings",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7826,
+    "chunk_idx": 87,
+    "tese_id": "17"
+  },
+  {
+    "text": "hash",
+    "text_norm": "hash",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5068,
+    "chunk_idx": 87,
+    "tese_id": "17"
+  },
+  {
+    "text": "hash",
+    "text_norm": "hash",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4661,
+    "chunk_idx": 87,
+    "tese_id": "17"
+  },
+  {
+    "text": "assinatura digital",
+    "text_norm": "assinatura digital",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.6419,
+    "chunk_idx": 89,
+    "tese_id": "17"
+  },
+  {
+    "text": "MAC",
+    "text_norm": "mac",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.508,
+    "chunk_idx": 89,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8798,
+    "chunk_idx": 91,
+    "tese_id": "17"
+  },
+  {
+    "text": "Message Digest 5",
+    "text_norm": "message digest 5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3591,
+    "chunk_idx": 91,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7248,
+    "chunk_idx": 91,
+    "tese_id": "17"
+  },
+  {
+    "text": "Secure Hash Algorithm 1",
+    "text_norm": "secure hash algorithm 1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4085,
+    "chunk_idx": 91,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8767,
+    "chunk_idx": 91,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7393,
+    "chunk_idx": 92,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 1",
+    "text_norm": "algoritmo 1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8334,
+    "chunk_idx": 95,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 1",
+    "text_norm": "algoritmo 1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8044,
+    "chunk_idx": 95,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 1",
+    "text_norm": "algoritmo 1",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.3756,
+    "chunk_idx": 96,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5264,
+    "chunk_idx": 97,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 1",
+    "text_norm": "algoritmo 1",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.494,
+    "chunk_idx": 100,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 1",
+    "text_norm": "algoritmo 1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4475,
+    "chunk_idx": 102,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 1",
+    "text_norm": "algoritmo 1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9019,
+    "chunk_idx": 103,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 1",
+    "text_norm": "algoritmo 1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.892,
+    "chunk_idx": 103,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7581,
+    "chunk_idx": 104,
+    "tese_id": "17"
+  },
+  {
+    "text": "algoritmo",
+    "text_norm": "algoritmo",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6912,
+    "chunk_idx": 105,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo",
+    "text_norm": "algoritmo",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4915,
+    "chunk_idx": 105,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 1",
+    "text_norm": "algoritmo 1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4664,
+    "chunk_idx": 106,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 1",
+    "text_norm": "algoritmo 1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4385,
+    "chunk_idx": 109,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5738,
+    "chunk_idx": 111,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8983,
+    "chunk_idx": 112,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8071,
+    "chunk_idx": 112,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.906,
+    "chunk_idx": 112,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5268,
+    "chunk_idx": 113,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.727,
+    "chunk_idx": 113,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 2",
+    "text_norm": "algoritmo 2",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4471,
+    "chunk_idx": 115,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7585,
+    "chunk_idx": 115,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7513,
+    "chunk_idx": 116,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo MD5",
+    "text_norm": "algoritmo md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7409,
+    "chunk_idx": 119,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 2",
+    "text_norm": "algoritmo 2",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4336,
+    "chunk_idx": 120,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 2",
+    "text_norm": "algoritmo 2",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9329,
+    "chunk_idx": 121,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 2",
+    "text_norm": "algoritmo 2",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9323,
+    "chunk_idx": 121,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 2",
+    "text_norm": "algoritmo 2",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4931,
+    "chunk_idx": 122,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 2",
+    "text_norm": "algoritmo 2",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8886,
+    "chunk_idx": 123,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 2",
+    "text_norm": "algoritmo 2",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8697,
+    "chunk_idx": 123,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8168,
+    "chunk_idx": 125,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8148,
+    "chunk_idx": 127,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 2",
+    "text_norm": "algoritmo 2",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5156,
+    "chunk_idx": 129,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.738,
+    "chunk_idx": 130,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA",
+    "text_norm": "sha",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.5699,
+    "chunk_idx": 131,
+    "tese_id": "17"
+  },
+  {
+    "text": "código hash",
+    "text_norm": "código hash",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3578,
+    "chunk_idx": 131,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8213,
+    "chunk_idx": 133,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7909,
+    "chunk_idx": 133,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6867,
+    "chunk_idx": 133,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGAs",
+    "text_norm": "fpgas",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.8694,
+    "chunk_idx": 134,
+    "tese_id": "17"
+  },
+  {
+    "text": "Field Programmable Gate Arrays",
+    "text_norm": "field programmable gate arrays",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5416,
+    "chunk_idx": 134,
+    "tese_id": "17"
+  },
+  {
+    "text": "Arranjo de Portas Programáveis em Campo",
+    "text_norm": "arranjo de portas programáveis em campo",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4171,
+    "chunk_idx": 134,
+    "tese_id": "17"
+  },
+  {
+    "text": "algoritmos de hash",
+    "text_norm": "algoritmos de hash",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4324,
+    "chunk_idx": 134,
+    "tese_id": "17"
+  },
+  {
+    "text": "lógica programável",
+    "text_norm": "lógica programável",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.7834,
+    "chunk_idx": 136,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4228,
+    "chunk_idx": 136,
+    "tese_id": "17"
+  },
+  {
+    "text": "lógica",
+    "text_norm": "lógica",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.7768,
+    "chunk_idx": 136,
+    "tese_id": "17"
+  },
+  {
+    "text": "lógica",
+    "text_norm": "lógica",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.4459,
+    "chunk_idx": 137,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4113,
+    "chunk_idx": 137,
+    "tese_id": "17"
+  },
+  {
+    "text": "lógica",
+    "text_norm": "lógica",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.4228,
+    "chunk_idx": 137,
+    "tese_id": "17"
+  },
+  {
+    "text": "ASICs",
+    "text_norm": "asics",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4376,
+    "chunk_idx": 138,
+    "tese_id": "17"
+  },
+  {
+    "text": "ASIC",
+    "text_norm": "asic",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.359,
+    "chunk_idx": 139,
+    "tese_id": "17"
+  },
+  {
+    "text": "ASIC",
+    "text_norm": "asic",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.3643,
+    "chunk_idx": 139,
+    "tese_id": "17"
+  },
+  {
+    "text": "Compton & Hauck",
+    "text_norm": "compton & hauck",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5427,
+    "chunk_idx": 139,
+    "tese_id": "17"
+  },
+  {
+    "text": "PAL",
+    "text_norm": "pal",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.3844,
+    "chunk_idx": 140,
+    "tese_id": "17"
+  },
+  {
+    "text": "PAL",
+    "text_norm": "pal",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4165,
+    "chunk_idx": 140,
+    "tese_id": "17"
+  },
+  {
+    "text": "SPLDs",
+    "text_norm": "splds",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5136,
+    "chunk_idx": 141,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.398,
+    "chunk_idx": 141,
+    "tese_id": "17"
+  },
+  {
+    "text": "software",
+    "text_norm": "software",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.3599,
+    "chunk_idx": 142,
+    "tese_id": "17"
+  },
+  {
+    "text": "Hauck",
+    "text_norm": "hauck",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.86,
+    "chunk_idx": 143,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGAs",
+    "text_norm": "fpgas",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.68,
+    "chunk_idx": 143,
+    "tese_id": "17"
+  },
+  {
+    "text": "Floyd",
+    "text_norm": "floyd",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7176,
+    "chunk_idx": 143,
+    "tese_id": "17"
+  },
+  {
+    "text": "Floyd 2007",
+    "text_norm": "floyd 2007",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5192,
+    "chunk_idx": 144,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.7603,
+    "chunk_idx": 144,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGAs",
+    "text_norm": "fpgas",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.684,
+    "chunk_idx": 144,
+    "tese_id": "17"
+  },
+  {
+    "text": "Intel",
+    "text_norm": "intel",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.518,
+    "chunk_idx": 146,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.9014,
+    "chunk_idx": 147,
+    "tese_id": "17"
+  },
+  {
+    "text": "placas de rede",
+    "text_norm": "placas de rede",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4547,
+    "chunk_idx": 147,
+    "tese_id": "17"
+  },
+  {
+    "text": "LEDs",
+    "text_norm": "leds",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6806,
+    "chunk_idx": 147,
+    "tese_id": "17"
+  },
+  {
+    "text": "chaves seletoras",
+    "text_norm": "chaves seletoras",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.3503,
+    "chunk_idx": 147,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.8945,
+    "chunk_idx": 147,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.869,
+    "chunk_idx": 147,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.9183,
+    "chunk_idx": 148,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.8792,
+    "chunk_idx": 148,
+    "tese_id": "17"
+  },
+  {
+    "text": "Hardware Description Language",
+    "text_norm": "hardware description language",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.4286,
+    "chunk_idx": 148,
+    "tese_id": "17"
+  },
+  {
+    "text": "HDL",
+    "text_norm": "hdl",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.4593,
+    "chunk_idx": 148,
+    "tese_id": "17"
+  },
+  {
+    "text": "VHDL",
+    "text_norm": "vhdl",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.9177,
+    "chunk_idx": 148,
+    "tese_id": "17"
+  },
+  {
+    "text": "Verilog",
+    "text_norm": "verilog",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.9199,
+    "chunk_idx": 148,
+    "tese_id": "17"
+  },
+  {
+    "text": "Xilinx",
+    "text_norm": "xilinx",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.8559,
+    "chunk_idx": 149,
+    "tese_id": "17"
+  },
+  {
+    "text": "Intel",
+    "text_norm": "intel",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.8723,
+    "chunk_idx": 149,
+    "tese_id": "17"
+  },
+  {
+    "text": "System Generator",
+    "text_norm": "system generator",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.3669,
+    "chunk_idx": 149,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5471,
+    "chunk_idx": 150,
+    "tese_id": "17"
+  },
+  {
+    "text": "Simulink 1",
+    "text_norm": "simulink 1",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.4222,
+    "chunk_idx": 150,
+    "tese_id": "17"
+  },
+  {
+    "text": "MATLAB",
+    "text_norm": "matlab",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.8078,
+    "chunk_idx": 150,
+    "tese_id": "17"
+  },
+  {
+    "text": "RTL",
+    "text_norm": "rtl",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.7964,
+    "chunk_idx": 150,
+    "tese_id": "17"
+  },
+  {
+    "text": "MATLAB",
+    "text_norm": "matlab",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.7967,
+    "chunk_idx": 150,
+    "tese_id": "17"
+  },
+  {
+    "text": "MathWorks",
+    "text_norm": "mathworks",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.8866,
+    "chunk_idx": 151,
+    "tese_id": "17"
+  },
+  {
+    "text": "linguagem de programação proprietária",
+    "text_norm": "linguagem de programação proprietária",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.3902,
+    "chunk_idx": 151,
+    "tese_id": "17"
+  },
+  {
+    "text": "MathWorks",
+    "text_norm": "mathworks",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.8978,
+    "chunk_idx": 151,
+    "tese_id": "17"
+  },
+  {
+    "text": "Xilinx",
+    "text_norm": "xilinx",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.7108,
+    "chunk_idx": 152,
+    "tese_id": "17"
+  },
+  {
+    "text": "Intel",
+    "text_norm": "intel",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.5129,
+    "chunk_idx": 152,
+    "tese_id": "17"
+  },
+  {
+    "text": "Synthesis",
+    "text_norm": "synthesis",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.3615,
+    "chunk_idx": 153,
+    "tese_id": "17"
+  },
+  {
+    "text": "MyHDL 4",
+    "text_norm": "myhdl 4",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.3541,
+    "chunk_idx": 153,
+    "tese_id": "17"
+  },
+  {
+    "text": "Python",
+    "text_norm": "python",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.9907,
+    "chunk_idx": 153,
+    "tese_id": "17"
+  },
+  {
+    "text": "Python",
+    "text_norm": "python",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.9853,
+    "chunk_idx": 153,
+    "tese_id": "17"
+  },
+  {
+    "text": "Jupyter Notebook",
+    "text_norm": "jupyter notebook",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.5803,
+    "chunk_idx": 153,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.3754,
+    "chunk_idx": 153,
+    "tese_id": "17"
+  },
+  {
+    "text": "Synthesis",
+    "text_norm": "synthesis",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4349,
+    "chunk_idx": 153,
+    "tese_id": "17"
+  },
+  {
+    "text": "C",
+    "text_norm": "c",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.5505,
+    "chunk_idx": 153,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.7426,
+    "chunk_idx": 153,
+    "tese_id": "17"
+  },
+  {
+    "text": "C++",
+    "text_norm": "c++",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.7037,
+    "chunk_idx": 154,
+    "tese_id": "17"
+  },
+  {
+    "text": "SystemC",
+    "text_norm": "systemc",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.8446,
+    "chunk_idx": 154,
+    "tese_id": "17"
+  },
+  {
+    "text": "OpenCL",
+    "text_norm": "opencl",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.6829,
+    "chunk_idx": 154,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5959,
+    "chunk_idx": 154,
+    "tese_id": "17"
+  },
+  {
+    "text": "Intel",
+    "text_norm": "intel",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.7095,
+    "chunk_idx": 154,
+    "tese_id": "17"
+  },
+  {
+    "text": "Xeon",
+    "text_norm": "xeon",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5103,
+    "chunk_idx": 154,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5904,
+    "chunk_idx": 154,
+    "tese_id": "17"
+  },
+  {
+    "text": "DE0-Nano-SoC",
+    "text_norm": "de0-nano-soc",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5042,
+    "chunk_idx": 155,
+    "tese_id": "17"
+  },
+  {
+    "text": "Intel",
+    "text_norm": "intel",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.3932,
+    "chunk_idx": 155,
+    "tese_id": "17"
+  },
+  {
+    "text": "Intel",
+    "text_norm": "intel",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.5721,
+    "chunk_idx": 155,
+    "tese_id": "17"
+  },
+  {
+    "text": "Xilinx",
+    "text_norm": "xilinx",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.791,
+    "chunk_idx": 156,
+    "tese_id": "17"
+  },
+  {
+    "text": "Xilinx",
+    "text_norm": "xilinx",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.7858,
+    "chunk_idx": 156,
+    "tese_id": "17"
+  },
+  {
+    "text": "APSoCs",
+    "text_norm": "apsocs",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4864,
+    "chunk_idx": 156,
+    "tese_id": "17"
+  },
+  {
+    "text": "Intel",
+    "text_norm": "intel",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.8515,
+    "chunk_idx": 157,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA Arria 10GX",
+    "text_norm": "fpga arria 10gx",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.7301,
+    "chunk_idx": 157,
+    "tese_id": "17"
+  },
+  {
+    "text": "RTL",
+    "text_norm": "rtl",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.8464,
+    "chunk_idx": 157,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5257,
+    "chunk_idx": 157,
+    "tese_id": "17"
+  },
+  {
+    "text": "da Silva",
+    "text_norm": "da silva",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8556,
+    "chunk_idx": 158,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6456,
+    "chunk_idx": 158,
+    "tese_id": "17"
+  },
+  {
+    "text": "Próprio autor",
+    "text_norm": "próprio autor",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4991,
+    "chunk_idx": 158,
+    "tese_id": "17"
+  },
+  {
+    "text": "Mapeamento",
+    "text_norm": "mapeamento",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.3663,
+    "chunk_idx": 158,
+    "tese_id": "17"
+  },
+  {
+    "text": "mapping",
+    "text_norm": "mapping",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6691,
+    "chunk_idx": 158,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.9116,
+    "chunk_idx": 159,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.8701,
+    "chunk_idx": 159,
+    "tese_id": "17"
+  },
+  {
+    "text": "Roteamento",
+    "text_norm": "roteamento",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4825,
+    "chunk_idx": 159,
+    "tese_id": "17"
+  },
+  {
+    "text": "routing",
+    "text_norm": "routing",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.3553,
+    "chunk_idx": 159,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.9321,
+    "chunk_idx": 159,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.7558,
+    "chunk_idx": 160,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.8076,
+    "chunk_idx": 160,
+    "tese_id": "17"
+  },
+  {
+    "text": "Xilinx Virtex 6",
+    "text_norm": "xilinx virtex 6",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.786,
+    "chunk_idx": 160,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.7658,
+    "chunk_idx": 161,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.625,
+    "chunk_idx": 162,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6504,
+    "chunk_idx": 163,
+    "tese_id": "17"
+  },
+  {
+    "text": "da Silva",
+    "text_norm": "da silva",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8137,
+    "chunk_idx": 163,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.752,
+    "chunk_idx": 165,
+    "tese_id": "17"
+  },
+  {
+    "text": "I/O",
+    "text_norm": "i/o",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.3993,
+    "chunk_idx": 166,
+    "tese_id": "17"
+  },
+  {
+    "text": "I/O",
+    "text_norm": "i/o",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4593,
+    "chunk_idx": 166,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.823,
+    "chunk_idx": 167,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6619,
+    "chunk_idx": 167,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6997,
+    "chunk_idx": 167,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5634,
+    "chunk_idx": 167,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7781,
+    "chunk_idx": 167,
+    "tese_id": "17"
+  },
+  {
+    "text": "algoritmo",
+    "text_norm": "algoritmo",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4163,
+    "chunk_idx": 168,
+    "tese_id": "17"
+  },
+  {
+    "text": "Register Transfer Level",
+    "text_norm": "register transfer level",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.3642,
+    "chunk_idx": 168,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4632,
+    "chunk_idx": 168,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 1",
+    "text_norm": "algoritmo 1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.916,
+    "chunk_idx": 169,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 1",
+    "text_norm": "algoritmo 1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8919,
+    "chunk_idx": 169,
+    "tese_id": "17"
+  },
+  {
+    "text": "GPP",
+    "text_norm": "gpp",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.525,
+    "chunk_idx": 172,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7268,
+    "chunk_idx": 172,
+    "tese_id": "17"
+  },
+  {
+    "text": "GF",
+    "text_norm": "gf",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.374,
+    "chunk_idx": 172,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5179,
+    "chunk_idx": 173,
+    "tese_id": "17"
+  },
+  {
+    "text": "GF-SLC",
+    "text_norm": "gf-slc",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4116,
+    "chunk_idx": 175,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 1",
+    "text_norm": "algoritmo 1",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4078,
+    "chunk_idx": 175,
+    "tese_id": "17"
+  },
+  {
+    "text": "GF-SLC",
+    "text_norm": "gf-slc",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4479,
+    "chunk_idx": 175,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.4817,
+    "chunk_idx": 176,
+    "tese_id": "17"
+  },
+  {
+    "text": "GG-MUX",
+    "text_norm": "gg-mux",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.9678,
+    "chunk_idx": 177,
+    "tese_id": "17"
+  },
+  {
+    "text": "GG-MUX",
+    "text_norm": "gg-mux",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.967,
+    "chunk_idx": 177,
+    "tese_id": "17"
+  },
+  {
+    "text": "GG-MUX",
+    "text_norm": "gg-mux",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.9693,
+    "chunk_idx": 177,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 1",
+    "text_norm": "algoritmo 1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5225,
+    "chunk_idx": 178,
+    "tese_id": "17"
+  },
+  {
+    "text": "de Souza & Fernandes",
+    "text_norm": "de souza & fernandes",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7662,
+    "chunk_idx": 178,
+    "tese_id": "17"
+  },
+  {
+    "text": "Deepakumara et al.",
+    "text_norm": "deepakumara et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8058,
+    "chunk_idx": 178,
+    "tese_id": "17"
+  },
+  {
+    "text": "Jarvinen et al.",
+    "text_norm": "jarvinen et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7683,
+    "chunk_idx": 178,
+    "tese_id": "17"
+  },
+  {
+    "text": "algoritmo",
+    "text_norm": "algoritmo",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.518,
+    "chunk_idx": 179,
+    "tese_id": "17"
+  },
+  {
+    "text": "SLRi(k)",
+    "text_norm": "slri(k)",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.3551,
+    "chunk_idx": 182,
+    "tese_id": "17"
+  },
+  {
+    "text": "SLRi(k)",
+    "text_norm": "slri(k)",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.3524,
+    "chunk_idx": 182,
+    "tese_id": "17"
+  },
+  {
+    "text": "SLRi(k)",
+    "text_norm": "slri(k)",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4313,
+    "chunk_idx": 182,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4789,
+    "chunk_idx": 183,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.7018,
+    "chunk_idx": 183,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 1",
+    "text_norm": "algoritmo 1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6618,
+    "chunk_idx": 185,
+    "tese_id": "17"
+  },
+  {
+    "text": "RA",
+    "text_norm": "ra",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4703,
+    "chunk_idx": 186,
+    "tese_id": "17"
+  },
+  {
+    "text": "RB",
+    "text_norm": "rb",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.442,
+    "chunk_idx": 186,
+    "tese_id": "17"
+  },
+  {
+    "text": "RC",
+    "text_norm": "rc",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4575,
+    "chunk_idx": 186,
+    "tese_id": "17"
+  },
+  {
+    "text": "RD",
+    "text_norm": "rd",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4238,
+    "chunk_idx": 186,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 1",
+    "text_norm": "algoritmo 1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8875,
+    "chunk_idx": 187,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 1",
+    "text_norm": "algoritmo 1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8453,
+    "chunk_idx": 187,
+    "tese_id": "17"
+  },
+  {
+    "text": "Deepakumara et al.",
+    "text_norm": "deepakumara et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8649,
+    "chunk_idx": 189,
+    "tese_id": "17"
+  },
+  {
+    "text": "Jarvinen et al.",
+    "text_norm": "jarvinen et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.74,
+    "chunk_idx": 189,
+    "tese_id": "17"
+  },
+  {
+    "text": "Yiakoumis et al.",
+    "text_norm": "yiakoumis et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7106,
+    "chunk_idx": 189,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3645,
+    "chunk_idx": 189,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6942,
+    "chunk_idx": 190,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5424,
+    "chunk_idx": 190,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4132,
+    "chunk_idx": 191,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4428,
+    "chunk_idx": 191,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 2",
+    "text_norm": "algoritmo 2",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9306,
+    "chunk_idx": 193,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 2",
+    "text_norm": "algoritmo 2",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9108,
+    "chunk_idx": 193,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 2",
+    "text_norm": "algoritmo 2",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8951,
+    "chunk_idx": 193,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 2",
+    "text_norm": "algoritmo 2",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.479,
+    "chunk_idx": 194,
+    "tese_id": "17"
+  },
+  {
+    "text": "GPP",
+    "text_norm": "gpp",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4231,
+    "chunk_idx": 195,
+    "tese_id": "17"
+  },
+  {
+    "text": "uC",
+    "text_norm": "uc",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5436,
+    "chunk_idx": 195,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7082,
+    "chunk_idx": 195,
+    "tese_id": "17"
+  },
+  {
+    "text": "GW",
+    "text_norm": "gw",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.3709,
+    "chunk_idx": 195,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.453,
+    "chunk_idx": 196,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.6042,
+    "chunk_idx": 196,
+    "tese_id": "17"
+  },
+  {
+    "text": "GF-MUX",
+    "text_norm": "gf-mux",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.3765,
+    "chunk_idx": 197,
+    "tese_id": "17"
+  },
+  {
+    "text": "lógica binária",
+    "text_norm": "lógica binária",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.3775,
+    "chunk_idx": 197,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.7087,
+    "chunk_idx": 199,
+    "tese_id": "17"
+  },
+  {
+    "text": "W-MUX",
+    "text_norm": "w-mux",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.6662,
+    "chunk_idx": 199,
+    "tese_id": "17"
+  },
+  {
+    "text": "RWk",
+    "text_norm": "rwk",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5954,
+    "chunk_idx": 200,
+    "tese_id": "17"
+  },
+  {
+    "text": "LR1",
+    "text_norm": "lr1",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4891,
+    "chunk_idx": 200,
+    "tese_id": "17"
+  },
+  {
+    "text": "RWk",
+    "text_norm": "rwk",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6198,
+    "chunk_idx": 200,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6716,
+    "chunk_idx": 205,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 2",
+    "text_norm": "algoritmo 2",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9036,
+    "chunk_idx": 206,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 2",
+    "text_norm": "algoritmo 2",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8757,
+    "chunk_idx": 206,
+    "tese_id": "17"
+  },
+  {
+    "text": "HD",
+    "text_norm": "hd",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.3513,
+    "chunk_idx": 206,
+    "tese_id": "17"
+  },
+  {
+    "text": "HE",
+    "text_norm": "he",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4564,
+    "chunk_idx": 206,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 2",
+    "text_norm": "algoritmo 2",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8695,
+    "chunk_idx": 206,
+    "tese_id": "17"
+  },
+  {
+    "text": "Iterative Looping",
+    "text_norm": "iterative looping",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4422,
+    "chunk_idx": 207,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.3945,
+    "chunk_idx": 207,
+    "tese_id": "17"
+  },
+  {
+    "text": "Deepakumara et al.",
+    "text_norm": "deepakumara et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8566,
+    "chunk_idx": 208,
+    "tese_id": "17"
+  },
+  {
+    "text": "Jarvinen et al.",
+    "text_norm": "jarvinen et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7546,
+    "chunk_idx": 208,
+    "tese_id": "17"
+  },
+  {
+    "text": "Yiakoumis et al.",
+    "text_norm": "yiakoumis et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.71,
+    "chunk_idx": 208,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5652,
+    "chunk_idx": 209,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8845,
+    "chunk_idx": 209,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8745,
+    "chunk_idx": 209,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8985,
+    "chunk_idx": 210,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.3507,
+    "chunk_idx": 210,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9081,
+    "chunk_idx": 210,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA alvo",
+    "text_norm": "fpga alvo",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4119,
+    "chunk_idx": 210,
+    "tese_id": "17"
+  },
+  {
+    "text": "Virtex 6 xc6vlx240t-11156",
+    "text_norm": "virtex 6 xc6vlx240t-11156",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4967,
+    "chunk_idx": 210,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7849,
+    "chunk_idx": 211,
+    "tese_id": "17"
+  },
+  {
+    "text": "Jarvinen et al.",
+    "text_norm": "jarvinen et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7684,
+    "chunk_idx": 211,
+    "tese_id": "17"
+  },
+  {
+    "text": "He & Xue",
+    "text_norm": "he & xue",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9015,
+    "chunk_idx": 211,
+    "tese_id": "17"
+  },
+  {
+    "text": "Wang et al",
+    "text_norm": "wang et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8338,
+    "chunk_idx": 212,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.877,
+    "chunk_idx": 213,
+    "tese_id": "17"
+  },
+  {
+    "text": "PR",
+    "text_norm": "pr",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.3574,
+    "chunk_idx": 213,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.9328,
+    "chunk_idx": 213,
+    "tese_id": "17"
+  },
+  {
+    "text": "NLUT",
+    "text_norm": "nlut",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5033,
+    "chunk_idx": 213,
+    "tese_id": "17"
+  },
+  {
+    "text": "PLUT",
+    "text_norm": "plut",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5432,
+    "chunk_idx": 213,
+    "tese_id": "17"
+  },
+  {
+    "text": "LUTs",
+    "text_norm": "luts",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5029,
+    "chunk_idx": 213,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.9413,
+    "chunk_idx": 213,
+    "tese_id": "17"
+  },
+  {
+    "text": "Deepakumara et al",
+    "text_norm": "deepakumara et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7816,
+    "chunk_idx": 214,
+    "tese_id": "17"
+  },
+  {
+    "text": "Jarvinen et al",
+    "text_norm": "jarvinen et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6493,
+    "chunk_idx": 214,
+    "tese_id": "17"
+  },
+  {
+    "text": "He",
+    "text_norm": "he",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7969,
+    "chunk_idx": 214,
+    "tese_id": "17"
+  },
+  {
+    "text": "& Xue",
+    "text_norm": "& xue",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.806,
+    "chunk_idx": 215,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.608,
+    "chunk_idx": 216,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4726,
+    "chunk_idx": 216,
+    "tese_id": "17"
+  },
+  {
+    "text": "NI",
+    "text_norm": "ni",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.3886,
+    "chunk_idx": 217,
+    "tese_id": "17"
+  },
+  {
+    "text": "NI",
+    "text_norm": "ni",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.4142,
+    "chunk_idx": 217,
+    "tese_id": "17"
+  },
+  {
+    "text": "Wang et al",
+    "text_norm": "wang et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8596,
+    "chunk_idx": 217,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 1",
+    "text_norm": "algoritmo 1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4468,
+    "chunk_idx": 218,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5607,
+    "chunk_idx": 218,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4841,
+    "chunk_idx": 219,
+    "tese_id": "17"
+  },
+  {
+    "text": "C",
+    "text_norm": "c",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.9089,
+    "chunk_idx": 219,
+    "tese_id": "17"
+  },
+  {
+    "text": "MATLAB",
+    "text_norm": "matlab",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.8481,
+    "chunk_idx": 219,
+    "tese_id": "17"
+  },
+  {
+    "text": "C",
+    "text_norm": "c",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.8896,
+    "chunk_idx": 220,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6726,
+    "chunk_idx": 220,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.5315,
+    "chunk_idx": 220,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9017,
+    "chunk_idx": 222,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9006,
+    "chunk_idx": 222,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.9515,
+    "chunk_idx": 222,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.9373,
+    "chunk_idx": 222,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6896,
+    "chunk_idx": 223,
+    "tese_id": "17"
+  },
+  {
+    "text": "Michail et al.",
+    "text_norm": "michail et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9283,
+    "chunk_idx": 223,
+    "tese_id": "17"
+  },
+  {
+    "text": "Kakarountas et al.",
+    "text_norm": "kakarountas et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8157,
+    "chunk_idx": 223,
+    "tese_id": "17"
+  },
+  {
+    "text": "Khan et al.",
+    "text_norm": "khan et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8209,
+    "chunk_idx": 223,
+    "tese_id": "17"
+  },
+  {
+    "text": "Michail et al.",
+    "text_norm": "michail et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8499,
+    "chunk_idx": 223,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9074,
+    "chunk_idx": 224,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8056,
+    "chunk_idx": 224,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9138,
+    "chunk_idx": 224,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5311,
+    "chunk_idx": 225,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5649,
+    "chunk_idx": 225,
+    "tese_id": "17"
+  },
+  {
+    "text": "NI",
+    "text_norm": "ni",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.7032,
+    "chunk_idx": 226,
+    "tese_id": "17"
+  },
+  {
+    "text": "NI",
+    "text_norm": "ni",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.71,
+    "chunk_idx": 226,
+    "tese_id": "17"
+  },
+  {
+    "text": "Algoritmo 2",
+    "text_norm": "algoritmo 2",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6153,
+    "chunk_idx": 227,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5332,
+    "chunk_idx": 227,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6442,
+    "chunk_idx": 228,
+    "tese_id": "17"
+  },
+  {
+    "text": "Matlab",
+    "text_norm": "matlab",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.7418,
+    "chunk_idx": 228,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.4745,
+    "chunk_idx": 229,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9332,
+    "chunk_idx": 231,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9241,
+    "chunk_idx": 231,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4984,
+    "chunk_idx": 233,
+    "tese_id": "17"
+  },
+  {
+    "text": "kit Arduino",
+    "text_norm": "kit arduino",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4992,
+    "chunk_idx": 234,
+    "tese_id": "17"
+  },
+  {
+    "text": "Intel Galileo",
+    "text_norm": "intel galileo",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5359,
+    "chunk_idx": 234,
+    "tese_id": "17"
+  },
+  {
+    "text": "Intel Quark",
+    "text_norm": "intel quark",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4459,
+    "chunk_idx": 234,
+    "tese_id": "17"
+  },
+  {
+    "text": "SOC x1000",
+    "text_norm": "soc x1000",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.3944,
+    "chunk_idx": 235,
+    "tese_id": "17"
+  },
+  {
+    "text": "C",
+    "text_norm": "c",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.9344,
+    "chunk_idx": 235,
+    "tese_id": "17"
+  },
+  {
+    "text": "GCC",
+    "text_norm": "gcc",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.5548,
+    "chunk_idx": 235,
+    "tese_id": "17"
+  },
+  {
+    "text": "Intel Galileo",
+    "text_norm": "intel galileo",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6584,
+    "chunk_idx": 235,
+    "tese_id": "17"
+  },
+  {
+    "text": "Linux",
+    "text_norm": "linux",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.3796,
+    "chunk_idx": 235,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9195,
+    "chunk_idx": 236,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8901,
+    "chunk_idx": 236,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9217,
+    "chunk_idx": 236,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9144,
+    "chunk_idx": 236,
+    "tese_id": "17"
+  },
+  {
+    "text": "ATmega 2560",
+    "text_norm": "atmega 2560",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.7529,
+    "chunk_idx": 236,
+    "tese_id": "17"
+  },
+  {
+    "text": "Intel Galileo Gen 2",
+    "text_norm": "intel galileo gen 2",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.7408,
+    "chunk_idx": 236,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9036,
+    "chunk_idx": 237,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9051,
+    "chunk_idx": 237,
+    "tese_id": "17"
+  },
+  {
+    "text": "Intel Quark SoC X1000",
+    "text_norm": "intel quark soc x1000",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5561,
+    "chunk_idx": 237,
+    "tese_id": "17"
+  },
+  {
+    "text": "Linux",
+    "text_norm": "linux",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.6776,
+    "chunk_idx": 238,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGAs",
+    "text_norm": "fpgas",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.3851,
+    "chunk_idx": 238,
+    "tese_id": "17"
+  },
+  {
+    "text": "Artix 7",
+    "text_norm": "artix 7",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.8098,
+    "chunk_idx": 238,
+    "tese_id": "17"
+  },
+  {
+    "text": "Spartan 6",
+    "text_norm": "spartan 6",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.8227,
+    "chunk_idx": 238,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGAs",
+    "text_norm": "fpgas",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.415,
+    "chunk_idx": 239,
+    "tese_id": "17"
+  },
+  {
+    "text": "Arduino",
+    "text_norm": "arduino",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5392,
+    "chunk_idx": 239,
+    "tese_id": "17"
+  },
+  {
+    "text": "Galileo",
+    "text_norm": "galileo",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6649,
+    "chunk_idx": 239,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4324,
+    "chunk_idx": 240,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6958,
+    "chunk_idx": 240,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4748,
+    "chunk_idx": 240,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6837,
+    "chunk_idx": 240,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7426,
+    "chunk_idx": 242,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7494,
+    "chunk_idx": 242,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGAs pequenas",
+    "text_norm": "fpgas pequenas",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6022,
+    "chunk_idx": 243,
+    "tese_id": "17"
+  },
+  {
+    "text": "ATmega 2560",
+    "text_norm": "atmega 2560",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.7253,
+    "chunk_idx": 244,
+    "tese_id": "17"
+  },
+  {
+    "text": "C.C. F. Pereira et al.",
+    "text_norm": "c.c. f. pereira et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7661,
+    "chunk_idx": 244,
+    "tese_id": "17"
+  },
+  {
+    "text": "Intel Galileo",
+    "text_norm": "intel galileo",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.477,
+    "chunk_idx": 244,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGAs",
+    "text_norm": "fpgas",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.3986,
+    "chunk_idx": 244,
+    "tese_id": "17"
+  },
+  {
+    "text": "Xilinx",
+    "text_norm": "xilinx",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.7658,
+    "chunk_idx": 245,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGAs",
+    "text_norm": "fpgas",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5528,
+    "chunk_idx": 245,
+    "tese_id": "17"
+  },
+  {
+    "text": "Artix 7",
+    "text_norm": "artix 7",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.4578,
+    "chunk_idx": 246,
+    "tese_id": "17"
+  },
+  {
+    "text": "Spartan 6",
+    "text_norm": "spartan 6",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.4848,
+    "chunk_idx": 246,
+    "tese_id": "17"
+  },
+  {
+    "text": "Artix 7",
+    "text_norm": "artix 7",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.4275,
+    "chunk_idx": 246,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9247,
+    "chunk_idx": 246,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9041,
+    "chunk_idx": 246,
+    "tese_id": "17"
+  },
+  {
+    "text": "ATmega2560",
+    "text_norm": "atmega2560",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.7119,
+    "chunk_idx": 247,
+    "tese_id": "17"
+  },
+  {
+    "text": "Intel Galileo Gen 2",
+    "text_norm": "intel galileo gen 2",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5417,
+    "chunk_idx": 248,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8583,
+    "chunk_idx": 250,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.84,
+    "chunk_idx": 250,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.719,
+    "chunk_idx": 250,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8051,
+    "chunk_idx": 250,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5788,
+    "chunk_idx": 250,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6578,
+    "chunk_idx": 251,
+    "tese_id": "17"
+  },
+  {
+    "text": "Xilinx Virtex 6 xc6vlx240t-1ff1156",
+    "text_norm": "xilinx virtex 6 xc6vlx240t-1ff1156",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6564,
+    "chunk_idx": 251,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8465,
+    "chunk_idx": 252,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5992,
+    "chunk_idx": 252,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8419,
+    "chunk_idx": 252,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6391,
+    "chunk_idx": 253,
+    "tese_id": "17"
+  },
+  {
+    "text": "hardware",
+    "text_norm": "hardware",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6401,
+    "chunk_idx": 253,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7758,
+    "chunk_idx": 253,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7408,
+    "chunk_idx": 253,
+    "tese_id": "17"
+  },
+  {
+    "text": "ATmega2560",
+    "text_norm": "atmega2560",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5314,
+    "chunk_idx": 254,
+    "tese_id": "17"
+  },
+  {
+    "text": "Intel Galileo Gen 2",
+    "text_norm": "intel galileo gen 2",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.659,
+    "chunk_idx": 254,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGAs",
+    "text_norm": "fpgas",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.3925,
+    "chunk_idx": 254,
+    "tese_id": "17"
+  },
+  {
+    "text": "Xilinx",
+    "text_norm": "xilinx",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.7082,
+    "chunk_idx": 254,
+    "tese_id": "17"
+  },
+  {
+    "text": "Artix 7",
+    "text_norm": "artix 7",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.8706,
+    "chunk_idx": 254,
+    "tese_id": "17"
+  },
+  {
+    "text": "Spartan 6",
+    "text_norm": "spartan 6",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.8573,
+    "chunk_idx": 254,
+    "tese_id": "17"
+  },
+  {
+    "text": "Artix 7",
+    "text_norm": "artix 7",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.366,
+    "chunk_idx": 255,
+    "tese_id": "17"
+  },
+  {
+    "text": "Spartan 6",
+    "text_norm": "spartan 6",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.4272,
+    "chunk_idx": 255,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9351,
+    "chunk_idx": 255,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.9227,
+    "chunk_idx": 255,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5498,
+    "chunk_idx": 256,
+    "tese_id": "17"
+  },
+  {
+    "text": "ATmega2560",
+    "text_norm": "atmega2560",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6735,
+    "chunk_idx": 256,
+    "tese_id": "17"
+  },
+  {
+    "text": "Intel Galileo Gen 2",
+    "text_norm": "intel galileo gen 2",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6386,
+    "chunk_idx": 256,
+    "tese_id": "17"
+  },
+  {
+    "text": "algoritmo",
+    "text_norm": "algoritmo",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6959,
+    "chunk_idx": 257,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8889,
+    "chunk_idx": 258,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8831,
+    "chunk_idx": 258,
+    "tese_id": "17"
+  },
+  {
+    "text": "ASCII",
+    "text_norm": "ascii",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.8818,
+    "chunk_idx": 259,
+    "tese_id": "17"
+  },
+  {
+    "text": "algoritmo",
+    "text_norm": "algoritmo",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3741,
+    "chunk_idx": 259,
+    "tese_id": "17"
+  },
+  {
+    "text": "MD5",
+    "text_norm": "md5",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5914,
+    "chunk_idx": 260,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-1",
+    "text_norm": "sha-1",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6326,
+    "chunk_idx": 260,
+    "tese_id": "17"
+  },
+  {
+    "text": "FPGA",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.8973,
+    "chunk_idx": 260,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-256",
+    "text_norm": "sha-256",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.668,
+    "chunk_idx": 260,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-512",
+    "text_norm": "sha-512",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6866,
+    "chunk_idx": 260,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-2",
+    "text_norm": "sha-2",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5415,
+    "chunk_idx": 260,
+    "tese_id": "17"
+  },
+  {
+    "text": "Secure Hash Algorithm",
+    "text_norm": "secure hash algorithm",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3559,
+    "chunk_idx": 260,
+    "tese_id": "17"
+  },
+  {
+    "text": "SHA-3",
+    "text_norm": "sha-3",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6947,
+    "chunk_idx": 260,
+    "tese_id": "17"
+  },
+  {
+    "text": "Al-Kiswany",
+    "text_norm": "al-kiswany",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6086,
+    "chunk_idx": 261,
+    "tese_id": "17"
+  },
+  {
+    "text": "Samer",
+    "text_norm": "samer",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6062,
+    "chunk_idx": 261,
+    "tese_id": "17"
+  },
+  {
+    "text": "Abdullah Gharaibeh",
+    "text_norm": "abdullah gharaibeh",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8307,
+    "chunk_idx": 261,
+    "tese_id": "17"
+  },
+  {
+    "text": "Elizeu Santos-Neto",
+    "text_norm": "elizeu santos-neto",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8789,
+    "chunk_idx": 261,
+    "tese_id": "17"
+  },
+  {
+    "text": "Matei Ripeanu",
+    "text_norm": "matei ripeanu",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8642,
+    "chunk_idx": 261,
+    "tese_id": "17"
+  },
+  {
+    "text": "gpu",
+    "text_norm": "gpu",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4015,
+    "chunk_idx": 261,
+    "tese_id": "17"
+  },
+  {
+    "text": "Al-Kiswany",
+    "text_norm": "al-kiswany",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8603,
+    "chunk_idx": 262,
+    "tese_id": "17"
+  },
+  {
+    "text": "Samer",
+    "text_norm": "samer",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7222,
+    "chunk_idx": 262,
+    "tese_id": "17"
+  },
+  {
+    "text": "Abdullah Gharaibeh",
+    "text_norm": "abdullah gharaibeh",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8812,
+    "chunk_idx": 262,
+    "tese_id": "17"
+  },
+  {
+    "text": "Elizeu Santos-Neto",
+    "text_norm": "elizeu santos-neto",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9169,
+    "chunk_idx": 262,
+    "tese_id": "17"
+  },
+  {
+    "text": "Matei Ripeanu",
+    "text_norm": "matei ripeanu",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9279,
+    "chunk_idx": 262,
+    "tese_id": "17"
+  },
+  {
+    "text": "ALTERA",
+    "text_norm": "altera",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4335,
+    "chunk_idx": 263,
+    "tese_id": "17"
+  },
+  {
+    "text": "C.C. F. Pereira",
+    "text_norm": "c.c. f. pereira",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7584,
+    "chunk_idx": 263,
+    "tese_id": "17"
+  },
+  {
+    "text": "Geovandro",
+    "text_norm": "geovandro",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6266,
+    "chunk_idx": 263,
+    "tese_id": "17"
+  },
+  {
+    "text": "Renan C. A. Alves",
+    "text_norm": "renan c. a. alves",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7416,
+    "chunk_idx": 263,
+    "tese_id": "17"
+  },
+  {
+    "text": "Felipe Da Silva L.",
+    "text_norm": "felipe da silva l.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7852,
+    "chunk_idx": 263,
+    "tese_id": "17"
+  },
+  {
+    "text": "Roberto M. Azevedo",
+    "text_norm": "roberto m. azevedo",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8608,
+    "chunk_idx": 263,
+    "tese_id": "17"
+  },
+  {
+    "text": "Bruno C. Albertini",
+    "text_norm": "bruno c. albertini",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8625,
+    "chunk_idx": 263,
+    "tese_id": "17"
+  },
+  {
+    "text": "Cíntia B. Margi",
+    "text_norm": "cíntia b. margi",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8342,
+    "chunk_idx": 263,
+    "tese_id": "17"
+  },
+  {
+    "text": "Compton, Katherine",
+    "text_norm": "compton, katherine",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6319,
+    "chunk_idx": 264,
+    "tese_id": "17"
+  },
+  {
+    "text": "Scott Hauck",
+    "text_norm": "scott hauck",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7282,
+    "chunk_idx": 264,
+    "tese_id": "17"
+  },
+  {
+    "text": "da Silva, Lucileide",
+    "text_norm": "da silva, lucileide",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4063,
+    "chunk_idx": 265,
+    "tese_id": "17"
+  },
+  {
+    "text": "Matheus Torquato",
+    "text_norm": "matheus torquato",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7141,
+    "chunk_idx": 265,
+    "tese_id": "17"
+  },
+  {
+    "text": "Marcelo A. C. Fernandes",
+    "text_norm": "marcelo a. c. fernandes",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7775,
+    "chunk_idx": 265,
+    "tese_id": "17"
+  },
+  {
+    "text": "fpga",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4348,
+    "chunk_idx": 265,
+    "tese_id": "17"
+  },
+  {
+    "text": "q-learning",
+    "text_norm": "q-learning",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.5001,
+    "chunk_idx": 265,
+    "tese_id": "17"
+  },
+  {
+    "text": "da Silva",
+    "text_norm": "da silva",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4419,
+    "chunk_idx": 265,
+    "tese_id": "17"
+  },
+  {
+    "text": "Lucileide Medeiros Dantas",
+    "text_norm": "lucileide medeiros dantas",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7089,
+    "chunk_idx": 265,
+    "tese_id": "17"
+  },
+  {
+    "text": "fpga",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.7165,
+    "chunk_idx": 266,
+    "tese_id": "17"
+  },
+  {
+    "text": "Universidade Federal do Rio Grande do Norte",
+    "text_norm": "universidade federal do rio grande do norte",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.9635,
+    "chunk_idx": 266,
+    "tese_id": "17"
+  },
+  {
+    "text": "UFRN",
+    "text_norm": "ufrn",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.765,
+    "chunk_idx": 266,
+    "tese_id": "17"
+  },
+  {
+    "text": "de Souza",
+    "text_norm": "de souza",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7832,
+    "chunk_idx": 266,
+    "tese_id": "17"
+  },
+  {
+    "text": "Alisson",
+    "text_norm": "alisson",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4196,
+    "chunk_idx": 266,
+    "tese_id": "17"
+  },
+  {
+    "text": "Marcelo Fernandes",
+    "text_norm": "marcelo fernandes",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8882,
+    "chunk_idx": 266,
+    "tese_id": "17"
+  },
+  {
+    "text": "fpga",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.6051,
+    "chunk_idx": 266,
+    "tese_id": "17"
+  },
+  {
+    "text": "Deepakumara",
+    "text_norm": "deepakumara",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6553,
+    "chunk_idx": 267,
+    "tese_id": "17"
+  },
+  {
+    "text": "H. M. Heys",
+    "text_norm": "h. m. heys",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.481,
+    "chunk_idx": 267,
+    "tese_id": "17"
+  },
+  {
+    "text": "R. Venkatesan",
+    "text_norm": "r. venkatesan",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7346,
+    "chunk_idx": 267,
+    "tese_id": "17"
+  },
+  {
+    "text": "md5 hash algorithm",
+    "text_norm": "md5 hash algorithm",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5435,
+    "chunk_idx": 267,
+    "tese_id": "17"
+  },
+  {
+    "text": "Floyd",
+    "text_norm": "floyd",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5791,
+    "chunk_idx": 268,
+    "tese_id": "17"
+  },
+  {
+    "text": "Thomas L",
+    "text_norm": "thomas l",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4633,
+    "chunk_idx": 268,
+    "tese_id": "17"
+  },
+  {
+    "text": "He, D. & Z. Xue",
+    "text_norm": "he, d. & z. xue",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4596,
+    "chunk_idx": 269,
+    "tese_id": "17"
+  },
+  {
+    "text": "fpga",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4028,
+    "chunk_idx": 269,
+    "tese_id": "17"
+  },
+  {
+    "text": "INTEL",
+    "text_norm": "intel",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.9151,
+    "chunk_idx": 269,
+    "tese_id": "17"
+  },
+  {
+    "text": "Intel",
+    "text_norm": "intel",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.9211,
+    "chunk_idx": 269,
+    "tese_id": "17"
+  },
+  {
+    "text": "fpga",
+    "text_norm": "fpga",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5207,
+    "chunk_idx": 269,
+    "tese_id": "17"
+  },
+  {
+    "text": "Intel",
+    "text_norm": "intel",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.924,
+    "chunk_idx": 269,
+    "tese_id": "17"
+  },
+  {
+    "text": "Altera",
+    "text_norm": "altera",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.432,
+    "chunk_idx": 270,
+    "tese_id": "17"
+  },
+  {
+    "text": "Iyer",
+    "text_norm": "iyer",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7382,
+    "chunk_idx": 271,
+    "tese_id": "17"
+  },
+  {
+    "text": "Nalini C.",
+    "text_norm": "nalini c.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6386,
+    "chunk_idx": 271,
+    "tese_id": "17"
+  },
+  {
+    "text": "Sagarika Mandal",
+    "text_norm": "sagarika mandal",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9128,
+    "chunk_idx": 271,
+    "tese_id": "17"
+  },
+  {
+    "text": "Jarvinen",
+    "text_norm": "jarvinen",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9343,
+    "chunk_idx": 272,
+    "tese_id": "17"
+  },
+  {
+    "text": "M. Tommiska",
+    "text_norm": "m. tommiska",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4817,
+    "chunk_idx": 272,
+    "tese_id": "17"
+  },
+  {
+    "text": "J. Skytta",
+    "text_norm": "j. skytta",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7345,
+    "chunk_idx": 272,
+    "tese_id": "17"
+  },
+  {
+    "text": "md5 hash algorithm",
+    "text_norm": "md5 hash algorithm",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6271,
+    "chunk_idx": 272,
+    "tese_id": "17"
+  },
+  {
+    "text": "Jarvinen",
+    "text_norm": "jarvinen",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9242,
+    "chunk_idx": 272,
+    "tese_id": "17"
+  },
+  {
+    "text": "fpgas",
+    "text_norm": "fpgas",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.4594,
+    "chunk_idx": 272,
+    "tese_id": "17"
+  },
+  {
+    "text": "Kakarountas",
+    "text_norm": "kakarountas",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7325,
+    "chunk_idx": 273,
+    "tese_id": "17"
+  },
+  {
+    "text": "Athanasios P.",
+    "text_norm": "athanasios p.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6413,
+    "chunk_idx": 273,
+    "tese_id": "17"
+  },
+  {
+    "text": "Haralambos Michail",
+    "text_norm": "haralambos michail",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7691,
+    "chunk_idx": 273,
+    "tese_id": "17"
+  },
+  {
+    "text": "Athanasios Milidonis",
+    "text_norm": "athanasios milidonis",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.822,
+    "chunk_idx": 273,
+    "tese_id": "17"
+  },
+  {
+    "text": "Costas E. Goutis",
+    "text_norm": "costas e. goutis",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7807,
+    "chunk_idx": 273,
+    "tese_id": "17"
+  },
+  {
+    "text": "George Theodoridis",
+    "text_norm": "george theodoridis",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8481,
+    "chunk_idx": 273,
+    "tese_id": "17"
+  },
+  {
+    "text": "ipsec",
+    "text_norm": "ipsec",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.6056,
+    "chunk_idx": 273,
+    "tese_id": "17"
+  },
+  {
+    "text": "Khan, Shahzad",
+    "text_norm": "khan, shahzad",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.3557,
+    "chunk_idx": 273,
+    "tese_id": "17"
+  },
+  {
+    "text": "Zain ul Abideen",
+    "text_norm": "zain ul abideen",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.581,
+    "chunk_idx": 273,
+    "tese_id": "17"
+  },
+  {
+    "text": "Shahzad Shahid Paracha",
+    "text_norm": "shahzad shahid paracha",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6439,
+    "chunk_idx": 273,
+    "tese_id": "17"
+  },
+  {
+    "text": "sha-1 hash algorithm",
+    "text_norm": "sha-1 hash algorithm",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5746,
+    "chunk_idx": 274,
+    "tese_id": "17"
+  },
+  {
+    "text": "Kim, Keonwoo",
+    "text_norm": "kim, keonwoo",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6371,
+    "chunk_idx": 274,
+    "tese_id": "17"
+  },
+  {
+    "text": "Un Sung Kyong",
+    "text_norm": "un sung kyong",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7625,
+    "chunk_idx": 274,
+    "tese_id": "17"
+  },
+  {
+    "text": "md5 algorithm",
+    "text_norm": "md5 algorithm",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5318,
+    "chunk_idx": 274,
+    "tese_id": "17"
+  }
+]

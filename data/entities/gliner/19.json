@@ -1,0 +1,2774 @@
+[
+  {
+    "text": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "text_norm": "universidade federal do rio grande do norte",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.9828,
+    "chunk_idx": 0,
+    "tese_id": "19"
+  },
+  {
+    "text": "Tiago Fernando Barbosa de Sousa",
+    "text_norm": "tiago fernando barbosa de sousa",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7719,
+    "chunk_idx": 1,
+    "tese_id": "19"
+  },
+  {
+    "text": "Prof. Dr. Marcelo Augusto Costa Fernandes",
+    "text_norm": "prof. dr. marcelo augusto costa fernandes",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6851,
+    "chunk_idx": 1,
+    "tese_id": "19"
+  },
+  {
+    "text": "Programa de Pós-Graduação em Engenharia",
+    "text_norm": "programa de pós-graduação em engenharia",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.7334,
+    "chunk_idx": 1,
+    "tese_id": "19"
+  },
+  {
+    "text": "UFRN",
+    "text_norm": "ufrn",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.9059,
+    "chunk_idx": 2,
+    "tese_id": "19"
+  },
+  {
+    "text": "Sousa",
+    "text_norm": "sousa",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.3932,
+    "chunk_idx": 3,
+    "tese_id": "19"
+  },
+  {
+    "text": "Tiago Fernando Barbosa de",
+    "text_norm": "tiago fernando barbosa de",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6424,
+    "chunk_idx": 3,
+    "tese_id": "19"
+  },
+  {
+    "text": "Tiago Fernando Barbosa de Sousa",
+    "text_norm": "tiago fernando barbosa de sousa",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9145,
+    "chunk_idx": 4,
+    "tese_id": "19"
+  },
+  {
+    "text": "Programa de Pós-Graduação em Engenharia Elétrica e de Computação",
+    "text_norm": "programa de pós-graduação em engenharia elétrica e de computação",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.5867,
+    "chunk_idx": 4,
+    "tese_id": "19"
+  },
+  {
+    "text": "UFRN",
+    "text_norm": "ufrn",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.8309,
+    "chunk_idx": 4,
+    "tese_id": "19"
+  },
+  {
+    "text": "Universidade Federal do Rio Grande do Norte",
+    "text_norm": "universidade federal do rio grande do norte",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.7848,
+    "chunk_idx": 4,
+    "tese_id": "19"
+  },
+  {
+    "text": "Redes Neurais",
+    "text_norm": "redes neurais",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4017,
+    "chunk_idx": 5,
+    "tese_id": "19"
+  },
+  {
+    "text": "Equalização Adaptativa",
+    "text_norm": "equalização adaptativa",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3646,
+    "chunk_idx": 5,
+    "tese_id": "19"
+  },
+  {
+    "text": "Equalizador Neural",
+    "text_norm": "equalizador neural",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3953,
+    "chunk_idx": 5,
+    "tese_id": "19"
+  },
+  {
+    "text": "Maria de Lourdes",
+    "text_norm": "maria de lourdes",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.468,
+    "chunk_idx": 6,
+    "tese_id": "19"
+  },
+  {
+    "text": "José Rinaldo",
+    "text_norm": "josé rinaldo",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5527,
+    "chunk_idx": 6,
+    "tese_id": "19"
+  },
+  {
+    "text": "Tácio Francisco",
+    "text_norm": "tácio francisco",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6328,
+    "chunk_idx": 6,
+    "tese_id": "19"
+  },
+  {
+    "text": "Camilla Milena",
+    "text_norm": "camilla milena",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5099,
+    "chunk_idx": 6,
+    "tese_id": "19"
+  },
+  {
+    "text": "Marcelo Fernandes",
+    "text_norm": "marcelo fernandes",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6326,
+    "chunk_idx": 6,
+    "tese_id": "19"
+  },
+  {
+    "text": "Flowkore",
+    "text_norm": "flowkore",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.473,
+    "chunk_idx": 7,
+    "tese_id": "19"
+  },
+  {
+    "text": "Equalização Adaptativa",
+    "text_norm": "equalização adaptativa",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4238,
+    "chunk_idx": 9,
+    "tese_id": "19"
+  },
+  {
+    "text": "optical channel",
+    "text_norm": "optical channel",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.4954,
+    "chunk_idx": 10,
+    "tese_id": "19"
+  },
+  {
+    "text": "Adaptive equalizers",
+    "text_norm": "adaptive equalizers",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3704,
+    "chunk_idx": 11,
+    "tese_id": "19"
+  },
+  {
+    "text": "adaptive equalization",
+    "text_norm": "adaptive equalization",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6049,
+    "chunk_idx": 12,
+    "tese_id": "19"
+  },
+  {
+    "text": "Adaptive Equalization",
+    "text_norm": "adaptive equalization",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.7667,
+    "chunk_idx": 12,
+    "tese_id": "19"
+  },
+  {
+    "text": "Neural Networks",
+    "text_norm": "neural networks",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.539,
+    "chunk_idx": 12,
+    "tese_id": "19"
+  },
+  {
+    "text": "Neural Equalizer",
+    "text_norm": "neural equalizer",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6431,
+    "chunk_idx": 12,
+    "tese_id": "19"
+  },
+  {
+    "text": "Perceptron de Múltiplas Camadas",
+    "text_norm": "perceptron de múltiplas camadas",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4969,
+    "chunk_idx": 13,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP",
+    "text_norm": "mlp",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4174,
+    "chunk_idx": 13,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP",
+    "text_norm": "mlp",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4426,
+    "chunk_idx": 15,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP-AC",
+    "text_norm": "mlp-ac",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.4244,
+    "chunk_idx": 17,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP-AD",
+    "text_norm": "mlp-ad",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.411,
+    "chunk_idx": 17,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.3514,
+    "chunk_idx": 17,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP-EC",
+    "text_norm": "enb-mlp-ec",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.4136,
+    "chunk_idx": 18,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP-AC",
+    "text_norm": "mlp-ac",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.4485,
+    "chunk_idx": 20,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP-AD",
+    "text_norm": "mlp-ad",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.4309,
+    "chunk_idx": 20,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.3579,
+    "chunk_idx": 20,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP-EC",
+    "text_norm": "enb-mlp-ec",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.4327,
+    "chunk_idx": 21,
+    "tese_id": "19"
+  },
+  {
+    "text": "Time Division Multiplexing",
+    "text_norm": "time division multiplexing",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.7257,
+    "chunk_idx": 22,
+    "tese_id": "19"
+  },
+  {
+    "text": "Wavelength Division Multiplexing",
+    "text_norm": "wavelength division multiplexing",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6288,
+    "chunk_idx": 22,
+    "tese_id": "19"
+  },
+  {
+    "text": "Singer et al",
+    "text_norm": "singer et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9372,
+    "chunk_idx": 26,
+    "tese_id": "19"
+  },
+  {
+    "text": "multiplexação",
+    "text_norm": "multiplexação",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.7833,
+    "chunk_idx": 26,
+    "tese_id": "19"
+  },
+  {
+    "text": "multiplexação",
+    "text_norm": "multiplexação",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.795,
+    "chunk_idx": 26,
+    "tese_id": "19"
+  },
+  {
+    "text": "Time Division Multiplexing",
+    "text_norm": "time division multiplexing",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.4673,
+    "chunk_idx": 27,
+    "tese_id": "19"
+  },
+  {
+    "text": "TDM",
+    "text_norm": "tdm",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.7867,
+    "chunk_idx": 27,
+    "tese_id": "19"
+  },
+  {
+    "text": "Wavelength Division Multiplexing",
+    "text_norm": "wavelength division multiplexing",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.5907,
+    "chunk_idx": 27,
+    "tese_id": "19"
+  },
+  {
+    "text": "WDM",
+    "text_norm": "wdm",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.8357,
+    "chunk_idx": 27,
+    "tese_id": "19"
+  },
+  {
+    "text": "TDM",
+    "text_norm": "tdm",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.8164,
+    "chunk_idx": 27,
+    "tese_id": "19"
+  },
+  {
+    "text": "WDM",
+    "text_norm": "wdm",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.8514,
+    "chunk_idx": 27,
+    "tese_id": "19"
+  },
+  {
+    "text": "Ramaswami et al",
+    "text_norm": "ramaswami et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8789,
+    "chunk_idx": 27,
+    "tese_id": "19"
+  },
+  {
+    "text": "Singer et al",
+    "text_norm": "singer et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9076,
+    "chunk_idx": 29,
+    "tese_id": "19"
+  },
+  {
+    "text": "Singh n.d.",
+    "text_norm": "singh n.d.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.89,
+    "chunk_idx": 30,
+    "tese_id": "19"
+  },
+  {
+    "text": "Kuschnerov",
+    "text_norm": "kuschnerov",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7992,
+    "chunk_idx": 31,
+    "tese_id": "19"
+  },
+  {
+    "text": "Katz & Sadot",
+    "text_norm": "katz & sadot",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8384,
+    "chunk_idx": 32,
+    "tese_id": "19"
+  },
+  {
+    "text": "Chandramouli",
+    "text_norm": "chandramouli",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5819,
+    "chunk_idx": 33,
+    "tese_id": "19"
+  },
+  {
+    "text": "Yu",
+    "text_norm": "yu",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9613,
+    "chunk_idx": 33,
+    "tese_id": "19"
+  },
+  {
+    "text": "Dai",
+    "text_norm": "dai",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9543,
+    "chunk_idx": 33,
+    "tese_id": "19"
+  },
+  {
+    "text": "Papagiannakis",
+    "text_norm": "papagiannakis",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6768,
+    "chunk_idx": 33,
+    "tese_id": "19"
+  },
+  {
+    "text": "Papagiannakis",
+    "text_norm": "papagiannakis",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4904,
+    "chunk_idx": 33,
+    "tese_id": "19"
+  },
+  {
+    "text": "Papagiannakis",
+    "text_norm": "papagiannakis",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5236,
+    "chunk_idx": 33,
+    "tese_id": "19"
+  },
+  {
+    "text": "Fickers",
+    "text_norm": "fickers",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4286,
+    "chunk_idx": 33,
+    "tese_id": "19"
+  },
+  {
+    "text": "Zeolla",
+    "text_norm": "zeolla",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.469,
+    "chunk_idx": 33,
+    "tese_id": "19"
+  },
+  {
+    "text": "redes neurais",
+    "text_norm": "redes neurais",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3556,
+    "chunk_idx": 33,
+    "tese_id": "19"
+  },
+  {
+    "text": "Gibson et al.",
+    "text_norm": "gibson et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5568,
+    "chunk_idx": 34,
+    "tese_id": "19"
+  },
+  {
+    "text": "Chen et al.",
+    "text_norm": "chen et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4864,
+    "chunk_idx": 34,
+    "tese_id": "19"
+  },
+  {
+    "text": "Cowan",
+    "text_norm": "cowan",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9253,
+    "chunk_idx": 34,
+    "tese_id": "19"
+  },
+  {
+    "text": "Haykin",
+    "text_norm": "haykin",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9386,
+    "chunk_idx": 34,
+    "tese_id": "19"
+  },
+  {
+    "text": "Proakis",
+    "text_norm": "proakis",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9369,
+    "chunk_idx": 34,
+    "tese_id": "19"
+  },
+  {
+    "text": "Peng et al.",
+    "text_norm": "peng et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.365,
+    "chunk_idx": 34,
+    "tese_id": "19"
+  },
+  {
+    "text": "Peng",
+    "text_norm": "peng",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4852,
+    "chunk_idx": 34,
+    "tese_id": "19"
+  },
+  {
+    "text": "H.Leung",
+    "text_norm": "h.leung",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6594,
+    "chunk_idx": 34,
+    "tese_id": "19"
+  },
+  {
+    "text": "Haykin",
+    "text_norm": "haykin",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8789,
+    "chunk_idx": 34,
+    "tese_id": "19"
+  },
+  {
+    "text": "Benvenuto",
+    "text_norm": "benvenuto",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7296,
+    "chunk_idx": 34,
+    "tese_id": "19"
+  },
+  {
+    "text": "Piazza",
+    "text_norm": "piazza",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4711,
+    "chunk_idx": 34,
+    "tese_id": "19"
+  },
+  {
+    "text": "Georgiou",
+    "text_norm": "georgiou",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7605,
+    "chunk_idx": 34,
+    "tese_id": "19"
+  },
+  {
+    "text": "Kim",
+    "text_norm": "kim",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7566,
+    "chunk_idx": 34,
+    "tese_id": "19"
+  },
+  {
+    "text": "Adali",
+    "text_norm": "adali",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8341,
+    "chunk_idx": 35,
+    "tese_id": "19"
+  },
+  {
+    "text": "Burse",
+    "text_norm": "burse",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4411,
+    "chunk_idx": 35,
+    "tese_id": "19"
+  },
+  {
+    "text": "Kechriotis et al.",
+    "text_norm": "kechriotis et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5817,
+    "chunk_idx": 35,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.472,
+    "chunk_idx": 36,
+    "tese_id": "19"
+  },
+  {
+    "text": "Fernandes et al.",
+    "text_norm": "fernandes et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.852,
+    "chunk_idx": 36,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.5517,
+    "chunk_idx": 37,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "EMPRESA",
+    "label_full": "organização ou empresa de tecnologia",
+    "score": 0.4973,
+    "chunk_idx": 37,
+    "tese_id": "19"
+  },
+  {
+    "text": "PMD",
+    "text_norm": "pmd",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.4923,
+    "chunk_idx": 38,
+    "tese_id": "19"
+  },
+  {
+    "text": "PMD",
+    "text_norm": "pmd",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.5557,
+    "chunk_idx": 38,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.7459,
+    "chunk_idx": 39,
+    "tese_id": "19"
+  },
+  {
+    "text": "Fernandes et al",
+    "text_norm": "fernandes et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9498,
+    "chunk_idx": 39,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.6809,
+    "chunk_idx": 39,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.8165,
+    "chunk_idx": 40,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.8153,
+    "chunk_idx": 40,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.5266,
+    "chunk_idx": 41,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.4525,
+    "chunk_idx": 41,
+    "tese_id": "19"
+  },
+  {
+    "text": "Fernandes",
+    "text_norm": "fernandes",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6051,
+    "chunk_idx": 42,
+    "tese_id": "19"
+  },
+  {
+    "text": "Marcelo A. C.",
+    "text_norm": "marcelo a. c.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.3834,
+    "chunk_idx": 42,
+    "tese_id": "19"
+  },
+  {
+    "text": "FERNANDES",
+    "text_norm": "fernandes",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6382,
+    "chunk_idx": 42,
+    "tese_id": "19"
+  },
+  {
+    "text": "SOUSA",
+    "text_norm": "sousa",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7936,
+    "chunk_idx": 43,
+    "tese_id": "19"
+  },
+  {
+    "text": "FERNANDES",
+    "text_norm": "fernandes",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7388,
+    "chunk_idx": 43,
+    "tese_id": "19"
+  },
+  {
+    "text": "sistemas guiados",
+    "text_norm": "sistemas guiados",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.3674,
+    "chunk_idx": 48,
+    "tese_id": "19"
+  },
+  {
+    "text": "Agrawal",
+    "text_norm": "agrawal",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4845,
+    "chunk_idx": 53,
+    "tese_id": "19"
+  },
+  {
+    "text": "Ramaswami et al.",
+    "text_norm": "ramaswami et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6239,
+    "chunk_idx": 55,
+    "tese_id": "19"
+  },
+  {
+    "text": "Agrawal",
+    "text_norm": "agrawal",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7898,
+    "chunk_idx": 55,
+    "tese_id": "19"
+  },
+  {
+    "text": "ﬁbra monomodo",
+    "text_norm": "ﬁbra monomodo",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.4263,
+    "chunk_idx": 56,
+    "tese_id": "19"
+  },
+  {
+    "text": "Ramaswami et al",
+    "text_norm": "ramaswami et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9188,
+    "chunk_idx": 56,
+    "tese_id": "19"
+  },
+  {
+    "text": "Ramaswami et al",
+    "text_norm": "ramaswami et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9211,
+    "chunk_idx": 60,
+    "tese_id": "19"
+  },
+  {
+    "text": "Ramaswami et al",
+    "text_norm": "ramaswami et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9198,
+    "chunk_idx": 62,
+    "tese_id": "19"
+  },
+  {
+    "text": "Ramaswami et al",
+    "text_norm": "ramaswami et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9292,
+    "chunk_idx": 63,
+    "tese_id": "19"
+  },
+  {
+    "text": "PMD",
+    "text_norm": "pmd",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6022,
+    "chunk_idx": 66,
+    "tese_id": "19"
+  },
+  {
+    "text": "Singer et al",
+    "text_norm": "singer et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6724,
+    "chunk_idx": 66,
+    "tese_id": "19"
+  },
+  {
+    "text": "PMD",
+    "text_norm": "pmd",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.7014,
+    "chunk_idx": 66,
+    "tese_id": "19"
+  },
+  {
+    "text": "Ramaswami et al",
+    "text_norm": "ramaswami et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5055,
+    "chunk_idx": 66,
+    "tese_id": "19"
+  },
+  {
+    "text": "PMD",
+    "text_norm": "pmd",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.6081,
+    "chunk_idx": 66,
+    "tese_id": "19"
+  },
+  {
+    "text": "PMD",
+    "text_norm": "pmd",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.3564,
+    "chunk_idx": 68,
+    "tese_id": "19"
+  },
+  {
+    "text": "Singer et al",
+    "text_norm": "singer et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8405,
+    "chunk_idx": 70,
+    "tese_id": "19"
+  },
+  {
+    "text": "OSNR",
+    "text_norm": "osnr",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.4369,
+    "chunk_idx": 71,
+    "tese_id": "19"
+  },
+  {
+    "text": "ase",
+    "text_norm": "ase",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3731,
+    "chunk_idx": 72,
+    "tese_id": "19"
+  },
+  {
+    "text": "OSNR",
+    "text_norm": "osnr",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.3837,
+    "chunk_idx": 72,
+    "tese_id": "19"
+  },
+  {
+    "text": "ASE",
+    "text_norm": "ase",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4343,
+    "chunk_idx": 72,
+    "tese_id": "19"
+  },
+  {
+    "text": "Wang & Kahn",
+    "text_norm": "wang & kahn",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8199,
+    "chunk_idx": 73,
+    "tese_id": "19"
+  },
+  {
+    "text": "Singer et al.",
+    "text_norm": "singer et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5498,
+    "chunk_idx": 73,
+    "tese_id": "19"
+  },
+  {
+    "text": "Kim",
+    "text_norm": "kim",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8444,
+    "chunk_idx": 73,
+    "tese_id": "19"
+  },
+  {
+    "text": "et al.",
+    "text_norm": "et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4021,
+    "chunk_idx": 74,
+    "tese_id": "19"
+  },
+  {
+    "text": "Park & Chung",
+    "text_norm": "park & chung",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8626,
+    "chunk_idx": 74,
+    "tese_id": "19"
+  },
+  {
+    "text": "Portela et al.",
+    "text_norm": "portela et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6651,
+    "chunk_idx": 74,
+    "tese_id": "19"
+  },
+  {
+    "text": "Khafaji et al.",
+    "text_norm": "khafaji et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7692,
+    "chunk_idx": 74,
+    "tese_id": "19"
+  },
+  {
+    "text": "Savory",
+    "text_norm": "savory",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9079,
+    "chunk_idx": 74,
+    "tese_id": "19"
+  },
+  {
+    "text": "PMD",
+    "text_norm": "pmd",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.3503,
+    "chunk_idx": 74,
+    "tese_id": "19"
+  },
+  {
+    "text": "Wang & Kahn",
+    "text_norm": "wang & kahn",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9216,
+    "chunk_idx": 75,
+    "tese_id": "19"
+  },
+  {
+    "text": "aliasing",
+    "text_norm": "aliasing",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.3773,
+    "chunk_idx": 77,
+    "tese_id": "19"
+  },
+  {
+    "text": "FIR",
+    "text_norm": "fir",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4122,
+    "chunk_idx": 78,
+    "tese_id": "19"
+  },
+  {
+    "text": "Kim et al.",
+    "text_norm": "kim et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8091,
+    "chunk_idx": 79,
+    "tese_id": "19"
+  },
+  {
+    "text": "Park & Chung",
+    "text_norm": "park & chung",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9223,
+    "chunk_idx": 79,
+    "tese_id": "19"
+  },
+  {
+    "text": "HPMD",
+    "text_norm": "hpmd",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.469,
+    "chunk_idx": 80,
+    "tese_id": "19"
+  },
+  {
+    "text": "HPMD",
+    "text_norm": "hpmd",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4531,
+    "chunk_idx": 80,
+    "tese_id": "19"
+  },
+  {
+    "text": "Kim et al.",
+    "text_norm": "kim et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8744,
+    "chunk_idx": 81,
+    "tese_id": "19"
+  },
+  {
+    "text": "Park & Chung",
+    "text_norm": "park & chung",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9425,
+    "chunk_idx": 81,
+    "tese_id": "19"
+  },
+  {
+    "text": "Haykin",
+    "text_norm": "haykin",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7831,
+    "chunk_idx": 83,
+    "tese_id": "19"
+  },
+  {
+    "text": "ISI",
+    "text_norm": "isi",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.389,
+    "chunk_idx": 84,
+    "tese_id": "19"
+  },
+  {
+    "text": "Haykin",
+    "text_norm": "haykin",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5722,
+    "chunk_idx": 84,
+    "tese_id": "19"
+  },
+  {
+    "text": "Proakis",
+    "text_norm": "proakis",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6004,
+    "chunk_idx": 84,
+    "tese_id": "19"
+  },
+  {
+    "text": "equalização adaptativa",
+    "text_norm": "equalização adaptativa",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4234,
+    "chunk_idx": 85,
+    "tese_id": "19"
+  },
+  {
+    "text": "ISI",
+    "text_norm": "isi",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4565,
+    "chunk_idx": 87,
+    "tese_id": "19"
+  },
+  {
+    "text": "algoritmos adaptativos",
+    "text_norm": "algoritmos adaptativos",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4222,
+    "chunk_idx": 87,
+    "tese_id": "19"
+  },
+  {
+    "text": "algoritmos",
+    "text_norm": "algoritmos",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3538,
+    "chunk_idx": 87,
+    "tese_id": "19"
+  },
+  {
+    "text": "ISI",
+    "text_norm": "isi",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4465,
+    "chunk_idx": 87,
+    "tese_id": "19"
+  },
+  {
+    "text": "Haykin",
+    "text_norm": "haykin",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7105,
+    "chunk_idx": 87,
+    "tese_id": "19"
+  },
+  {
+    "text": "Proakis",
+    "text_norm": "proakis",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.692,
+    "chunk_idx": 87,
+    "tese_id": "19"
+  },
+  {
+    "text": "da Silva 2001",
+    "text_norm": "da silva 2001",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7891,
+    "chunk_idx": 90,
+    "tese_id": "19"
+  },
+  {
+    "text": "Bayes",
+    "text_norm": "bayes",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6389,
+    "chunk_idx": 91,
+    "tese_id": "19"
+  },
+  {
+    "text": "canal de transmissão",
+    "text_norm": "canal de transmissão",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4711,
+    "chunk_idx": 92,
+    "tese_id": "19"
+  },
+  {
+    "text": "algoritmo de Viterbi",
+    "text_norm": "algoritmo de viterbi",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4768,
+    "chunk_idx": 92,
+    "tese_id": "19"
+  },
+  {
+    "text": "LTE",
+    "text_norm": "lte",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.6667,
+    "chunk_idx": 93,
+    "tese_id": "19"
+  },
+  {
+    "text": "algoritmo de Viterbi",
+    "text_norm": "algoritmo de viterbi",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.359,
+    "chunk_idx": 93,
+    "tese_id": "19"
+  },
+  {
+    "text": "da Silva 2001",
+    "text_norm": "da silva 2001",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7032,
+    "chunk_idx": 93,
+    "tese_id": "19"
+  },
+  {
+    "text": "LTE",
+    "text_norm": "lte",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.9662,
+    "chunk_idx": 94,
+    "tese_id": "19"
+  },
+  {
+    "text": "LTE",
+    "text_norm": "lte",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.9739,
+    "chunk_idx": 94,
+    "tese_id": "19"
+  },
+  {
+    "text": "LTE",
+    "text_norm": "lte",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.6645,
+    "chunk_idx": 95,
+    "tese_id": "19"
+  },
+  {
+    "text": "Kuschnerov et al",
+    "text_norm": "kuschnerov et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8326,
+    "chunk_idx": 95,
+    "tese_id": "19"
+  },
+  {
+    "text": "DFE",
+    "text_norm": "dfe",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.6869,
+    "chunk_idx": 95,
+    "tese_id": "19"
+  },
+  {
+    "text": "Park &",
+    "text_norm": "park &",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6307,
+    "chunk_idx": 95,
+    "tese_id": "19"
+  },
+  {
+    "text": "Chung",
+    "text_norm": "chung",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9392,
+    "chunk_idx": 96,
+    "tese_id": "19"
+  },
+  {
+    "text": "Katz & Sadot",
+    "text_norm": "katz & sadot",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4564,
+    "chunk_idx": 96,
+    "tese_id": "19"
+  },
+  {
+    "text": "Wang & Kahn",
+    "text_norm": "wang & kahn",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7388,
+    "chunk_idx": 96,
+    "tese_id": "19"
+  },
+  {
+    "text": "Zeolla et al.",
+    "text_norm": "zeolla et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.3864,
+    "chunk_idx": 96,
+    "tese_id": "19"
+  },
+  {
+    "text": "Proesel et al.",
+    "text_norm": "proesel et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4392,
+    "chunk_idx": 96,
+    "tese_id": "19"
+  },
+  {
+    "text": "Haykin",
+    "text_norm": "haykin",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9296,
+    "chunk_idx": 96,
+    "tese_id": "19"
+  },
+  {
+    "text": "Proakis",
+    "text_norm": "proakis",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9227,
+    "chunk_idx": 96,
+    "tese_id": "19"
+  },
+  {
+    "text": "Peng",
+    "text_norm": "peng",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6152,
+    "chunk_idx": 96,
+    "tese_id": "19"
+  },
+  {
+    "text": "Peng",
+    "text_norm": "peng",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7698,
+    "chunk_idx": 96,
+    "tese_id": "19"
+  },
+  {
+    "text": "H.Leung",
+    "text_norm": "h.leung",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5005,
+    "chunk_idx": 96,
+    "tese_id": "19"
+  },
+  {
+    "text": "Haykin",
+    "text_norm": "haykin",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8409,
+    "chunk_idx": 96,
+    "tese_id": "19"
+  },
+  {
+    "text": "Benvenuto",
+    "text_norm": "benvenuto",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6681,
+    "chunk_idx": 96,
+    "tese_id": "19"
+  },
+  {
+    "text": "Piazza",
+    "text_norm": "piazza",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8784,
+    "chunk_idx": 97,
+    "tese_id": "19"
+  },
+  {
+    "text": "Georgiou",
+    "text_norm": "georgiou",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.731,
+    "chunk_idx": 97,
+    "tese_id": "19"
+  },
+  {
+    "text": "Koutsougeras",
+    "text_norm": "koutsougeras",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.3742,
+    "chunk_idx": 97,
+    "tese_id": "19"
+  },
+  {
+    "text": "Kim",
+    "text_norm": "kim",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8347,
+    "chunk_idx": 97,
+    "tese_id": "19"
+  },
+  {
+    "text": "Adali",
+    "text_norm": "adali",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4868,
+    "chunk_idx": 97,
+    "tese_id": "19"
+  },
+  {
+    "text": "Burse",
+    "text_norm": "burse",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5135,
+    "chunk_idx": 97,
+    "tese_id": "19"
+  },
+  {
+    "text": "Kechriotis et al.",
+    "text_norm": "kechriotis et al.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4979,
+    "chunk_idx": 97,
+    "tese_id": "19"
+  },
+  {
+    "text": "LTE",
+    "text_norm": "lte",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.353,
+    "chunk_idx": 97,
+    "tese_id": "19"
+  },
+  {
+    "text": "Least Mean Square",
+    "text_norm": "least mean square",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3528,
+    "chunk_idx": 97,
+    "tese_id": "19"
+  },
+  {
+    "text": "Haykin",
+    "text_norm": "haykin",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8947,
+    "chunk_idx": 98,
+    "tese_id": "19"
+  },
+  {
+    "text": "Haykin 1999",
+    "text_norm": "haykin 1999",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7528,
+    "chunk_idx": 105,
+    "tese_id": "19"
+  },
+  {
+    "text": "Haykin",
+    "text_norm": "haykin",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7294,
+    "chunk_idx": 105,
+    "tese_id": "19"
+  },
+  {
+    "text": "rede neural",
+    "text_norm": "rede neural",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5093,
+    "chunk_idx": 105,
+    "tese_id": "19"
+  },
+  {
+    "text": "rede neural",
+    "text_norm": "rede neural",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3749,
+    "chunk_idx": 105,
+    "tese_id": "19"
+  },
+  {
+    "text": "Perceptron de Múltiplas Camadas",
+    "text_norm": "perceptron de múltiplas camadas",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5741,
+    "chunk_idx": 106,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP",
+    "text_norm": "mlp",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4201,
+    "chunk_idx": 106,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP",
+    "text_norm": "mlp",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4061,
+    "chunk_idx": 107,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP",
+    "text_norm": "mlp",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.3718,
+    "chunk_idx": 107,
+    "tese_id": "19"
+  },
+  {
+    "text": "algoritmo Backpropagation",
+    "text_norm": "algoritmo backpropagation",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7445,
+    "chunk_idx": 111,
+    "tese_id": "19"
+  },
+  {
+    "text": "Backpropagation",
+    "text_norm": "backpropagation",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7165,
+    "chunk_idx": 112,
+    "tese_id": "19"
+  },
+  {
+    "text": "método do gradiente",
+    "text_norm": "método do gradiente",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4882,
+    "chunk_idx": 113,
+    "tese_id": "19"
+  },
+  {
+    "text": "LMS",
+    "text_norm": "lms",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5537,
+    "chunk_idx": 113,
+    "tese_id": "19"
+  },
+  {
+    "text": "Backpropagation",
+    "text_norm": "backpropagation",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6471,
+    "chunk_idx": 115,
+    "tese_id": "19"
+  },
+  {
+    "text": "Kim & Adali",
+    "text_norm": "kim & adali",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.685,
+    "chunk_idx": 116,
+    "tese_id": "19"
+  },
+  {
+    "text": "Benvenuto",
+    "text_norm": "benvenuto",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.396,
+    "chunk_idx": 116,
+    "tese_id": "19"
+  },
+  {
+    "text": "Kim & Adali",
+    "text_norm": "kim & adali",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8377,
+    "chunk_idx": 117,
+    "tese_id": "19"
+  },
+  {
+    "text": "algoritmo Backpropagation",
+    "text_norm": "algoritmo backpropagation",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.7551,
+    "chunk_idx": 119,
+    "tese_id": "19"
+  },
+  {
+    "text": "Benvenuto & Piazza",
+    "text_norm": "benvenuto & piazza",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8758,
+    "chunk_idx": 120,
+    "tese_id": "19"
+  },
+  {
+    "text": "algoritmo do Backpropagation",
+    "text_norm": "algoritmo do backpropagation",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4817,
+    "chunk_idx": 122,
+    "tese_id": "19"
+  },
+  {
+    "text": "LTE",
+    "text_norm": "lte",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3678,
+    "chunk_idx": 123,
+    "tese_id": "19"
+  },
+  {
+    "text": "DFE",
+    "text_norm": "dfe",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3629,
+    "chunk_idx": 123,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP",
+    "text_norm": "mlp",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4802,
+    "chunk_idx": 123,
+    "tese_id": "19"
+  },
+  {
+    "text": "Singh n.d.",
+    "text_norm": "singh n.d.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9057,
+    "chunk_idx": 126,
+    "tese_id": "19"
+  },
+  {
+    "text": "Wang &",
+    "text_norm": "wang &",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8177,
+    "chunk_idx": 126,
+    "tese_id": "19"
+  },
+  {
+    "text": "4-QAM",
+    "text_norm": "4-qam",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.4947,
+    "chunk_idx": 126,
+    "tese_id": "19"
+  },
+  {
+    "text": "DFE",
+    "text_norm": "dfe",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3937,
+    "chunk_idx": 128,
+    "tese_id": "19"
+  },
+  {
+    "text": "Katz & Sadot",
+    "text_norm": "katz & sadot",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8737,
+    "chunk_idx": 128,
+    "tese_id": "19"
+  },
+  {
+    "text": "Equalizador Neural Bidimensional",
+    "text_norm": "equalizador neural bidimensional",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8705,
+    "chunk_idx": 129,
+    "tese_id": "19"
+  },
+  {
+    "text": "Equalizador Neural Bidimensional",
+    "text_norm": "equalizador neural bidimensional",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.8736,
+    "chunk_idx": 129,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP",
+    "text_norm": "mlp",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4163,
+    "chunk_idx": 130,
+    "tese_id": "19"
+  },
+  {
+    "text": "Equalizador Neural Bidimensional MLP",
+    "text_norm": "equalizador neural bidimensional mlp",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3961,
+    "chunk_idx": 130,
+    "tese_id": "19"
+  },
+  {
+    "text": "Fernandes et al",
+    "text_norm": "fernandes et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9503,
+    "chunk_idx": 130,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP-I",
+    "text_norm": "mlp-i",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4692,
+    "chunk_idx": 130,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP-Q",
+    "text_norm": "mlp-q",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4842,
+    "chunk_idx": 130,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "LANG",
+    "label_full": "linguagem de programação",
+    "score": 0.3756,
+    "chunk_idx": 131,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.4129,
+    "chunk_idx": 131,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP-I",
+    "text_norm": "mlp-i",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.5005,
+    "chunk_idx": 132,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP-Q",
+    "text_norm": "mlp-q",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.4641,
+    "chunk_idx": 132,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.4041,
+    "chunk_idx": 133,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP-EC",
+    "text_norm": "enb-mlp-ec",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4483,
+    "chunk_idx": 133,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.6135,
+    "chunk_idx": 134,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.7179,
+    "chunk_idx": 134,
+    "tese_id": "19"
+  },
+  {
+    "text": "algoritmo de decisão direta",
+    "text_norm": "algoritmo de decisão direta",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4749,
+    "chunk_idx": 135,
+    "tese_id": "19"
+  },
+  {
+    "text": "Decision Directed - DD",
+    "text_norm": "decision directed - dd",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5379,
+    "chunk_idx": 135,
+    "tese_id": "19"
+  },
+  {
+    "text": "Equalizador Neural Bidimensional",
+    "text_norm": "equalizador neural bidimensional",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3997,
+    "chunk_idx": 137,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.3855,
+    "chunk_idx": 139,
+    "tese_id": "19"
+  },
+  {
+    "text": "DFE",
+    "text_norm": "dfe",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.3819,
+    "chunk_idx": 139,
+    "tese_id": "19"
+  },
+  {
+    "text": "LTE",
+    "text_norm": "lte",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.3851,
+    "chunk_idx": 139,
+    "tese_id": "19"
+  },
+  {
+    "text": "4-QAM",
+    "text_norm": "4-qam",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.431,
+    "chunk_idx": 139,
+    "tese_id": "19"
+  },
+  {
+    "text": "4-QAM",
+    "text_norm": "4-qam",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.6308,
+    "chunk_idx": 140,
+    "tese_id": "19"
+  },
+  {
+    "text": "canal",
+    "text_norm": "canal",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.3847,
+    "chunk_idx": 144,
+    "tese_id": "19"
+  },
+  {
+    "text": "canal",
+    "text_norm": "canal",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.3853,
+    "chunk_idx": 144,
+    "tese_id": "19"
+  },
+  {
+    "text": "canal",
+    "text_norm": "canal",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.4328,
+    "chunk_idx": 144,
+    "tese_id": "19"
+  },
+  {
+    "text": "Fernandes et al",
+    "text_norm": "fernandes et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8724,
+    "chunk_idx": 144,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.5947,
+    "chunk_idx": 146,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP-EC",
+    "text_norm": "enb-mlp-ec",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.6172,
+    "chunk_idx": 146,
+    "tese_id": "19"
+  },
+  {
+    "text": "LTE-LMS",
+    "text_norm": "lte-lms",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.7184,
+    "chunk_idx": 148,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4979,
+    "chunk_idx": 149,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP-EC",
+    "text_norm": "enb-mlp-ec",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.5109,
+    "chunk_idx": 149,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP-AC",
+    "text_norm": "mlp-ac",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4074,
+    "chunk_idx": 149,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP-AD",
+    "text_norm": "mlp-ad",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.495,
+    "chunk_idx": 149,
+    "tese_id": "19"
+  },
+  {
+    "text": "LTE-LMS",
+    "text_norm": "lte-lms",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.6473,
+    "chunk_idx": 150,
+    "tese_id": "19"
+  },
+  {
+    "text": "DFE-LMS",
+    "text_norm": "dfe-lms",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.4811,
+    "chunk_idx": 150,
+    "tese_id": "19"
+  },
+  {
+    "text": "LMS",
+    "text_norm": "lms",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.4074,
+    "chunk_idx": 151,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4371,
+    "chunk_idx": 154,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP-EC",
+    "text_norm": "enb-mlp-ec",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4838,
+    "chunk_idx": 154,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLPAC",
+    "text_norm": "mlpac",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4159,
+    "chunk_idx": 154,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP-AD",
+    "text_norm": "mlp-ad",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4385,
+    "chunk_idx": 154,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP-AD",
+    "text_norm": "mlp-ad",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.4073,
+    "chunk_idx": 167,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP-AC",
+    "text_norm": "mlp-ac",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4481,
+    "chunk_idx": 167,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.3876,
+    "chunk_idx": 170,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP-EC",
+    "text_norm": "enb-mlp-ec",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.3628,
+    "chunk_idx": 170,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP-AD",
+    "text_norm": "mlp-ad",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3869,
+    "chunk_idx": 170,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP-AD",
+    "text_norm": "mlp-ad",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3865,
+    "chunk_idx": 170,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP-AC",
+    "text_norm": "mlp-ac",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4102,
+    "chunk_idx": 170,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP-EC",
+    "text_norm": "enb-mlp-ec",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4818,
+    "chunk_idx": 171,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP-AC",
+    "text_norm": "mlp-ac",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.4692,
+    "chunk_idx": 171,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP-AD",
+    "text_norm": "mlp-ad",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.521,
+    "chunk_idx": 171,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP-EC",
+    "text_norm": "enb-mlp-ec",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.3928,
+    "chunk_idx": 175,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP-AD",
+    "text_norm": "mlp-ad",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4387,
+    "chunk_idx": 177,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP-EC",
+    "text_norm": "enb-mlp-ec",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4506,
+    "chunk_idx": 177,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP-AD",
+    "text_norm": "mlp-ad",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4144,
+    "chunk_idx": 177,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4796,
+    "chunk_idx": 181,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4797,
+    "chunk_idx": 181,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP-EC",
+    "text_norm": "enb-mlp-ec",
+    "label": "HARDWARE",
+    "label_full": "hardware ou plataforma embarcada",
+    "score": 0.4681,
+    "chunk_idx": 181,
+    "tese_id": "19"
+  },
+  {
+    "text": "LTE-LMS",
+    "text_norm": "lte-lms",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.9155,
+    "chunk_idx": 182,
+    "tese_id": "19"
+  },
+  {
+    "text": "DFE-LMS",
+    "text_norm": "dfe-lms",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.8009,
+    "chunk_idx": 182,
+    "tese_id": "19"
+  },
+  {
+    "text": "LTE-LMS",
+    "text_norm": "lte-lms",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.9328,
+    "chunk_idx": 182,
+    "tese_id": "19"
+  },
+  {
+    "text": "DFE-LMS",
+    "text_norm": "dfe-lms",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.7603,
+    "chunk_idx": 182,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP-EC",
+    "text_norm": "enb-mlp-ec",
+    "label": "FRAMEWORK",
+    "label_full": "framework ou biblioteca de software",
+    "score": 0.5895,
+    "chunk_idx": 185,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4212,
+    "chunk_idx": 189,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP",
+    "text_norm": "mlp",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.3742,
+    "chunk_idx": 189,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP-I",
+    "text_norm": "mlp-i",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.3933,
+    "chunk_idx": 189,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP-Q",
+    "text_norm": "mlp-q",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.514,
+    "chunk_idx": 189,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.5426,
+    "chunk_idx": 189,
+    "tese_id": "19"
+  },
+  {
+    "text": "LTE-LMS",
+    "text_norm": "lte-lms",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.7351,
+    "chunk_idx": 191,
+    "tese_id": "19"
+  },
+  {
+    "text": "DFE-LMS",
+    "text_norm": "dfe-lms",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.7196,
+    "chunk_idx": 191,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP-AC",
+    "text_norm": "mlp-ac",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.5613,
+    "chunk_idx": 191,
+    "tese_id": "19"
+  },
+  {
+    "text": "MLP-AD",
+    "text_norm": "mlp-ad",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.5942,
+    "chunk_idx": 191,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.4851,
+    "chunk_idx": 191,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP-EC",
+    "text_norm": "enb-mlp-ec",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.5527,
+    "chunk_idx": 191,
+    "tese_id": "19"
+  },
+  {
+    "text": "ENB-MLP",
+    "text_norm": "enb-mlp",
+    "label": "PROTOCOLO",
+    "label_full": "protocolo ou padrão de comunicação",
+    "score": 0.5329,
+    "chunk_idx": 193,
+    "tese_id": "19"
+  },
+  {
+    "text": "Remmersmann et al",
+    "text_norm": "remmersmann et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.76,
+    "chunk_idx": 194,
+    "tese_id": "19"
+  },
+  {
+    "text": "Fludger et al",
+    "text_norm": "fludger et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4463,
+    "chunk_idx": 194,
+    "tese_id": "19"
+  },
+  {
+    "text": "Fatadin et al",
+    "text_norm": "fatadin et al",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6315,
+    "chunk_idx": 194,
+    "tese_id": "19"
+  },
+  {
+    "text": "Agrawal",
+    "text_norm": "agrawal",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6338,
+    "chunk_idx": 195,
+    "tese_id": "19"
+  },
+  {
+    "text": "Fiber-Optic Communication Systems",
+    "text_norm": "fiber-optic communication systems",
+    "label": "ALGORITMO",
+    "label_full": "algoritmo ou técnica de inteligência artificial",
+    "score": 0.3728,
+    "chunk_idx": 195,
+    "tese_id": "19"
+  },
+  {
+    "text": "F. Piazza",
+    "text_norm": "f. piazza",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4876,
+    "chunk_idx": 195,
+    "tese_id": "19"
+  },
+  {
+    "text": "S. Shrivastava",
+    "text_norm": "s. shrivastava",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5747,
+    "chunk_idx": 195,
+    "tese_id": "19"
+  },
+  {
+    "text": "Chandramouli",
+    "text_norm": "chandramouli",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7831,
+    "chunk_idx": 196,
+    "tese_id": "19"
+  },
+  {
+    "text": "Soumya",
+    "text_norm": "soumya",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5136,
+    "chunk_idx": 196,
+    "tese_id": "19"
+  },
+  {
+    "text": "Franklin Bien",
+    "text_norm": "franklin bien",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9043,
+    "chunk_idx": 196,
+    "tese_id": "19"
+  },
+  {
+    "text": "Hyoungsoo Kim",
+    "text_norm": "hyoungsoo kim",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8924,
+    "chunk_idx": 196,
+    "tese_id": "19"
+  },
+  {
+    "text": "Chris Scholz",
+    "text_norm": "chris scholz",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.908,
+    "chunk_idx": 196,
+    "tese_id": "19"
+  },
+  {
+    "text": "Edward Gebara",
+    "text_norm": "edward gebara",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.9145,
+    "chunk_idx": 196,
+    "tese_id": "19"
+  },
+  {
+    "text": "Joy Laskar",
+    "text_norm": "joy laskar",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.8942,
+    "chunk_idx": 196,
+    "tese_id": "19"
+  },
+  {
+    "text": "Chen",
+    "text_norm": "chen",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6225,
+    "chunk_idx": 197,
+    "tese_id": "19"
+  },
+  {
+    "text": "G. J. Gibson",
+    "text_norm": "g. j. gibson",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.6751,
+    "chunk_idx": 197,
+    "tese_id": "19"
+  },
+  {
+    "text": "C. F. N. Cowan",
+    "text_norm": "c. f. n. cowan",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7234,
+    "chunk_idx": 197,
+    "tese_id": "19"
+  },
+  {
+    "text": "P. M. Grant",
+    "text_norm": "p. m. grant",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.7412,
+    "chunk_idx": 197,
+    "tese_id": "19"
+  },
+  {
+    "text": "Cowan",
+    "text_norm": "cowan",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.435,
+    "chunk_idx": 197,
+    "tese_id": "19"
+  },
+  {
+    "text": "Digital Processing of Signals in Communications",
+    "text_norm": "digital processing of signals in communications",
+    "label": "METODO",
+    "label_full": "método ou técnica computacional",
+    "score": 0.4263,
+    "chunk_idx": 197,
+    "tese_id": "19"
+  },
+  {
+    "text": "da Silva",
+    "text_norm": "da silva",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.3553,
+    "chunk_idx": 197,
+    "tese_id": "19"
+  },
+  {
+    "text": "Magno Teóﬁlo Madeira",
+    "text_norm": "magno teóﬁlo madeira",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5248,
+    "chunk_idx": 197,
+    "tese_id": "19"
+  },
+  {
+    "text": "Escola Politécnica da Universade de São Paulo",
+    "text_norm": "escola politécnica da universade de são paulo",
+    "label": "INSTITUICAO",
+    "label_full": "instituição de ensino ou pesquisa",
+    "score": 0.8125,
+    "chunk_idx": 197,
+    "tese_id": "19"
+  },
+  {
+    "text": "Dai",
+    "text_norm": "dai",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.4887,
+    "chunk_idx": 197,
+    "tese_id": "19"
+  },
+  {
+    "text": "Foster F.",
+    "text_norm": "foster f.",
+    "label": "AUTOR",
+    "label_full": "pesquisador ou autor",
+    "score": 0.5617,
+    "chunk_idx": 197,
+    "tese_id": "19"
+  }
+]
